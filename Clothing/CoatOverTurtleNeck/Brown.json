@@ -1,0 +1,11 @@
+{
+  "family": "CoatOverTurtleNeck",
+  "slot": "Shirt",
+  "variant": "Brown",
+  "displayGuess": "CoatOverTurtleNeck (Brown)",
+  "combinationAsset": "CoatOverTurtleNeck_Shirt_Brown_Combination.asset",
+  "combinationGuid": "_3hxdSy9wU6OUPZJA9kGmA",
+  "combinationGuidDashed": "757178ff-bd2c-4ec1-8e50-f64903d90698",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

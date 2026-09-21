@@ -1,0 +1,11 @@
+{
+  "family": "Beekeeper",
+  "slot": "Shirt",
+  "variant": "Lavender",
+  "displayGuess": "Beekeeper (Lavender)",
+  "combinationAsset": "Beekeeper_Shirt_Lavender_Combination.asset",
+  "combinationGuid": "lBe3yxuE40eBmTrnEHBqQQ,afd88a79-7f03-40f6-bcb4-c247dd86edc4,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

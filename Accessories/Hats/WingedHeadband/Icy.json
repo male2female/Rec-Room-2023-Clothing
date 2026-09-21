@@ -1,0 +1,11 @@
+{
+  "family": "WingedHeadband",
+  "slot": "Hat",
+  "variant": "Icy",
+  "displayGuess": "WingedHeadband (Icy)",
+  "combinationAsset": "WingedHeadband_Hat_Icy_Combination.asset",
+  "combinationGuid": "wwT8NdC-bk-aAWLoJvef5A",
+  "combinationGuidDashed": "35fc04c3-bed0-4f6e-9a01-62e826f79fe4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

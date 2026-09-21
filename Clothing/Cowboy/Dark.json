@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Shirt",
+  "variant": "Dark",
+  "displayGuess": "Cowboy (Dark)",
+  "combinationAsset": "Cowboy_Shirt_Dark_Combination.asset",
+  "combinationGuid": "192ba73d-6990-42da-8fe0-914c2a7181eb,98553538-cafd-4df9-8f37-bb0a4bb478a5,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

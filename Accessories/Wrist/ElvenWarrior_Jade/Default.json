@@ -1,0 +1,11 @@
+{
+  "family": "ElvenWarrior_Jade",
+  "slot": "Wrist",
+  "variant": "Default",
+  "displayGuess": "ElvenWarrior_Jade",
+  "combinationAsset": "ElvenWarrior_Jade_Wrist_Combination.asset",
+  "combinationGuid": "MzNNQ6T1HEqbqcLXZIulLw",
+  "combinationGuidDashed": "434d3333-f5a4-4a1c-9ba9-c2d7648ba52f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

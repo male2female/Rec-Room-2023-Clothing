@@ -1,0 +1,11 @@
+{
+  "family": "AnimalSweater",
+  "slot": "Shirt",
+  "variant": "Toucan",
+  "displayGuess": "AnimalSweater (Toucan)",
+  "combinationAsset": "AnimalSweater_Shirt_Toucan_Combination.asset",
+  "combinationGuid": "yXVeN9SzQUKE_6u_2KPzgw,sWgRczvpUU6ZHeoMrMD_yw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

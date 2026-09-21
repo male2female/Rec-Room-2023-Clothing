@@ -1,0 +1,11 @@
+{
+  "family": "TreasureHunterBelt",
+  "slot": "Belt",
+  "variant": "Black",
+  "displayGuess": "TreasureHunterBelt (Black)",
+  "combinationAsset": "TreasureHunterBelt_Belt_Black_Combination.asset",
+  "combinationGuid": "lAjUeUtTLU2-3bG2OXBukg,LFB_YqTym0-tQmUIj-YcYA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

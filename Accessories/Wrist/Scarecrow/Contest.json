@@ -1,0 +1,11 @@
+{
+  "family": "Scarecrow",
+  "slot": "Wrist",
+  "variant": "Contest",
+  "displayGuess": "Scarecrow (Contest)",
+  "combinationAsset": "Scarecrow_Wrist_Contest_Combination.asset",
+  "combinationGuid": "dro7VLV8BkGjqpPAbJheYA,bNA44H2wzUy-FkWgyOq1Kw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "FestiveAntlers",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "FestiveAntlers (Red)",
+  "combinationAsset": "FestiveAntlers_Hat_Red_Combination.asset",
+  "combinationGuid": "1LtCxaCDjUmg62fYCjNUSQ",
+  "combinationGuidDashed": "c542bbd4-83a0-498d-a0eb-67d80a335449",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BackSword",
+  "slot": "Shoulder",
+  "variant": "Sports",
+  "displayGuess": "BackSword (Sports)",
+  "combinationAsset": "BackSword_Shoulder_Sports_Combination.asset",
+  "combinationGuid": "rFCKF2ku1UWj-TF-VClPRg",
+  "combinationGuidDashed": "178a50ac-2e69-45d5-a3f9-317e54294f46",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

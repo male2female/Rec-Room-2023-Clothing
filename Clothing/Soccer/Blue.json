@@ -1,0 +1,11 @@
+{
+  "family": "Soccer",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Soccer (Blue)",
+  "combinationAsset": "Soccer_Shirt_Blue_Combination.asset",
+  "combinationGuid": "OnQeVxdstkS2zGxLBAuM3Q,i8bvbGAKREmAEbjKO-geOQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

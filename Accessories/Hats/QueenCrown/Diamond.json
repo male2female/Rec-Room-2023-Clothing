@@ -1,0 +1,11 @@
+{
+  "family": "QueenCrown",
+  "slot": "Hat",
+  "variant": "Diamond",
+  "displayGuess": "QueenCrown (Diamond)",
+  "combinationAsset": "QueenCrown_Hat_Diamond_Combination.asset",
+  "combinationGuid": "rxMCIkLb2UO0Z3tsqtYuSw,x8nPf0xEwUiRdBQU00Bu1g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Laser_Graffiti",
+  "displayGuess": "MaleTShirt (Laser_Graffiti)",
+  "combinationAsset": "MaleTShirt_Shirt_Laser_Graffiti_Combination.asset",
+  "combinationGuid": "g4diCmk0wEmIKUVozk9tDA,0440f08f-ef1d-49d8-942b-523056e8bb45,nHg4Uifww0GEX15L27WonA",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

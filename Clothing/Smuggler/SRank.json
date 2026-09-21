@@ -1,0 +1,11 @@
+{
+  "family": "Smuggler",
+  "slot": "Shirt",
+  "variant": "SRank",
+  "displayGuess": "Smuggler (SRank)",
+  "combinationAsset": "Smuggler_Shirt_SRank_Combination.asset",
+  "combinationGuid": "bzYdPb8GWUS-CgT4wrziIA,970a8c7e-d091-4719-bb9c-e3be8d46ee68,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

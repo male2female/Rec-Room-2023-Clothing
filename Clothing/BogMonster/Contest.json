@@ -1,0 +1,11 @@
+{
+  "family": "BogMonster",
+  "slot": "Shirt",
+  "variant": "Contest",
+  "displayGuess": "BogMonster (Contest)",
+  "combinationAsset": "BogMonster_Shirt_Contest_Combination.asset",
+  "combinationGuid": "2jj5lxx6Gka5U6j0cWjN5w,HQnd9m0Wi0upaXRNsE5HPQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

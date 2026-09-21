@@ -1,0 +1,11 @@
+{
+  "family": "MoonandStarsDress",
+  "slot": "Shirt",
+  "variant": "Jigsaw",
+  "displayGuess": "MoonandStarsDress (Jigsaw)",
+  "combinationAsset": "MoonandStarsDress_Shirt_Jigsaw_Combination.asset",
+  "combinationGuid": "4PI6XssggEKRxkGlWeo8KQ",
+  "combinationGuidDashed": "5e3af2e0-20cb-4280-91c6-41a559ea3c29",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

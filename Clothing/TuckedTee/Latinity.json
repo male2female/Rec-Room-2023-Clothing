@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "Latinity",
+  "displayGuess": "TuckedTee (Latinity)",
+  "combinationAsset": "TuckedTee_Shirt_Latinity_Combination.asset",
+  "combinationGuid": "iIjl6PamKECL_JWvrZNHfg,2IFVtBYV8EqQXs8XHqeqdg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

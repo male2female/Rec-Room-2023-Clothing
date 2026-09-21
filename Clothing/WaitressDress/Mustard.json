@@ -1,0 +1,11 @@
+{
+  "family": "WaitressDress",
+  "slot": "Shirt",
+  "variant": "Mustard",
+  "displayGuess": "WaitressDress (Mustard)",
+  "combinationAsset": "WaitressDress_Shirt_Mustard_Combination.asset",
+  "combinationGuid": "YvPeCbQS2UOcLjPfoIML_g,ORmS9HkfoUeFuO4RhqcW7g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

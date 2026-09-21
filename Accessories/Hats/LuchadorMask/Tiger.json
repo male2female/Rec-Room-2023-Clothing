@@ -1,0 +1,11 @@
+{
+  "family": "LuchadorMask",
+  "slot": "Hat",
+  "variant": "Tiger",
+  "displayGuess": "LuchadorMask (Tiger)",
+  "combinationAsset": "LuchadorMask_Hat_Tiger_Combination.asset",
+  "combinationGuid": "RA7cizxxYE6J8yV_0XwPxA,VSLcLM0TJU2kJU5gS4KZGw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

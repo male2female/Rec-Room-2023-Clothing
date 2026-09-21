@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "Snowflake",
+  "displayGuess": "Blazer (Snowflake)",
+  "combinationAsset": "Blazer_Shirt_Snowflake_Combination.asset",
+  "combinationGuid": "YlgQOY1VJUuGzYxoTYAqGg,jhQ23U8Pmk2K2wfBdrEWNA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

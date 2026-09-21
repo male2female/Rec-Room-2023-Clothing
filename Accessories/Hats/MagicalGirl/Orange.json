@@ -1,0 +1,11 @@
+{
+  "family": "MagicalGirl",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "MagicalGirl (Orange)",
+  "combinationAsset": "MagicalGirl_Hat_Orange_Combination.asset",
+  "combinationGuid": "f0pjsV0XMUWoE_z2kqOlSA,mG60EPIQIkaJNgOkonVmZg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

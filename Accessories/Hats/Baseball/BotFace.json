@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "BotFace",
+  "displayGuess": "Baseball (BotFace)",
+  "combinationAsset": "Baseball_Hat_BotFace_Combination.asset",
+  "combinationGuid": "W-xMu8n2CUuHSXfHvEL4yw,-apO3Y7om0GKhC4V_hVYdQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

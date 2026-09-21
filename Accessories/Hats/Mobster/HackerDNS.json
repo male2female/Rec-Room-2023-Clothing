@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Hat",
+  "variant": "HackerDNS",
+  "displayGuess": "Mobster (HackerDNS)",
+  "combinationAsset": "Mobster_Hat_HackerDNS_Combination.asset",
+  "combinationGuid": "8XajS2adOEOqzqnLy6-zcQ,P12CUkIg8EuFihGQsvPlxg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

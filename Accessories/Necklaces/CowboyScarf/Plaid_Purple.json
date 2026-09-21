@@ -1,0 +1,11 @@
+{
+  "family": "CowboyScarf",
+  "slot": "Neck",
+  "variant": "Plaid_Purple",
+  "displayGuess": "CowboyScarf (Plaid_Purple)",
+  "combinationAsset": "CowboyScarf_Neck_Plaid_Purple_Combination.asset",
+  "combinationGuid": "Z9H3wUn3_kS6pPehL74aHg,27a5df72-4095-4837-bf24-cdd3d95a43e9,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

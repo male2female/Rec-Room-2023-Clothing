@@ -1,0 +1,11 @@
+{
+  "family": "BladedWings",
+  "slot": "Shoulder",
+  "variant": "MidnightGala",
+  "displayGuess": "BladedWings (MidnightGala)",
+  "combinationAsset": "BladedWings_Shoulder_MidnightGala_Combination.asset",
+  "combinationGuid": "fWZekjhIxUWhxgVGTWrVsg",
+  "combinationGuidDashed": "925e667d-4838-45c5-a1c6-05464d6ad5b2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

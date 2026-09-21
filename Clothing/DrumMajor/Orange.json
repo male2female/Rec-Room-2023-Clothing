@@ -1,0 +1,11 @@
+{
+  "family": "DrumMajor",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "DrumMajor (Orange)",
+  "combinationAsset": "DrumMajor_Shirt_Orange_Combination.asset",
+  "combinationGuid": "82de1ca3-67d6-454d-84fb-0eeece71fcbc,b0298c45-0dd1-453e-bad4-41e4656bb38e,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

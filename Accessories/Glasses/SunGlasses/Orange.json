@@ -1,0 +1,11 @@
+{
+  "family": "SunGlasses",
+  "slot": "Eye",
+  "variant": "Orange",
+  "displayGuess": "SunGlasses (Orange)",
+  "combinationAsset": "SunGlasses_Eye_Orange_Combination.asset",
+  "combinationGuid": "0Ytm7G4_lkmZWPA_YfaIeQ,KfM7veOVlE-dNZmsbDNZBA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

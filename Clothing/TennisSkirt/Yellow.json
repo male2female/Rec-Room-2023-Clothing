@@ -1,0 +1,11 @@
+{
+  "family": "TennisSkirt",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "TennisSkirt (Yellow)",
+  "combinationAsset": "TennisSkirt_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "c5deba2a-6e35-4b13-8e94-8ba5457f39df,b75ef67d-00c3-4ac1-9b72-212032460294,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "TieSequin",
+  "slot": "Neck",
+  "variant": "Gold_Red",
+  "displayGuess": "TieSequin (Gold_Red)",
+  "combinationAsset": "TieSequin_Neck_Gold_Red_Combination.asset",
+  "combinationGuid": "Wm30oV5BtEuFQZFk3dPK_w,tfiSfpRez0y_R4QjAhO0bQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

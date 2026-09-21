@@ -1,0 +1,11 @@
+{
+  "family": "ButtonTop",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "ButtonTop (Tan)",
+  "combinationAsset": "ButtonTop_Shirt_Tan_Combination.asset",
+  "combinationGuid": "49f5864f-9d40-497c-88c8-e87f64d41d74,dafa658e-753b-46cb-bd85-85c1de5e6ea7,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

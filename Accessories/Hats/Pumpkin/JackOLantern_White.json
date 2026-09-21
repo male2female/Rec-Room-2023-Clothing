@@ -1,0 +1,11 @@
+{
+  "family": "Pumpkin",
+  "slot": "Hat",
+  "variant": "JackOLantern_White",
+  "displayGuess": "Pumpkin (JackOLantern_White)",
+  "combinationAsset": "Pumpkin_Hat_JackOLantern_White_Combination.asset",
+  "combinationGuid": "mQTpoW0-AEufdFmApqtRXg",
+  "combinationGuidDashed": "a1e90499-3e6d-4b00-9f74-5980a6ab515e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

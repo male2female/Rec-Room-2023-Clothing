@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "CreatorConference",
+  "displayGuess": "PulloverHoodie (CreatorConference)",
+  "combinationAsset": "PulloverHoodie_Shirt_CreatorConference_Combination.asset",
+  "combinationGuid": "25X6s0sTZkyzUOKiIt4cGQ",
+  "combinationGuidDashed": "b3fa95db-134b-4c66-b350-e2a222de1c19",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

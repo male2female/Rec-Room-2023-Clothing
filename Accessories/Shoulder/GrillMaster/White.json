@@ -1,0 +1,11 @@
+{
+  "family": "GrillMaster",
+  "slot": "Shoulder",
+  "variant": "White",
+  "displayGuess": "GrillMaster (White)",
+  "combinationAsset": "GrillMaster_Shoulder_White_Combination.asset",
+  "combinationGuid": "Lxx3q6JRnUW_cPG_kGG4ag,t-ZEWJCgFEyGP2PjNblQMA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

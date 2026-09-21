@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "BuffaloBills",
+  "displayGuess": "NFL (BuffaloBills)",
+  "combinationAsset": "NFL_Shirt_BuffaloBills_Combination.asset",
+  "combinationGuid": "ye7GYcd6PkObqAsla6BJaA",
+  "combinationGuidDashed": "61c6eec9-7ac7-433e-9ba8-0b256ba04968",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

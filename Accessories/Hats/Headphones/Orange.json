@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "Headphones (Orange)",
+  "combinationAsset": "Headphones_Hat_Orange_Combination.asset",
+  "combinationGuid": "JWBK5v78Y0uRVEXlD-Qk6Q,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

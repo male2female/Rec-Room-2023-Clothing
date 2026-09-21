@@ -1,0 +1,11 @@
+{
+  "family": "Flowers",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "Flowers (Red)",
+  "combinationAsset": "Flowers_Hat_Red_Combination.asset",
+  "combinationGuid": "827a1538-51bb-4fef-99c1-7f1bebd9866c,7d040391-03f7-4b3d-bcfd-a1278ff459c9,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

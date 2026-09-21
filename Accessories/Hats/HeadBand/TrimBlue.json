@@ -1,0 +1,11 @@
+{
+  "family": "HeadBand",
+  "slot": "Hat",
+  "variant": "TrimBlue",
+  "displayGuess": "HeadBand (TrimBlue)",
+  "combinationAsset": "HeadBand_Hat_TrimBlue_Combination.asset",
+  "combinationGuid": "dee70c38-7a99-4c2b-9181-665f1bf75aca,018a5c07-e956-457d-a540-a5e2cd68da09,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

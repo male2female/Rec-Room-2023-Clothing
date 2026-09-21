@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "GamerBlueberry",
+  "displayGuess": "TuckedTee (GamerBlueberry)",
+  "combinationAsset": "TuckedTee_Shirt_GamerBlueberry_Combination.asset",
+  "combinationGuid": "5Q9E76b580CnMWIg6zbPwA",
+  "combinationGuidDashed": "ef440fe5-f9a6-40f3-a731-6220eb36cfc0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

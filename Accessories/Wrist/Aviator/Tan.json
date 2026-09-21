@@ -1,0 +1,11 @@
+{
+  "family": "Aviator",
+  "slot": "Wrist",
+  "variant": "Tan",
+  "displayGuess": "Aviator (Tan)",
+  "combinationAsset": "Aviator_Wrist_Tan_Combination.asset",
+  "combinationGuid": "7fb8496f-0e6c-4e48-b8fa-5709ebbf4820,5659ce2c-9cb0-49da-8c39-4b7df0f8deec,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

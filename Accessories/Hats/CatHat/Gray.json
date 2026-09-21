@@ -1,0 +1,11 @@
+{
+  "family": "CatHat",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "CatHat (Gray)",
+  "combinationAsset": "CatHat_Hat_Gray_Combination.asset",
+  "combinationGuid": "96e42c7a-2881-4299-a2fe-80c0d4d5ca26,V1M2-FXZSEG782d6D0AhUg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

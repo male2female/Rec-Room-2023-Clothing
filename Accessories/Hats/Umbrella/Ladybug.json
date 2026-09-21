@@ -1,0 +1,11 @@
+{
+  "family": "Umbrella",
+  "slot": "Hat",
+  "variant": "Ladybug",
+  "displayGuess": "Umbrella (Ladybug)",
+  "combinationAsset": "Umbrella_Hat_Ladybug_Combination.asset",
+  "combinationGuid": "3L-AGgM50kCCz2V3UJtErA",
+  "combinationGuidDashed": "1a80bfdc-3903-40d2-82cf-6577509b44ac",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

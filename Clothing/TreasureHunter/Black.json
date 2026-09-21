@@ -1,0 +1,11 @@
+{
+  "family": "TreasureHunter",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "TreasureHunter (Black)",
+  "combinationAsset": "TreasureHunter_Shirt_Black_Combination.asset",
+  "combinationGuid": "H0sqS2_VPEieVrHSyMNo7g,9HVoTIf90Ea8_czICVg9AA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

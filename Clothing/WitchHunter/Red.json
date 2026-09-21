@@ -1,0 +1,11 @@
+{
+  "family": "WitchHunter",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "WitchHunter (Red)",
+  "combinationAsset": "WitchHunter_Shirt_Red_Combination.asset",
+  "combinationGuid": "909ed249-ce09-4304-8b02-56794fa7567d,0f49ac81-63bd-4845-8bdc-1944181a8aa3,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

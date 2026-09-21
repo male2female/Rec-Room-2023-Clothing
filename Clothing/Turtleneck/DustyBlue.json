@@ -1,0 +1,11 @@
+{
+  "family": "Turtleneck",
+  "slot": "Shirt",
+  "variant": "DustyBlue",
+  "displayGuess": "Turtleneck (DustyBlue)",
+  "combinationAsset": "Turtleneck_Shirt_DustyBlue_Combination.asset",
+  "combinationGuid": "IXWd396grEOWHt32L7fCpQ,rzoH8P44a0esN-HnYd3aQg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "CatHat",
+  "slot": "Hat",
+  "variant": "LunarTiger",
+  "displayGuess": "CatHat (LunarTiger)",
+  "combinationAsset": "CatHat_Hat_LunarTiger_Combination.asset",
+  "combinationGuid": "T-JZqXUd3kC1P8L5Pu4ZmA,ao-eeUnb8ECcW2IFGuk76w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

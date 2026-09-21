@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "2DContest_Black",
+  "displayGuess": "TuckedTee (2DContest_Black)",
+  "combinationAsset": "TuckedTee_Shirt_2DContest_Black_Combination.asset",
+  "combinationGuid": "NEU8mYk_TkqS78l0zY9GAQ",
+  "combinationGuidDashed": "993c4534-3f89-4a4e-92ef-c974cd8f4601",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

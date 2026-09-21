@@ -1,0 +1,11 @@
+{
+  "family": "Safari",
+  "slot": "Wrist",
+  "variant": "Green",
+  "displayGuess": "Safari (Green)",
+  "combinationAsset": "Safari_Wrist_Green_Combination.asset",
+  "combinationGuid": "49bbd11a-e5c9-47ff-b04d-72eb321e8a57,fa9a3d8e-16c9-4a7e-9166-3226e0d13c39,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

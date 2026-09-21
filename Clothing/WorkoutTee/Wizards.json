@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Wizards",
+  "displayGuess": "WorkoutTee (Wizards)",
+  "combinationAsset": "WorkoutTee_Shirt_Wizards_Combination.asset",
+  "combinationGuid": "M3vXSuDRw0GLNh9A4dF4vA",
+  "combinationGuidDashed": "4ad77b33-d1e0-41c3-8b36-1f40e1d178bc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

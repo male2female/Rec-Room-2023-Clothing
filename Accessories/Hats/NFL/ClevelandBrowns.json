@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "ClevelandBrowns",
+  "displayGuess": "NFL (ClevelandBrowns)",
+  "combinationAsset": "NFL_Hat_ClevelandBrowns_Combination.asset",
+  "combinationGuid": "FokpgM8R5EuXZwe89T78yA",
+  "combinationGuidDashed": "80298916-11cf-4be4-9767-07bcf53efcc8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

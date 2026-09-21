@@ -1,0 +1,11 @@
+{
+  "family": "ArcherHat",
+  "slot": "Hat",
+  "variant": "SRank",
+  "displayGuess": "ArcherHat (SRank)",
+  "combinationAsset": "ArcherHat_Hat_SRank_Combination.asset",
+  "combinationGuid": "lgqLGi01o02ZFC9Xs5Ofdg,1ba65dd5-9df9-4ff3-be96-f83a7abf67b3,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

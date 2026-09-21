@@ -1,0 +1,11 @@
+{
+  "family": "Witch",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Witch (Green)",
+  "combinationAsset": "Witch_Hat_Green_Combination.asset",
+  "combinationGuid": "0cP9EcZRFEuMOvmZ_Kx9dA,smmfK-N2R0uoDiuIHrhImg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

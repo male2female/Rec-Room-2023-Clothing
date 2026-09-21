@@ -1,0 +1,11 @@
+{
+  "family": "BatCostumeWings",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "BatCostumeWings (Black)",
+  "combinationAsset": "BatCostumeWings_Shoulder_Black_Combination.asset",
+  "combinationGuid": "oO_Ij0Vsvki4Fa6qonrf7A",
+  "combinationGuidDashed": "8fc8efa0-6c45-48be-b815-aeaaa27adfec",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

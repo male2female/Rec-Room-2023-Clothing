@@ -1,0 +1,11 @@
+{
+  "family": "HeadScarfTwist",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "HeadScarfTwist (Orange)",
+  "combinationAsset": "HeadScarfTwist_Hat_Orange_Combination.asset",
+  "combinationGuid": "sO8e2epLrUud243Xi9odXg",
+  "combinationGuidDashed": "d91eefb0-4bea-4bad-9ddb-8dd78bda1d5e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

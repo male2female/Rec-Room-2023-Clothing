@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "GreenFlower",
+  "displayGuess": "CollarShirt (GreenFlower)",
+  "combinationAsset": "CollarShirt_Shirt_GreenFlower_Combination.asset",
+  "combinationGuid": "EfdMcnfHt0mr0PQ_maaYOg,DRJcNhkqvkKFEaZpOguR6w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

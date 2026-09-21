@@ -1,0 +1,11 @@
+{
+  "family": "RedBeltDress",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "RedBeltDress (Green)",
+  "combinationAsset": "RedBeltDress_Shirt_Green_Combination.asset",
+  "combinationGuid": "5b58d879-2bc4-47ed-a996-1af2ace16425,3d971439-41d1-43a2-8434-704f9ec8d906,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

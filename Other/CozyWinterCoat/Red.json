@@ -1,0 +1,11 @@
+{
+  "family": "CozyWinterCoat",
+  "slot": null,
+  "variant": "Red",
+  "displayGuess": "CozyWinterCoat (Red)",
+  "combinationAsset": "CozyWinterCoat_Red_Combination.asset",
+  "combinationGuid": "B3t4hjeUeEyT17nfbZgxAQ",
+  "combinationGuidDashed": "86787b07-9437-4c78-93d7-b9df6d983101",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Thriller",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "Thriller (Orange)",
+  "combinationAsset": "Thriller_Shirt_Orange_Combination.asset",
+  "combinationGuid": "8HR0DwDl2ECtHf5aEkqSHQ",
+  "combinationGuidDashed": "0f7474f0-e500-40d8-ad1d-fe5a124a921d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

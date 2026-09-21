@@ -1,0 +1,11 @@
+{
+  "family": "DeepSeaDiver",
+  "slot": "Hat",
+  "variant": "Beige",
+  "displayGuess": "DeepSeaDiver (Beige)",
+  "combinationAsset": "DeepSeaDiver_Hat_Beige_Combination.asset",
+  "combinationGuid": "Su7kiW24d0KapNns96JoFQ,a3Er_BCApUiPtBaGkSH9LA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

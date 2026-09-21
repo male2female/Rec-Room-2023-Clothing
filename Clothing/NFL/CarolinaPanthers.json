@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "CarolinaPanthers",
+  "displayGuess": "NFL (CarolinaPanthers)",
+  "combinationAsset": "NFL_Shirt_CarolinaPanthers_Combination.asset",
+  "combinationGuid": "xVPRKfkYG0-u4MFhJYGe9g",
+  "combinationGuidDashed": "29d153c5-18f9-4f1b-aee0-c16125819ef6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

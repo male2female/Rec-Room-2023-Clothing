@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "Cowboy (Black)",
+  "combinationAsset": "Cowboy_Shirt_Black_Combination.asset",
+  "combinationGuid": "K5vPqD3BrEuODRDzFdC6Hw,98553538-cafd-4df9-8f37-bb0a4bb478a5,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

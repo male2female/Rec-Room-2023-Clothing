@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "NonBinary",
+  "displayGuess": "Hoodie (NonBinary)",
+  "combinationAsset": "Hoodie_Shirt_NonBinary_Combination.asset",
+  "combinationGuid": "3a1oW3_MY0e4lDN2V1X4ig,za8Mz14Ww0KtC6wavUPXdg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

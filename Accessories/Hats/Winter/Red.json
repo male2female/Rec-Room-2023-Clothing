@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "Winter (Red)",
+  "combinationAsset": "Winter_Hat_Red_Combination.asset",
+  "combinationGuid": "6vjA_vHq70Gclypll_GS_A,nalaCGqtL0SFA4Itwqmp8g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

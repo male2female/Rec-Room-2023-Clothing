@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "LosAngelesRams",
+  "displayGuess": "NFL (LosAngelesRams)",
+  "combinationAsset": "NFL_Shirt_LosAngelesRams_Combination.asset",
+  "combinationGuid": "_BV42pO3n0e0V-eOf9CyGg",
+  "combinationGuidDashed": "da7815fc-b793-479f-b457-e78e7fd0b21a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

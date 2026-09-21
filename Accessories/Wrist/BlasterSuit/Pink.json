@@ -1,0 +1,11 @@
+{
+  "family": "BlasterSuit",
+  "slot": "Wrist",
+  "variant": "Pink",
+  "displayGuess": "BlasterSuit (Pink)",
+  "combinationAsset": "BlasterSuit_Wrist_Pink_Combination.asset",
+  "combinationGuid": "Zf0z5Ghkwk-QJJq4u7Fjww",
+  "combinationGuidDashed": "e433fd65-6468-4fc2-9024-9ab8bbb163c3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "Donut",
+  "displayGuess": "PoolFloatie (Donut)",
+  "combinationAsset": "PoolFloatie_Belt_Donut_Combination.asset",
+  "combinationGuid": "LRv1X0ZrjkqO7azGpZ7uMg,sx10-Hsfl0OS62pIFvHH8A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "WitchHunter",
+  "slot": "Wrist",
+  "variant": "SRank",
+  "displayGuess": "WitchHunter (SRank)",
+  "combinationAsset": "WitchHunter_Wrist_SRank_Combination.asset",
+  "combinationGuid": "Tbrc2MlSlE6mKua8qSoluQ,5b8d9490-e5bc-480e-91bc-65d1797b52ad,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

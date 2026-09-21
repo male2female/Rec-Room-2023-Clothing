@@ -1,0 +1,11 @@
+{
+  "family": "Barbershop",
+  "slot": "Wrist",
+  "variant": "Formal",
+  "displayGuess": "Barbershop (Formal)",
+  "combinationAsset": "Barbershop_Wrist_Formal_Combination.asset",
+  "combinationGuid": "bb01b51e-a95f-441e-8c52-abc3aeed7145,f7c7d05f-5454-445a-af38-25f110bd204a,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

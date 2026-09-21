@@ -1,0 +1,11 @@
+{
+  "family": "InternationalThief",
+  "slot": "Wrist",
+  "variant": "Black",
+  "displayGuess": "InternationalThief (Black)",
+  "combinationAsset": "InternationalThief_Wrist_Black_Combination.asset",
+  "combinationGuid": "DtFYrQwaCky5C1ZycqZbiQ,egpzBs77Q0CpDndZHqXOog,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Skis",
+  "slot": "Shoulder",
+  "variant": "Yellow",
+  "displayGuess": "Skis (Yellow)",
+  "combinationAsset": "Skis_Shoulder_Yellow_Combination.asset",
+  "combinationGuid": "QVsGyxlefEeomtJO-dFAOw",
+  "combinationGuidDashed": "cb065b41-5e19-477c-a89a-d24ef9d1403b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

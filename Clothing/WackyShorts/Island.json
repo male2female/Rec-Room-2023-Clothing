@@ -1,0 +1,11 @@
+{
+  "family": "WackyShorts",
+  "slot": "Shirt",
+  "variant": "Island",
+  "displayGuess": "WackyShorts (Island)",
+  "combinationAsset": "WackyShorts_Shirt_Island_Combination.asset",
+  "combinationGuid": "zJMD-_HR80WCAUqYGe7_NA,rAzhaLh1nEWMd9v1D-HWcQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

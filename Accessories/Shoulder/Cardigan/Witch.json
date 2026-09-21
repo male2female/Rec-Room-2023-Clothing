@@ -1,0 +1,11 @@
+{
+  "family": "Cardigan",
+  "slot": "Shoulder",
+  "variant": "Witch",
+  "displayGuess": "Cardigan (Witch)",
+  "combinationAsset": "Cardigan_Shoulder_Witch_Combination.asset",
+  "combinationGuid": "kKpiR8YM8UG7xcaIgS9aXA",
+  "combinationGuidDashed": "4762aa90-0cc6-41f1-bbc5-c688812f5a5c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

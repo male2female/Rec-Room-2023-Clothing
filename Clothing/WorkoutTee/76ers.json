@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "76ers",
+  "displayGuess": "WorkoutTee (76ers)",
+  "combinationAsset": "WorkoutTee_Shirt_76ers_Combination.asset",
+  "combinationGuid": "H_lV3FQG0EC4ebW5vfnRIA",
+  "combinationGuidDashed": "dc55f91f-0654-40d0-b879-b5b9bdf9d120",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

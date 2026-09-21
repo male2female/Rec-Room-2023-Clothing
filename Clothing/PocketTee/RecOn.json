@@ -1,0 +1,11 @@
+{
+  "family": "PocketTee",
+  "slot": "Shirt",
+  "variant": "RecOn",
+  "displayGuess": "PocketTee (RecOn)",
+  "combinationAsset": "PocketTee_Shirt_RecOn_Combination.asset",
+  "combinationGuid": "logtSrZSTUqwEmBw9i0qjA",
+  "combinationGuidDashed": "4a2d8896-52b6-4a4d-b012-6070f62d2a8c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

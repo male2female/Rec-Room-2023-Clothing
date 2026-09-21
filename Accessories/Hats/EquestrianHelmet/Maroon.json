@@ -1,0 +1,11 @@
+{
+  "family": "EquestrianHelmet",
+  "slot": "Hat",
+  "variant": "Maroon",
+  "displayGuess": "EquestrianHelmet (Maroon)",
+  "combinationAsset": "EquestrianHelmet_Hat_Maroon_Combination.asset",
+  "combinationGuid": "d6823e01-69f0-4f85-b94a-74894356a2cf,be6b3fa1-3388-48ac-8957-d7b8c85ff968,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

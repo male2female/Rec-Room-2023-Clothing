@@ -1,0 +1,11 @@
+{
+  "family": "ChunkyScarf",
+  "slot": "Neck",
+  "variant": "Rust",
+  "displayGuess": "ChunkyScarf (Rust)",
+  "combinationAsset": "ChunkyScarf_Neck_Rust_Combination.asset",
+  "combinationGuid": "mtIyC_me2EuHSur1ghsKDA,i0itjI0qz0Cdn-es5NBScw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

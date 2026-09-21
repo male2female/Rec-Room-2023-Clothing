@@ -1,0 +1,11 @@
+{
+  "family": "PirateCaptain",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "PirateCaptain (Red)",
+  "combinationAsset": "PirateCaptain_Wrist_Red_Combination.asset",
+  "combinationGuid": "556141f7-6fbc-4065-9faa-8d8240a93d7f,7a7bc314-4ffd-4ac8-9ed6-6ca73589c132,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

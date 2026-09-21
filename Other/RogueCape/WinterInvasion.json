@@ -1,0 +1,11 @@
+{
+  "family": "RogueCape",
+  "slot": null,
+  "variant": "WinterInvasion",
+  "displayGuess": "RogueCape (WinterInvasion)",
+  "combinationAsset": "RogueCape_WinterInvasion_Combination.asset",
+  "combinationGuid": "YVkcCfJZekq7GvdMUy2IWg",
+  "combinationGuidDashed": "091c5961-59f2-4a7a-bb1a-f74c532d885a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

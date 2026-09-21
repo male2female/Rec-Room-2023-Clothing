@@ -1,0 +1,11 @@
+{
+  "family": "BasicNecklace",
+  "slot": "Neck",
+  "variant": "Brown",
+  "displayGuess": "BasicNecklace (Brown)",
+  "combinationAsset": "BasicNecklace_Neck_Brown_Combination.asset",
+  "combinationGuid": "gsHBUqA1gE2XNTPA3VvBLQ,FwjsTo0nb0uNU6l8XvllNA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

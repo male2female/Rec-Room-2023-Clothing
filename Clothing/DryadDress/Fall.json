@@ -1,0 +1,11 @@
+{
+  "family": "DryadDress",
+  "slot": "Shirt",
+  "variant": "Fall",
+  "displayGuess": "DryadDress (Fall)",
+  "combinationAsset": "DryadDress_Shirt_Fall_Combination.asset",
+  "combinationGuid": "AHL9ydUbqEqMw1tluIvyQA,w-vooMawWU6_4spdgBYufA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

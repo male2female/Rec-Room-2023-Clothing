@@ -1,0 +1,11 @@
+{
+  "family": "Aviator",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "Aviator (Black)",
+  "combinationAsset": "Aviator_Hat_Black_Combination.asset",
+  "combinationGuid": "a8de80d3-286a-4fdc-bed2-75d52f8c0964,ff5ae41e-e446-4a96-8c11-49d85556fa81,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

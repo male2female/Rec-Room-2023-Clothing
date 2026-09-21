@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Bi",
+  "displayGuess": "Hoodie (Bi)",
+  "combinationAsset": "Hoodie_Shirt_Bi_Combination.asset",
+  "combinationGuid": "DIeasJUIj0KNetAzPzuIrg,o3Q2gADhh06dgaipkkdMsA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

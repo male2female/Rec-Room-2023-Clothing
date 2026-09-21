@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroDress",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "SuperheroDress (Green)",
+  "combinationAsset": "SuperheroDress_Shirt_Green_Combination.asset",
+  "combinationGuid": "zw-evwOmg0q14P040EYYiA,a3I7EyRNVUilLfE6hriYtw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

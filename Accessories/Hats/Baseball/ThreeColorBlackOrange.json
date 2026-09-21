@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "ThreeColorBlackOrange",
+  "displayGuess": "Baseball (ThreeColorBlackOrange)",
+  "combinationAsset": "Baseball_Hat_ThreeColorBlackOrange_Combination.asset",
+  "combinationGuid": "M8IYDK6aTUyn5mRhr51GtA,r_GLekt6mkWxXw8zPPR8Mg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

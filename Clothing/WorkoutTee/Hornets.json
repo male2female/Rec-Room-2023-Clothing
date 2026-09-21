@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Hornets",
+  "displayGuess": "WorkoutTee (Hornets)",
+  "combinationAsset": "WorkoutTee_Shirt_Hornets_Combination.asset",
+  "combinationGuid": "yVNoqFjSeU6mPJxEJnzRLg",
+  "combinationGuidDashed": "a86853c9-d258-4e79-a63c-9c44267cd12e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

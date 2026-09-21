@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "BrokenHeart",
+  "displayGuess": "PulloverHoodie (BrokenHeart)",
+  "combinationAsset": "PulloverHoodie_Shirt_BrokenHeart_Combination.asset",
+  "combinationGuid": "Kuh-HrhzTUmuGaw7cpLUMg",
+  "combinationGuidDashed": "1e7ee82a-73b8-494d-ae19-ac3b7292d432",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

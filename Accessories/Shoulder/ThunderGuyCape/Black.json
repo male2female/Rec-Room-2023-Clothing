@@ -1,0 +1,11 @@
+{
+  "family": "ThunderGuyCape",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "ThunderGuyCape (Black)",
+  "combinationAsset": "ThunderGuyCape_Shoulder_Black_Combination.asset",
+  "combinationGuid": "46WaeyRZnUCuLkEpxECRMg",
+  "combinationGuidDashed": "7b9aa5e3-5924-409d-ae2e-4129c4409132",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "SciFiVisor",
+  "slot": "Eye",
+  "variant": "Orange",
+  "displayGuess": "SciFiVisor (Orange)",
+  "combinationAsset": "SciFiVisor_Eye_Orange_Combination.asset",
+  "combinationGuid": "FwiizGjYnUaM1VJ53R1cCQ,uB4gFxfrh0W5OtkmZdFN1Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

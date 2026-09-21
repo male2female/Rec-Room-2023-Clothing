@@ -1,0 +1,11 @@
+{
+  "family": "Archer",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "Archer (Tan)",
+  "combinationAsset": "Archer_Shirt_Tan_Combination.asset",
+  "combinationGuid": "9b35ae52-febe-486a-8557-ec7190a9756e,f88178b8-b204-4fa5-9dfd-6e438bf1e247,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

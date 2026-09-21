@@ -1,0 +1,11 @@
+{
+  "family": "YellowBlueDress",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "YellowBlueDress (Purple)",
+  "combinationAsset": "YellowBlueDress_Shirt_Purple_Combination.asset",
+  "combinationGuid": "830be2fa-60a5-48cc-931f-34b670eae4bd,cfabdefe-0890-436e-b2a3-b5c712e22955,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

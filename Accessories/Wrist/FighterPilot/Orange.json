@@ -1,0 +1,11 @@
+{
+  "family": "FighterPilot",
+  "slot": "Wrist",
+  "variant": "Orange",
+  "displayGuess": "FighterPilot (Orange)",
+  "combinationAsset": "FighterPilot_Wrist_Orange_Combination.asset",
+  "combinationGuid": "18b52db5-0261-46a0-9214-ff510d455ed9,7869b2a5-cd89-4033-b9f7-4f1451ecb47b,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

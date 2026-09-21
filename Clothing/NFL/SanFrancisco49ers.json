@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "SanFrancisco49ers",
+  "displayGuess": "NFL (SanFrancisco49ers)",
+  "combinationAsset": "NFL_Shirt_SanFrancisco49ers_Combination.asset",
+  "combinationGuid": "Yec2FLXhpEmrocbVUOkhhQ",
+  "combinationGuidDashed": "1436e761-e1b5-49a4-aba1-c6d550e92185",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "LogoGoblins",
+  "displayGuess": "Baseball (LogoGoblins)",
+  "combinationAsset": "Baseball_Hat_LogoGoblins_Combination.asset",
+  "combinationGuid": "pqLkLbri9Eu48eryQIFGMg,_yznwUwL80ejrS3vki0IKg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

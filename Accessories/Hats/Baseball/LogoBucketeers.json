@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "LogoBucketeers",
+  "displayGuess": "Baseball (LogoBucketeers)",
+  "combinationAsset": "Baseball_Hat_LogoBucketeers_Combination.asset",
+  "combinationGuid": "5iCrYb8MBkqN6IBEe3IipQ,SroEVC6vBkG42ILwCtKB9w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

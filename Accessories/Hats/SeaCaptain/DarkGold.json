@@ -1,0 +1,11 @@
+{
+  "family": "SeaCaptain",
+  "slot": "Hat",
+  "variant": "DarkGold",
+  "displayGuess": "SeaCaptain (DarkGold)",
+  "combinationAsset": "SeaCaptain_Hat_DarkGold_Combination.asset",
+  "combinationGuid": "f5403c89-9769-479b-8a05-c71607f9b189,a4e51b6b-fdfd-47dc-9d0e-f26f383e03e9,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

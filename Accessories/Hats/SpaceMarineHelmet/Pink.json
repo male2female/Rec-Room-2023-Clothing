@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineHelmet",
+  "slot": "Hat",
+  "variant": "Pink",
+  "displayGuess": "SpaceMarineHelmet (Pink)",
+  "combinationAsset": "SpaceMarineHelmet_Hat_Pink_Combination.asset",
+  "combinationGuid": "a36d252b-16ac-4a82-bece-de145147e7d9,b94411f6-5b71-48d0-ace1-ac6f63167065,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

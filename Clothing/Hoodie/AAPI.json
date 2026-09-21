@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "AAPI",
+  "displayGuess": "Hoodie (AAPI)",
+  "combinationAsset": "Hoodie_Shirt_AAPI_Combination.asset",
+  "combinationGuid": "9jB8U3yxjE6hanEZgMdvtA",
+  "combinationGuidDashed": "537c30f6-b17c-4e8c-a16a-711980c76fb4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

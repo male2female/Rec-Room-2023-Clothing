@@ -1,0 +1,11 @@
+{
+  "family": "Aviator",
+  "slot": "Hat",
+  "variant": "Tan",
+  "displayGuess": "Aviator (Tan)",
+  "combinationAsset": "Aviator_Hat_Tan_Combination.asset",
+  "combinationGuid": "c6cf096c-f0cb-4500-80a0-bc2916b5a426,ff5ae41e-e446-4a96-8c11-49d85556fa81,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

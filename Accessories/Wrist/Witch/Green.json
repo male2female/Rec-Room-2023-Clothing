@@ -1,0 +1,11 @@
+{
+  "family": "Witch",
+  "slot": "Wrist",
+  "variant": "Green",
+  "displayGuess": "Witch (Green)",
+  "combinationAsset": "Witch_Wrist_Green_Combination.asset",
+  "combinationGuid": "0ZKR_qxrWkiWkjpot8s6Cg,5aX524Lfok-0dC3UFv-OkQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

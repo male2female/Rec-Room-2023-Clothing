@@ -1,0 +1,11 @@
+{
+  "family": "TurkeySweater",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "TurkeySweater (White)",
+  "combinationAsset": "TurkeySweater_Shirt_White_Combination.asset",
+  "combinationGuid": "d-scjeOeCESC0rQMKsozsA",
+  "combinationGuidDashed": "8d1ceb77-9ee3-4408-82d2-b40c2aca33b0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

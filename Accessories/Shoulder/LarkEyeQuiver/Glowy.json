@@ -1,0 +1,11 @@
+{
+  "family": "LarkEyeQuiver",
+  "slot": "Shoulder",
+  "variant": "Glowy",
+  "displayGuess": "LarkEyeQuiver (Glowy)",
+  "combinationAsset": "LarkEyeQuiver_Shoulder_Glowy_Combination.asset",
+  "combinationGuid": "aMOwLebcBU6SuPigtovUYg",
+  "combinationGuidDashed": "2db0c368-dce6-4e05-92b8-f8a0b68bd462",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "BabyPink",
+  "displayGuess": "WristBand (BabyPink)",
+  "combinationAsset": "WristBand_Wrist_BabyPink_Combination.asset",
+  "combinationGuid": "Dg3DxHr8GU2e190TGveXqw,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

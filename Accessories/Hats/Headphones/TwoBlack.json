@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "TwoBlack",
+  "displayGuess": "Headphones (TwoBlack)",
+  "combinationAsset": "Headphones_Hat_TwoBlack_Combination.asset",
+  "combinationGuid": "ns5tIRishUOp-nYqLedcwA,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "FroggyBackpack",
+  "slot": null,
+  "variant": "Pink",
+  "displayGuess": "FroggyBackpack (Pink)",
+  "combinationAsset": "FroggyBackpack_Pink_Combination.asset",
+  "combinationGuid": "f-RfHoCWik6QgNKDhCs7Vw",
+  "combinationGuidDashed": "1e5fe47f-9680-4e8a-9080-d283842b3b57",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

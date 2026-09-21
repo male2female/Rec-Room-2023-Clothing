@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Raptors",
+  "displayGuess": "WorkoutTee (Raptors)",
+  "combinationAsset": "WorkoutTee_Shirt_Raptors_Combination.asset",
+  "combinationGuid": "kk271nI1MUu-gZjec9djrQ",
+  "combinationGuidDashed": "d6bb4d92-3572-4b31-be81-98de73d763ad",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

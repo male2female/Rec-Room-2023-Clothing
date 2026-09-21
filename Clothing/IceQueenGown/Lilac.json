@@ -1,0 +1,11 @@
+{
+  "family": "IceQueenGown",
+  "slot": "Shirt",
+  "variant": "Lilac",
+  "displayGuess": "IceQueenGown (Lilac)",
+  "combinationAsset": "IceQueenGown_Shirt_Lilac_Combination.asset",
+  "combinationGuid": "iqSyLD37IUejWYa8ndvqnQ,qrXO8rdEaUqUCXC1QVkhsw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Plaid",
+  "slot": null,
+  "variant": "PolkaBlue",
+  "displayGuess": "Plaid (PolkaBlue)",
+  "combinationAsset": "Plaid_PolkaBlue_Combination.asset",
+  "combinationGuid": "ad61c418-6d77-4a99-8ac5-9f10f5a3d42f,cf119781-5bd9-4b85-9a0b-12e82e988c23,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MechaTorso",
+  "slot": null,
+  "variant": "Invasion",
+  "displayGuess": "MechaTorso (Invasion)",
+  "combinationAsset": "MechaTorso_Invasion_Combination.asset",
+  "combinationGuid": "a9oUAXZpHUaW1_ncqhkYZg",
+  "combinationGuidDashed": "0114da6b-6976-461d-96d7-f9dcaa191866",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

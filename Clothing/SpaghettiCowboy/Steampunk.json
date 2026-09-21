@@ -1,0 +1,11 @@
+{
+  "family": "SpaghettiCowboy",
+  "slot": "Shirt",
+  "variant": "Steampunk",
+  "displayGuess": "SpaghettiCowboy (Steampunk)",
+  "combinationAsset": "SpaghettiCowboy_Shirt_Steampunk_Combination.asset",
+  "combinationGuid": "2eTBbHTkf0uxy9JqA507Hw",
+  "combinationGuidDashed": "6cc1e4d9-e474-4b7f-b1cb-d26a039d3b1f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Scallywag",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Scallywag (Blue)",
+  "combinationAsset": "Scallywag_Hat_Blue_Combination.asset",
+  "combinationGuid": "53dd9e44-7096-438e-a7c3-11d7c307426f,a4903da3-249d-4f0a-a746-b547fda371ff,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

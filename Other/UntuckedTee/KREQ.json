@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "KREQ",
+  "displayGuess": "UntuckedTee (KREQ)",
+  "combinationAsset": "UntuckedTee_KREQ_Combination.asset",
+  "combinationGuid": "g_f9bH8tykGq3yRwWuQPOA",
+  "combinationGuidDashed": "6cfdf783-2d7f-41ca-aadf-24705ae40f38",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

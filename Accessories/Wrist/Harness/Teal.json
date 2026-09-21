@@ -1,0 +1,11 @@
+{
+  "family": "Harness",
+  "slot": "Wrist",
+  "variant": "Teal",
+  "displayGuess": "Harness (Teal)",
+  "combinationAsset": "Harness_Wrist_Teal_Combination.asset",
+  "combinationGuid": "TnEDe1QoMUCUdqPL_7CxTA,rgzG7sfrlkqd9EO13LNmpQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

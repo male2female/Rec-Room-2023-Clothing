@@ -1,0 +1,11 @@
+{
+  "family": "KnightGauntlet",
+  "slot": "Wrist",
+  "variant": "White",
+  "displayGuess": "KnightGauntlet (White)",
+  "combinationAsset": "KnightGauntlet_Wrist_White_Combination.asset",
+  "combinationGuid": "22dc463a-a89b-46ad-9a0d-557c742b4a80,fd67ec40-f898-4df6-b846-8bf350f362b8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

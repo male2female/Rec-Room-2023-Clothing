@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Opal",
+  "displayGuess": "BirthstoneEarring (Opal)",
+  "combinationAsset": "BirthstoneEarring_Ear_Opal_Combination.asset",
+  "combinationGuid": "ro4sD9txVE29_eT2jK-wEg,0YF5bACMsk2sN4tixbJbKw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

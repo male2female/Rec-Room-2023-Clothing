@@ -1,0 +1,11 @@
+{
+  "family": "CosmicHeroJacketEmissive",
+  "slot": "Shirt",
+  "variant": "CombatMech",
+  "displayGuess": "CosmicHeroJacketEmissive (CombatMech)",
+  "combinationAsset": "CosmicHeroJacketEmissive_Shirt_CombatMech_Combination.asset",
+  "combinationGuid": "Owi_JROR80-apNHw-4KNcg",
+  "combinationGuidDashed": "25bf083b-9113-4ff3-9aa4-d1f0fb828d72",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BackSword",
+  "slot": "Shoulder",
+  "variant": "Silver",
+  "displayGuess": "BackSword (Silver)",
+  "combinationAsset": "BackSword_Shoulder_Silver_Combination.asset",
+  "combinationGuid": "GfC01_o8QkGTbnGNjv_DSw,7mLb5jMJMUug7Nzwxv6D4A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

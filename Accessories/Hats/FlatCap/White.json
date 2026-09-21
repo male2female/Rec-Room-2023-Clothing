@@ -1,0 +1,11 @@
+{
+  "family": "FlatCap",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "FlatCap (White)",
+  "combinationAsset": "FlatCap_Hat_White_Combination.asset",
+  "combinationGuid": "9aYT6E9sd0OSavlmkhtkGw,73fc2e2a-a036-410b-bafa-3a07658245b5,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

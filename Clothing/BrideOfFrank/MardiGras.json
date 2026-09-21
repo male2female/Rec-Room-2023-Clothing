@@ -1,0 +1,11 @@
+{
+  "family": "BrideofFrank",
+  "slot": "Shirt",
+  "variant": "MardiGras",
+  "displayGuess": "BrideofFrank (MardiGras)",
+  "combinationAsset": "BrideofFrank_Shirt_MardiGras_Combination.asset",
+  "combinationGuid": "zNBLaOhCAEKWvgLK4P_X7w",
+  "combinationGuidDashed": "684bd0cc-42e8-4200-96be-02cae0ffd7ef",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

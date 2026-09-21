@@ -1,0 +1,11 @@
+{
+  "family": "GuitarPickNecklace",
+  "slot": "Neck",
+  "variant": "Green",
+  "displayGuess": "GuitarPickNecklace (Green)",
+  "combinationAsset": "GuitarPickNecklace_Neck_Green_Combination.asset",
+  "combinationGuid": "0FlA_T8GsUe9PdiZamlP_g",
+  "combinationGuidDashed": "fd4059d0-063f-47b1-bd3d-d8996a694ffe",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

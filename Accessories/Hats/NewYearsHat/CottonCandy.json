@@ -1,0 +1,11 @@
+{
+  "family": "NewYearsHat",
+  "slot": "Hat",
+  "variant": "CottonCandy",
+  "displayGuess": "NewYearsHat (CottonCandy)",
+  "combinationAsset": "NewYearsHat_Hat_CottonCandy_Combination.asset",
+  "combinationGuid": "AfqXBWLBQEiiag4cEtoEiA,MrrsmY0J0EKduH-f5wUj6g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "ArcherHat",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "ArcherHat (Gray)",
+  "combinationAsset": "ArcherHat_Hat_Gray_Combination.asset",
+  "combinationGuid": "61VZkFjB402brzWm4UsftA,1ba65dd5-9df9-4ff3-be96-f83a7abf67b3,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

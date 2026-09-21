@@ -1,0 +1,11 @@
+{
+  "family": "ArcherGlove",
+  "slot": "Wrist",
+  "variant": "Yellow",
+  "displayGuess": "ArcherGlove (Yellow)",
+  "combinationAsset": "ArcherGlove_Wrist_Yellow_Combination.asset",
+  "combinationGuid": "47da86b9-4e6e-423c-b8c4-ea6bf8472509,7b187c06-7ba2-4f3c-bca9-fdf98146f385,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

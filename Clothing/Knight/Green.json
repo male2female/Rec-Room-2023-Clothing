@@ -1,0 +1,11 @@
+{
+  "family": "Knight",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Knight (Green)",
+  "combinationAsset": "Knight_Shirt_Green_Combination.asset",
+  "combinationGuid": "PMa9370LPEig_7pKwCceEQ,51a1809d-becd-42e0-8dfb-188d6f07ba1c,f5270130-6634-4052-aa3e-9849ddf5314e",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

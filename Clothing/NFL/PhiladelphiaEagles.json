@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "PhiladelphiaEagles",
+  "displayGuess": "NFL (PhiladelphiaEagles)",
+  "combinationAsset": "NFL_Shirt_PhiladelphiaEagles_Combination.asset",
+  "combinationGuid": "Y75a0D5Wj0qmpfxG18LvWQ",
+  "combinationGuidDashed": "d05abe63-563e-4a8f-a6a5-fc46d7c2ef59",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

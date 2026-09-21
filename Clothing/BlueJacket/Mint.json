@@ -1,0 +1,11 @@
+{
+  "family": "BlueJacket",
+  "slot": "Shirt",
+  "variant": "Mint",
+  "displayGuess": "BlueJacket (Mint)",
+  "combinationAsset": "BlueJacket_Shirt_Mint_Combination.asset",
+  "combinationGuid": "cd5d7285-202d-42d0-b93f-04245875793e,0f36bb97-c61b-4281-929f-ff1d0d11be86,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

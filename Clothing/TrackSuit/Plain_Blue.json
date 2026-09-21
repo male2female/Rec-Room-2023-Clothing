@@ -1,0 +1,11 @@
+{
+  "family": "TrackSuit",
+  "slot": "Shirt",
+  "variant": "Plain_Blue",
+  "displayGuess": "TrackSuit (Plain_Blue)",
+  "combinationAsset": "TrackSuit_Shirt_Plain_Blue_Combination.asset",
+  "combinationGuid": "OT5APcpbpEiMNNah8n4Txw,ynPJe7asTk-x_GtcEBQbgA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

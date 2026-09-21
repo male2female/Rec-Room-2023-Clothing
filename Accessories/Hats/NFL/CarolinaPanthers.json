@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "CarolinaPanthers",
+  "displayGuess": "NFL (CarolinaPanthers)",
+  "combinationAsset": "NFL_Hat_CarolinaPanthers_Combination.asset",
+  "combinationGuid": "_egTT9EA-UK0aLkn_QnWFA",
+  "combinationGuidDashed": "4f13e8fd-00d1-42f9-b468-b927fd09d614",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

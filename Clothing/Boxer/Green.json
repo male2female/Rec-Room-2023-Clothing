@@ -1,0 +1,11 @@
+{
+  "family": "Boxer",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Boxer (Green)",
+  "combinationAsset": "Boxer_Shirt_Green_Combination.asset",
+  "combinationGuid": "rzUd1IMTKUmW0HeMPSIOBQ,0ec6628c-a106-4452-af82-105a3e3a9f2e,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

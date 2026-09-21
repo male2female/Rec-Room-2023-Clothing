@@ -1,0 +1,11 @@
+{
+  "family": "Vest",
+  "slot": "Shirt",
+  "variant": "MidnightGala",
+  "displayGuess": "Vest (MidnightGala)",
+  "combinationAsset": "Vest_Shirt_MidnightGala_Combination.asset",
+  "combinationGuid": "bJXcVtY7qUK101QUAgr05A",
+  "combinationGuidDashed": "56dc956c-3bd6-42a9-b5d3-5414020af4e4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

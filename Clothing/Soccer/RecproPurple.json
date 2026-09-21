@@ -1,0 +1,11 @@
+{
+  "family": "Soccer",
+  "slot": "Shirt",
+  "variant": "RecproPurple",
+  "displayGuess": "Soccer (RecproPurple)",
+  "combinationAsset": "Soccer_Shirt_RecproPurple_Combination.asset",
+  "combinationGuid": "mtR99SoHQ0aJLJfXPsKW1w",
+  "combinationGuidDashed": "f57dd49a-072a-4643-892c-97d73ec296d7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

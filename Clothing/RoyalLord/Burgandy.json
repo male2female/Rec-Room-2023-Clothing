@@ -1,0 +1,11 @@
+{
+  "family": "RoyalLord",
+  "slot": "Shirt",
+  "variant": "Burgandy",
+  "displayGuess": "RoyalLord (Burgandy)",
+  "combinationAsset": "RoyalLord_Shirt_Burgandy_Combination.asset",
+  "combinationGuid": "5TJPDmvEBEOkP82ZWLFqtg,50NUFrDxbUKmXbyAHBenvQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

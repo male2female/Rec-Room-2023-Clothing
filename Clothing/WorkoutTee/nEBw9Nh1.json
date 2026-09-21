@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "nEBw9Nh1",
+  "displayGuess": "WorkoutTee (nEBw9Nh1)",
+  "combinationAsset": "WorkoutTee_Shirt_nEBw9Nh1_Combination.asset",
+  "combinationGuid": "nEBw9Nh1-kWcOynsm7P8Pw",
+  "combinationGuidDashed": "f470409c-75d8-45fa-9c3b-29ec9bb3fc3f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

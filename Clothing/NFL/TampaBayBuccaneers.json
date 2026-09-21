@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "TampaBayBuccaneers",
+  "displayGuess": "NFL (TampaBayBuccaneers)",
+  "combinationAsset": "NFL_Shirt_TampaBayBuccaneers_Combination.asset",
+  "combinationGuid": "PWMkuXHWFEKGKfSiT8rWNg",
+  "combinationGuidDashed": "b924633d-d671-4214-8629-f4a24fcad636",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Scuba",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Scuba (Blue)",
+  "combinationAsset": "Scuba_Shirt_Blue_Combination.asset",
+  "combinationGuid": "VqtOYBiKRkaSW4xAlBxQgg,xTqtLPQVyEKjAQZYl6HGow,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

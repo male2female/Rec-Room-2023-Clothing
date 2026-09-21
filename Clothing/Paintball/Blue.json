@@ -1,0 +1,11 @@
+{
+  "family": "Paintball",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Paintball (Blue)",
+  "combinationAsset": "Paintball_Shirt_Blue_Combination.asset",
+  "combinationGuid": "178c6beb-c737-434c-a53b-d14f438f6a98,0189ec4c-0389-4ebc-b9ba-32303a6341c2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Conductor",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Conductor (Blue)",
+  "combinationAsset": "Conductor_Shirt_Blue_Combination.asset",
+  "combinationGuid": "Chiz8maLoEGDpZOJZEtdQg,cQUquXMk5EGt0VUCuPKBgg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "80sWindbreaker",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "80sWindbreaker (Red)",
+  "combinationAsset": "80sWindbreaker_Wrist_Red_Combination.asset",
+  "combinationGuid": "HncURj5yi0ykk2cVyCZ4Sw,MV1HW2x43kG4rrhyoC6mmw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

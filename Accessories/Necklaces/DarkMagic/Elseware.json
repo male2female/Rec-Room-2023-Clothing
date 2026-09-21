@@ -1,0 +1,11 @@
+{
+  "family": "DarkMagic",
+  "slot": "Neck",
+  "variant": "Elseware",
+  "displayGuess": "DarkMagic (Elseware)",
+  "combinationAsset": "DarkMagic_Neck_Elseware_Combination.asset",
+  "combinationGuid": "qbEYPChG5EmnFDUfzwAakg",
+  "combinationGuidDashed": "3c18b1a9-4628-49e4-a714-351fcf001a92",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

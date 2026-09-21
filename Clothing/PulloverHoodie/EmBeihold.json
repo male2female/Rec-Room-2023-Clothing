@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "EmBeihold",
+  "displayGuess": "PulloverHoodie (EmBeihold)",
+  "combinationAsset": "PulloverHoodie_Shirt_EmBeihold_Combination.asset",
+  "combinationGuid": "a2mUuKOr-UOM5nPpR8dSMw",
+  "combinationGuidDashed": "b894696b-aba3-43f9-8ce6-73e947c75233",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

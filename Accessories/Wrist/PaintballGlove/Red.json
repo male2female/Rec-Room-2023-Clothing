@@ -1,0 +1,11 @@
+{
+  "family": "PaintballGlove",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "PaintballGlove (Red)",
+  "combinationAsset": "PaintballGlove_Wrist_Red_Combination.asset",
+  "combinationGuid": "D-XJyw1BPE-m0gXpvcXrQw,FsirX90YM0y5lk7mnqDnEQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

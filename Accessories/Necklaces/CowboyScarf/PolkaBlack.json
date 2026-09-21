@@ -1,0 +1,11 @@
+{
+  "family": "CowboyScarf",
+  "slot": "Neck",
+  "variant": "PolkaBlack",
+  "displayGuess": "CowboyScarf (PolkaBlack)",
+  "combinationAsset": "CowboyScarf_Neck_PolkaBlack_Combination.asset",
+  "combinationGuid": "J1bmomo_3Ume0KR2Yh46Uw,27a5df72-4095-4837-bf24-cdd3d95a43e9,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

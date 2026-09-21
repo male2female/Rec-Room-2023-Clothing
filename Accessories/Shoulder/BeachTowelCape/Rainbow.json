@@ -1,0 +1,11 @@
+{
+  "family": "BeachTowelCape",
+  "slot": "Shoulder",
+  "variant": "Rainbow",
+  "displayGuess": "BeachTowelCape (Rainbow)",
+  "combinationAsset": "BeachTowelCape_Shoulder_Rainbow_Combination.asset",
+  "combinationGuid": "SN8HDRADZ0GvrFgEHKMhWQ",
+  "combinationGuidDashed": "0d07df48-0310-4167-afac-58041ca32159",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

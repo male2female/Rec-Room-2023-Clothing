@@ -1,0 +1,11 @@
+{
+  "family": "Smuggler",
+  "slot": "Shirt",
+  "variant": "Cherry",
+  "displayGuess": "Smuggler (Cherry)",
+  "combinationAsset": "Smuggler_Shirt_Cherry_Combination.asset",
+  "combinationGuid": "fed760b2-15e2-46b2-b1e3-cc3c8d780d5d,970a8c7e-d091-4719-bb9c-e3be8d46ee68,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

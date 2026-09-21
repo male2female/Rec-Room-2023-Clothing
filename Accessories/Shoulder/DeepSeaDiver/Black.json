@@ -1,0 +1,11 @@
+{
+  "family": "DeepSeaDiver",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "DeepSeaDiver (Black)",
+  "combinationAsset": "DeepSeaDiver_Shoulder_Black_Combination.asset",
+  "combinationGuid": "CahBzgN3D0y46AQsvGC14A,ZpyoWbO6GkGglXlMuYUARw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

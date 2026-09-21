@@ -1,0 +1,11 @@
+{
+  "family": "IceSkates",
+  "slot": "Neck",
+  "variant": "White",
+  "displayGuess": "IceSkates (White)",
+  "combinationAsset": "IceSkates_Neck_White_Combination.asset",
+  "combinationGuid": "ENYQugZRP06SDh6d-oJcjQ",
+  "combinationGuidDashed": "ba10d610-5106-4e3f-920e-1e9dfa825c8d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

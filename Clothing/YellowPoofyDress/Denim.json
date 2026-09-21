@@ -1,0 +1,11 @@
+{
+  "family": "YellowPoofyDress",
+  "slot": "Shirt",
+  "variant": "Denim",
+  "displayGuess": "YellowPoofyDress (Denim)",
+  "combinationAsset": "YellowPoofyDress_Shirt_Denim_Combination.asset",
+  "combinationGuid": "55901f12-d5b5-4fa8-b4c8-e479689ee39d,d30e3afe-414c-4b60-8be9-6fa4156a4b65,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

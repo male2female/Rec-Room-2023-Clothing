@@ -1,0 +1,11 @@
+{
+  "family": "RoseEarring",
+  "slot": "Ear",
+  "variant": "Orange",
+  "displayGuess": "RoseEarring (Orange)",
+  "combinationAsset": "RoseEarring_Ear_Orange_Combination.asset",
+  "combinationGuid": "F3m52YaKyEqwbgUyPVfFxQ",
+  "combinationGuidDashed": "d9b97917-8a86-4ac8-b06e-05323d57c5c5",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

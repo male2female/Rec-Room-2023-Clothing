@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Cowboy (Green)",
+  "combinationAsset": "Cowboy_Hat_Green_Combination.asset",
+  "combinationGuid": "_6LmNp0uX0Ky4jp2j62U2w",
+  "combinationGuidDashed": "36e6a2ff-2e9d-425f-b2e2-3a768fad94db",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Banker",
+  "slot": "Shirt",
+  "variant": "leprechaun",
+  "displayGuess": "Banker (leprechaun)",
+  "combinationAsset": "Banker_Shirt_leprechaun_Combination.asset",
+  "combinationGuid": "93vga8NJQEe5nWdqrroAaw",
+  "combinationGuidDashed": "6be07bf7-49c3-4740-b99d-676aaeba006b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

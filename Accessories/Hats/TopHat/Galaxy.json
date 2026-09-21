@@ -1,0 +1,11 @@
+{
+  "family": "TopHat",
+  "slot": "Hat",
+  "variant": "Galaxy",
+  "displayGuess": "TopHat (Galaxy)",
+  "combinationAsset": "TopHat_Hat_Galaxy_Combination.asset",
+  "combinationGuid": "n8t0gIYFbUaPMhyQeWkPSQ",
+  "combinationGuidDashed": "8074cb9f-0586-466d-8f32-1c9079690f49",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "ScallywagBracelet",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "ScallywagBracelet (Red)",
+  "combinationAsset": "ScallywagBracelet_Wrist_Red_Combination.asset",
+  "combinationGuid": "62bd5dda-08da-4528-83c1-f0ca3812dc6e,ce3782aa-56cc-40d7-9019-8ce714cb7748,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

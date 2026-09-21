@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Emerald",
+  "displayGuess": "BirthstoneEarring (Emerald)",
+  "combinationAsset": "BirthstoneEarring_Ear_Emerald_Combination.asset",
+  "combinationGuid": "R0f3hHGY9UqUEW4aR1fssA,KSqfmVTiGUKOKijwGDSwgQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

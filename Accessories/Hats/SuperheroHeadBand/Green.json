@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroHeadband",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "SuperheroHeadband (Green)",
+  "combinationAsset": "SuperheroHeadband_Hat_Green_Combination.asset",
+  "combinationGuid": "-K940hWJXkee1HDrlurepg,ItJCR1utoU6i-syjJpxQqw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

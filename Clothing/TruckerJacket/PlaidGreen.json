@@ -1,0 +1,11 @@
+{
+  "family": "TruckerJacket",
+  "slot": "Shirt",
+  "variant": "PlaidGreen",
+  "displayGuess": "TruckerJacket (PlaidGreen)",
+  "combinationAsset": "TruckerJacket_Shirt_PlaidGreen_Combination.asset",
+  "combinationGuid": "kgCKjtSjFEmFq9ez2llxKQ,uZjxYOMa10GzJ9wQkRge2w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "FormalDress",
+  "slot": "Shirt",
+  "variant": "Patchwork",
+  "displayGuess": "FormalDress (Patchwork)",
+  "combinationAsset": "FormalDress_Shirt_Patchwork_Combination.asset",
+  "combinationGuid": "ktnYOVEhtEmuxmjM1TjIOQ,EqNosRGf5U-5P1nKIRV3fw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

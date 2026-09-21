@@ -1,0 +1,11 @@
+{
+  "family": "Luchador",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "Luchador (Red)",
+  "combinationAsset": "Luchador_Shirt_Red_Combination.asset",
+  "combinationGuid": "916384ca-e209-42a0-bd64-c64f5a40b56f,7ef7d0cf-99f1-4872-9d3d-8230cc9fa368,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

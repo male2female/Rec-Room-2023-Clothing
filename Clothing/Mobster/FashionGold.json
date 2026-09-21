@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Shirt",
+  "variant": "FashionGold",
+  "displayGuess": "Mobster (FashionGold)",
+  "combinationAsset": "Mobster_Shirt_FashionGold_Combination.asset",
+  "combinationGuid": "46970903-9799-4d25-b90a-7162c1f5dbef,c2052d8c-fbcd-4462-8f08-bcf5b3dfde2f,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

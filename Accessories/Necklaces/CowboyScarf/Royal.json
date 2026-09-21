@@ -1,0 +1,11 @@
+{
+  "family": "CowboyScarf",
+  "slot": "Neck",
+  "variant": "Royal",
+  "displayGuess": "CowboyScarf (Royal)",
+  "combinationAsset": "CowboyScarf_Neck_Royal_Combination.asset",
+  "combinationGuid": "6dd95046-acf8-42fe-ab78-80a334096a9d,27a5df72-4095-4837-bf24-cdd3d95a43e9,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "RedFlowerDress",
+  "slot": "Shirt",
+  "variant": "Gray",
+  "displayGuess": "RedFlowerDress (Gray)",
+  "combinationAsset": "RedFlowerDress_Shirt_Gray_Combination.asset",
+  "combinationGuid": "1acb1f56-4509-449f-9c6a-065bdeaa9ee3,2d7361d2-31a2-404b-90da-10e89114e1f2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

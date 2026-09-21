@@ -1,0 +1,11 @@
+{
+  "family": "Turtleneck",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "Turtleneck (Yellow)",
+  "combinationAsset": "Turtleneck_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "G4HIPUjekUigiU0-Kr9mdA,rzoH8P44a0esN-HnYd3aQg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

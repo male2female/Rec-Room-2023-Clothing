@@ -1,0 +1,11 @@
+{
+  "family": "WaitressApron",
+  "slot": "Belt",
+  "variant": "Green",
+  "displayGuess": "WaitressApron (Green)",
+  "combinationAsset": "WaitressApron_Belt_Green_Combination.asset",
+  "combinationGuid": "Blev_VFjRUysY_nymGWAVg,f5z_jhdcqEGjo-1WUmldaw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

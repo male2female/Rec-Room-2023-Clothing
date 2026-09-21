@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "ManewithLegs_Horse",
+  "displayGuess": "PoolFloatie (ManewithLegs_Horse)",
+  "combinationAsset": "PoolFloatie_Belt_ManewithLegs_Horse_Combination.asset",
+  "combinationGuid": "p379ObEL9Eea0DX9Ld4qnw",
+  "combinationGuidDashed": "39fd7ea7-0bb1-47f4-9ad0-35fd2dde2a9f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

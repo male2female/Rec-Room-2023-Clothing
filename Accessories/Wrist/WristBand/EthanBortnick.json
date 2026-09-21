@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "EthanBortnick",
+  "displayGuess": "WristBand (EthanBortnick)",
+  "combinationAsset": "WristBand_Wrist_EthanBortnick_Combination.asset",
+  "combinationGuid": "gOP1m4pVHkmlR2k8RrcdmQ",
+  "combinationGuidDashed": "9bf5e380-558a-491e-a547-693c46b71d99",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

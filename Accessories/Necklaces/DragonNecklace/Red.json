@@ -1,0 +1,11 @@
+{
+  "family": "DragonNecklace",
+  "slot": "Neck",
+  "variant": "Red",
+  "displayGuess": "DragonNecklace (Red)",
+  "combinationAsset": "DragonNecklace_Neck_Red_Combination.asset",
+  "combinationGuid": "aUsPNgV2c0u15VhGBAIyvg",
+  "combinationGuidDashed": "360f4b69-7605-4b73-b5e5-5846040232be",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

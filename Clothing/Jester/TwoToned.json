@@ -1,0 +1,11 @@
+{
+  "family": "Jester",
+  "slot": "Shirt",
+  "variant": "TwoToned",
+  "displayGuess": "Jester (TwoToned)",
+  "combinationAsset": "Jester_Shirt_TwoToned_Combination.asset",
+  "combinationGuid": "g_jYTusUbU6W_6jHif-CKw",
+  "combinationGuidDashed": "4ed8f883-14eb-4e6d-96ff-a8c789ff822b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

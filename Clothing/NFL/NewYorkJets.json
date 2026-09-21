@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "NewYorkJets",
+  "displayGuess": "NFL (NewYorkJets)",
+  "combinationAsset": "NFL_Shirt_NewYorkJets_Combination.asset",
+  "combinationGuid": "coRfJXTxhUKsFs1tzSBgUQ",
+  "combinationGuidDashed": "255f8472-f174-4285-ac16-cd6dcd206051",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

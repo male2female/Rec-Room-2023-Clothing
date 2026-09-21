@@ -1,0 +1,11 @@
+{
+  "family": "Conductor",
+  "slot": "Wrist",
+  "variant": "Blue",
+  "displayGuess": "Conductor (Blue)",
+  "combinationAsset": "Conductor_Wrist_Blue_Combination.asset",
+  "combinationGuid": "5Dbc8qCaY0OXEuwykM4naA,awWjleyNP0akWNYJoehCLA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

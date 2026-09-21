@@ -1,0 +1,11 @@
+{
+  "family": "AnglerHat",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "AnglerHat (Blue)",
+  "combinationAsset": "AnglerHat_Hat_Blue_Combination.asset",
+  "combinationGuid": "d7f0ffd3-ccf9-465e-8afe-4d7efb78dd2c,efeb07ab-6253-436d-bb66-991ddad72e58,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

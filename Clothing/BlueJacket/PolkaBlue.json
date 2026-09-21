@@ -1,0 +1,11 @@
+{
+  "family": "BlueJacket",
+  "slot": "Shirt",
+  "variant": "PolkaBlue",
+  "displayGuess": "BlueJacket (PolkaBlue)",
+  "combinationAsset": "BlueJacket_Shirt_PolkaBlue_Combination.asset",
+  "combinationGuid": "ad61c418-6d77-4a99-8ac5-9f10f5a3d42f,0f36bb97-c61b-4281-929f-ff1d0d11be86,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

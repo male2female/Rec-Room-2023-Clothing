@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "VampireHunter (Red)",
+  "combinationAsset": "VampireHunter_Wrist_Red_Combination.asset",
+  "combinationGuid": "iJW8XGJfU0G12iXarjxhdQ,N5wN1l0tYEau5np-9PoIiA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

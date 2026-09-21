@@ -1,0 +1,11 @@
+{
+  "family": "Squid",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Squid (Blue)",
+  "combinationAsset": "Squid_Hat_Blue_Combination.asset",
+  "combinationGuid": "t8kKXvBU-kSM_MHaqZYpkQ",
+  "combinationGuidDashed": "5e0ac9b7-54f0-44fa-8cfc-c1daa9962991",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

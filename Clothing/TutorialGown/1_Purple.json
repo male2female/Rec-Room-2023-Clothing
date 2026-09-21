@@ -1,0 +1,11 @@
+{
+  "family": "TutorialGown",
+  "slot": "Shirt",
+  "variant": "1_Purple",
+  "displayGuess": "TutorialGown (1_Purple)",
+  "combinationAsset": "TutorialGown_Shirt_1_Purple_Combination.asset",
+  "combinationGuid": "U2ZbHn8WJEySUXVpzAY6ig,6nmHu9zj8k-tEz0tBHblnQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

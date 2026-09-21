@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "SolidGoldYellow",
+  "displayGuess": "CollarShirt (SolidGoldYellow)",
+  "combinationAsset": "CollarShirt_Shirt_SolidGoldYellow_Combination.asset",
+  "combinationGuid": "jGj28vhq8EGwP2RuM074aQ,PioQ0o3yP0a6szPZ4EKs2A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

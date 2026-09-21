@@ -1,0 +1,11 @@
+{
+  "family": "Tourist",
+  "slot": "Hat",
+  "variant": "Tropical_LightBase_Cream",
+  "displayGuess": "Tourist (Tropical_LightBase_Cream)",
+  "combinationAsset": "Tourist_Hat_Tropical_LightBase_Cream_Combination.asset",
+  "combinationGuid": "Mt2a9ygWPkS-DyXj1q-Kvw,znNiHfNdTE-szOIAnIWFQg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

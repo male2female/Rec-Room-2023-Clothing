@@ -1,0 +1,11 @@
+{
+  "family": "BeachTowelCape",
+  "slot": "Shoulder",
+  "variant": "Defenders",
+  "displayGuess": "BeachTowelCape (Defenders)",
+  "combinationAsset": "BeachTowelCape_Shoulder_Defenders_Combination.asset",
+  "combinationGuid": "GAzH2pThjECghCmCwKJPrQ,4T-xj-xtSEiv1PDYv30URg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

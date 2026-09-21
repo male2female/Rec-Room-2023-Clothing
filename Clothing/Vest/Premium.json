@@ -1,0 +1,11 @@
+{
+  "family": "Vest",
+  "slot": "Shirt",
+  "variant": "Premium",
+  "displayGuess": "Vest (Premium)",
+  "combinationAsset": "Vest_Shirt_Premium_Combination.asset",
+  "combinationGuid": "9RPbhHJWBkqwpDbMg-QumA,Qzklnrvw0EOiZ1mrj_nAYw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Shirt",
+  "variant": "SRank",
+  "displayGuess": "Wizard (SRank)",
+  "combinationAsset": "Wizard_Shirt_SRank_Combination.asset",
+  "combinationGuid": "RKmRHk2N_U2gd91nybo6vg,8768aa33-b014-4062-b323-b146dd7d78d2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

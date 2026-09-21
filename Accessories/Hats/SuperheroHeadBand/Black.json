@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroHeadBand",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "SuperheroHeadBand (Black)",
+  "combinationAsset": "SuperheroHeadBand_Hat_Black_Combination.asset",
+  "combinationGuid": "SdSjmCkq-ECoboR2PwxJfQ",
+  "combinationGuidDashed": "98a3d449-2a29-40f8-a86e-84763f0c497d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

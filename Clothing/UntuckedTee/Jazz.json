@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "Jazz",
+  "displayGuess": "UntuckedTee (Jazz)",
+  "combinationAsset": "UntuckedTee_Shirt_Jazz_Combination.asset",
+  "combinationGuid": "Eh1jgOjxpE-AEModcPAFMg",
+  "combinationGuidDashed": "80631d12-f1e8-4fa4-8010-ca1d70f00532",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "PopsicleEarring",
+  "slot": "Ear",
+  "variant": "Rocket",
+  "displayGuess": "PopsicleEarring (Rocket)",
+  "combinationAsset": "PopsicleEarring_Ear_Rocket_Combination.asset",
+  "combinationGuid": "6CFwXqWT50mH1v6WueFsjw",
+  "combinationGuidDashed": "5e7021e8-93a5-49e7-87d6-fe96b9e16c8f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

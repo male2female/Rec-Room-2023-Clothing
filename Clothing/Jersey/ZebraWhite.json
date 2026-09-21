@@ -1,0 +1,11 @@
+{
+  "family": "Jersey",
+  "slot": "Shirt",
+  "variant": "ZebraWhite",
+  "displayGuess": "Jersey (ZebraWhite)",
+  "combinationAsset": "Jersey_Shirt_ZebraWhite_Combination.asset",
+  "combinationGuid": "48abd952-214f-48b2-a8f1-1146f6f69aa2,b78008e8-abbd-4ece-be34-9a911f721fcc,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

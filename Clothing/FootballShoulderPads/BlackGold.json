@@ -1,0 +1,11 @@
+{
+  "family": "FootballShoulderPads",
+  "slot": "Shirt",
+  "variant": "BlackGold",
+  "displayGuess": "FootballShoulderPads (BlackGold)",
+  "combinationAsset": "FootballShoulderPads_Shirt_BlackGold_Combination.asset",
+  "combinationGuid": "dzCc_QmTYUGQ67r4yy3XpA,e17481fc-b2b6-47a5-91e5-7205f45a3247,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

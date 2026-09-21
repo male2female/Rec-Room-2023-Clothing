@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "DallasCowboys",
+  "displayGuess": "NFL (DallasCowboys)",
+  "combinationAsset": "NFL_Shirt_DallasCowboys_Combination.asset",
+  "combinationGuid": "fdmR0dt0hEakaNp8mpjGmg",
+  "combinationGuidDashed": "d191d97d-74db-4684-a468-da7c9a98c69a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

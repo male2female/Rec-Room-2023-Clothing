@@ -1,0 +1,11 @@
+{
+  "family": "RecTrooper",
+  "slot": "Shirt",
+  "variant": "Pink",
+  "displayGuess": "RecTrooper (Pink)",
+  "combinationAsset": "RecTrooper_Shirt_Pink_Combination.asset",
+  "combinationGuid": "I4lNZy7lR0uyUN5Vk3fabA,MjaMSFJlsUisPzveOPrH4w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

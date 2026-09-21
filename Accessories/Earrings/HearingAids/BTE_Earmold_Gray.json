@@ -1,0 +1,11 @@
+{
+  "family": "HearingAids",
+  "slot": "Ear",
+  "variant": "BTE_Earmold_Gray",
+  "displayGuess": "HearingAids (BTE_Earmold_Gray)",
+  "combinationAsset": "HearingAids_Ear_BTE_Earmold_Gray_Combination.asset",
+  "combinationGuid": "aEsXeTI_SEOclbm82n17tg",
+  "combinationGuidDashed": "79174b68-3f32-4348-9c95-b9bcda7d7bb6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

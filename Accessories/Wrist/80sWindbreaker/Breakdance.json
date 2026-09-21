@@ -1,0 +1,11 @@
+{
+  "family": "80sWindbreaker",
+  "slot": "Wrist",
+  "variant": "Breakdance",
+  "displayGuess": "80sWindbreaker (Breakdance)",
+  "combinationAsset": "80sWindbreaker_Wrist_Breakdance_Combination.asset",
+  "combinationGuid": "6c-AhDM6K0iHbNMf4BNiUg",
+  "combinationGuidDashed": "8480cfe9-3a33-482b-876c-d31fe0136252",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

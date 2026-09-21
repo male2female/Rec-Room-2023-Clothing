@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "Denim",
+  "displayGuess": "CollarShirt (Denim)",
+  "combinationAsset": "CollarShirt_Shirt_Denim_Combination.asset",
+  "combinationGuid": "55901f12-d5b5-4fa8-b4c8-e479689ee39d,f600037d-c9c0-43fa-b45b-02f456f9dd5f,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

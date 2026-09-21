@@ -1,0 +1,11 @@
+{
+  "family": "Jersey",
+  "slot": "Shirt",
+  "variant": "Outline_White",
+  "displayGuess": "Jersey (Outline_White)",
+  "combinationAsset": "Jersey_Shirt_Outline_White_Combination.asset",
+  "combinationGuid": "724c79a3-822c-422f-9462-a5374ee0211c,d2a692e6-e1a9-4cfe-8154-10b52be7f8c8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

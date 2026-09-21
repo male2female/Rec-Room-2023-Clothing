@@ -1,0 +1,11 @@
+{
+  "family": "FannyPack",
+  "slot": "Belt",
+  "variant": "RecConPurple",
+  "displayGuess": "FannyPack (RecConPurple)",
+  "combinationAsset": "FannyPack_Belt_RecConPurple_Combination.asset",
+  "combinationGuid": "eaRDMCA4fE6KJHi639QFvQ",
+  "combinationGuidDashed": "3043a479-3820-4e7c-8a24-78badfd405bd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "FannyPack",
+  "slot": "Belt",
+  "variant": "RecConOrange",
+  "displayGuess": "FannyPack (RecConOrange)",
+  "combinationAsset": "FannyPack_Belt_RecConOrange_Combination.asset",
+  "combinationGuid": "zIIQkllHFEyjEvAGYC0cPQ",
+  "combinationGuidDashed": "921082cc-4759-4c14-a312-f006602d1c3d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

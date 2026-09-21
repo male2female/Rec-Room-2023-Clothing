@@ -1,0 +1,11 @@
+{
+  "family": "Beekeeper",
+  "slot": "Hat",
+  "variant": "Teal",
+  "displayGuess": "Beekeeper (Teal)",
+  "combinationAsset": "Beekeeper_Hat_Teal_Combination.asset",
+  "combinationGuid": "oZ8k0Qv3SkG-DkY0_dP7UA,e4b53a9a-ac95-49ae-bf68-615bb23fa075,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

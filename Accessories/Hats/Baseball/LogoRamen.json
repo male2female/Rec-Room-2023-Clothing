@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "LogoRamen",
+  "displayGuess": "Baseball (LogoRamen)",
+  "combinationAsset": "Baseball_Hat_LogoRamen_Combination.asset",
+  "combinationGuid": "cpTKHXjj0kulivZCKVQqiA,Mrf17aidXEeCF-fFURUUcQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

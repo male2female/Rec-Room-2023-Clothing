@@ -1,0 +1,11 @@
+{
+  "family": "BogMonster",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "BogMonster (Contest)",
+  "combinationAsset": "BogMonster_Hat_Contest_Combination.asset",
+  "combinationGuid": "afnIqin4lkKKqWrvBvVagA,bCuW1YadE06p6v1dBHsx4w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

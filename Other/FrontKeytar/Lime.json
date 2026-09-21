@@ -1,0 +1,11 @@
+{
+  "family": "FrontKeytar",
+  "slot": null,
+  "variant": "Lime",
+  "displayGuess": "FrontKeytar (Lime)",
+  "combinationAsset": "FrontKeytar_Lime_Combination.asset",
+  "combinationGuid": "ze-eTUX6WUqE-n5nIcH0aA",
+  "combinationGuidDashed": "4d9eefcd-fa45-4a59-84fa-7e6721c1f468",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Fannypack",
+  "slot": "Belt",
+  "variant": "Rainbow",
+  "displayGuess": "Fannypack (Rainbow)",
+  "combinationAsset": "Fannypack_Belt_Rainbow_Combination.asset",
+  "combinationGuid": "whs9olNz9Uani7Gou31mvw,y6aASPUwDkas0W5Yl27ydQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

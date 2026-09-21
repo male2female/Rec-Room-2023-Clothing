@@ -1,0 +1,11 @@
+{
+  "family": "FrontGuitar",
+  "slot": "Shoulder",
+  "variant": "DarkOak",
+  "displayGuess": "FrontGuitar (DarkOak)",
+  "combinationAsset": "FrontGuitar_Shoulder_DarkOak_Combination.asset",
+  "combinationGuid": "UdQxfRULDEG6BvJV7HWO_g",
+  "combinationGuidDashed": "7d31d451-0b15-410c-ba06-f255ec758efe",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

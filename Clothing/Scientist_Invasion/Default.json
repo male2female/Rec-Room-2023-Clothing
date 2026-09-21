@@ -1,0 +1,11 @@
+{
+  "family": "Scientist_Invasion",
+  "slot": "Shirt",
+  "variant": "Default",
+  "displayGuess": "Scientist_Invasion",
+  "combinationAsset": "Scientist_Invasion_Shirt_Combination.asset",
+  "combinationGuid": "X0nzvhAtgEKqzjQPb9d3qQ",
+  "combinationGuidDashed": "bef3495f-2d10-4280-aace-340f6fd777a9",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

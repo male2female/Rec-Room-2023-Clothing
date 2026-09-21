@@ -1,0 +1,11 @@
+{
+  "family": "SpaghettiCowboy",
+  "slot": "Shirt",
+  "variant": "Grey",
+  "displayGuess": "SpaghettiCowboy (Grey)",
+  "combinationAsset": "SpaghettiCowboy_Shirt_Grey_Combination.asset",
+  "combinationGuid": "cbn6vE0gDUOuklVhJv1vNA,Ru4HN3stVUutQ9rUh7ro1g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineGlove",
+  "slot": "Wrist",
+  "variant": "Circuit",
+  "displayGuess": "SpaceMarineGlove (Circuit)",
+  "combinationAsset": "SpaceMarineGlove_Wrist_Circuit_Combination.asset",
+  "combinationGuid": "LVnNy7-nFkyvi19nNcdFgQ",
+  "combinationGuidDashed": "cbcd592d-a7bf-4c16-af8b-5f6735c74581",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

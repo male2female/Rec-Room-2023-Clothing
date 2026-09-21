@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Shirt",
+  "variant": "Trees",
+  "displayGuess": "Winter (Trees)",
+  "combinationAsset": "Winter_Shirt_Trees_Combination.asset",
+  "combinationGuid": "XOBIPrKCr02xa4tKj8wN9g,Yn1uv3Y8JE6VSxsf0LOBvw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

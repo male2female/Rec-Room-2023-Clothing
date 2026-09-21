@@ -1,0 +1,11 @@
+{
+  "family": "Electrician",
+  "slot": "Shirt",
+  "variant": "Beige",
+  "displayGuess": "Electrician (Beige)",
+  "combinationAsset": "Electrician_Shirt_Beige_Combination.asset",
+  "combinationGuid": "5fb2e235-8c67-4335-b432-edb10db2b139,daa38a31-fb7b-4e26-a2f5-728d6dcec81a,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

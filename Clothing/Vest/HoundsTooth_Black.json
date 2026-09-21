@@ -1,0 +1,11 @@
+{
+  "family": "Vest",
+  "slot": "Shirt",
+  "variant": "HoundsTooth_Black",
+  "displayGuess": "Vest (HoundsTooth_Black)",
+  "combinationAsset": "Vest_Shirt_HoundsTooth_Black_Combination.asset",
+  "combinationGuid": "m4W5D0Oa9kaWa-8I96YYzA,WF_fg80f30qvHit0vGBwCA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "ClockworkBag",
+  "slot": "Shoulder",
+  "variant": "RoseGold",
+  "displayGuess": "ClockworkBag (RoseGold)",
+  "combinationAsset": "ClockworkBag_Shoulder_RoseGold_Combination.asset",
+  "combinationGuid": "dkJNh15DnEuO1BatzpI_uw",
+  "combinationGuidDashed": "874d4276-435e-4b9c-8ed4-16adce923fbb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "FurCoat",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "FurCoat (White)",
+  "combinationAsset": "FurCoat_Shirt_White_Combination.asset",
+  "combinationGuid": "643b5f2d-0666-4869-b699-03742de34d16,2c0d912d-c184-4eab-8ee4-73b90ba7b0a6,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

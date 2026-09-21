@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "Pinstripe",
+  "displayGuess": "Blazer (Pinstripe)",
+  "combinationAsset": "Blazer_Shirt_Pinstripe_Combination.asset",
+  "combinationGuid": "uCA4tnv9Mk2mX-NnFlj2Mg,NvlKJFz4IkKDliVOJKJYhA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

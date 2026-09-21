@@ -1,0 +1,11 @@
+{
+  "family": "Default_Unknown",
+  "slot": "Shirt",
+  "variant": "Default",
+  "displayGuess": "Default_Unknown",
+  "combinationAsset": "Default_Unknown_Shirt_Combination.asset",
+  "combinationGuid": "FnhttSsCoUCSAW8j-stC5A",
+  "combinationGuidDashed": "b56d7816-022b-40a1-9201-6f23facb42e4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

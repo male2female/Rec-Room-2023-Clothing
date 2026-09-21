@@ -1,0 +1,11 @@
+{
+  "family": "PinkStollDress",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "PinkStollDress (Blue)",
+  "combinationAsset": "PinkStollDress_Shirt_Blue_Combination.asset",
+  "combinationGuid": "761a3193-60f0-4190-80c7-285b8192e794,91a451c1-b285-4c48-b14d-59ded8cc006f,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

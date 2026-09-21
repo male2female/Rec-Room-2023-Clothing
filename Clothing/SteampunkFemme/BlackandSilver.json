@@ -1,0 +1,11 @@
+{
+  "family": "SteampunkFemme",
+  "slot": "Shirt",
+  "variant": "BlackandSilver",
+  "displayGuess": "SteampunkFemme (BlackandSilver)",
+  "combinationAsset": "SteampunkFemme_Shirt_BlackandSilver_Combination.asset",
+  "combinationGuid": "rsUfUnTwbU6zrjrHWps1yA,GJRG8sCM7kSGfUd9gLwpgQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

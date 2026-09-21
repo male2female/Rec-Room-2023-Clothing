@@ -1,0 +1,11 @@
+{
+  "family": "CrazyCat",
+  "slot": "Shirt",
+  "variant": "Magenta",
+  "displayGuess": "CrazyCat (Magenta)",
+  "combinationAsset": "CrazyCat_Shirt_Magenta_Combination.asset",
+  "combinationGuid": "McX_jAOowUmjXNPEHbdS7Q",
+  "combinationGuidDashed": "8cffc531-a803-49c1-a35c-d3c41db752ed",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

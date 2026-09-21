@@ -1,0 +1,11 @@
+{
+  "family": "Countess",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Countess (Green)",
+  "combinationAsset": "Countess_Shirt_Green_Combination.asset",
+  "combinationGuid": "LyVf9lnzdku1F4iPBGqk-g,xnxDimLvVUCI9tEJqWDDcA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

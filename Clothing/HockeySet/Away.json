@@ -1,0 +1,11 @@
+{
+  "family": "HockeySet",
+  "slot": "Shirt",
+  "variant": "Away",
+  "displayGuess": "HockeySet (Away)",
+  "combinationAsset": "HockeySet_Shirt_Away_Combination.asset",
+  "combinationGuid": "zhgbWHad00aE2KNFM3FNWQ",
+  "combinationGuidDashed": "581b18ce-9d76-46d3-84d8-a34533714d59",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

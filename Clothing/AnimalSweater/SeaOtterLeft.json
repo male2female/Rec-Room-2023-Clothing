@@ -1,0 +1,11 @@
+{
+  "family": "AnimalSweater",
+  "slot": "Shirt",
+  "variant": "SeaOtterLeft",
+  "displayGuess": "AnimalSweater (SeaOtterLeft)",
+  "combinationAsset": "AnimalSweater_Shirt_SeaOtterLeft_Combination.asset",
+  "combinationGuid": "oIVUmOrjjUysnN4XoWvJSA",
+  "combinationGuidDashed": "985485a0-e3ea-4c8d-ac9c-de17a16bc948",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

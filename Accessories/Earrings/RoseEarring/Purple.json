@@ -1,0 +1,11 @@
+{
+  "family": "RoseEarring",
+  "slot": "Ear",
+  "variant": "Purple",
+  "displayGuess": "RoseEarring (Purple)",
+  "combinationAsset": "RoseEarring_Ear_Purple_Combination.asset",
+  "combinationGuid": "10nOM4HBRU-e7Bb05SrtLw",
+  "combinationGuidDashed": "33ce49d7-c181-4f45-9eec-16f4e52aed2f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

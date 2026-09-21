@@ -1,0 +1,11 @@
+{
+  "family": "TopHat",
+  "slot": "Hat",
+  "variant": "Plain_White",
+  "displayGuess": "TopHat (Plain_White)",
+  "combinationAsset": "TopHat_Hat_Plain_White_Combination.asset",
+  "combinationGuid": "DzgN67HoikexE2rTlZLdYQ,vm1ESK9ls0SaxSwHplNALQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

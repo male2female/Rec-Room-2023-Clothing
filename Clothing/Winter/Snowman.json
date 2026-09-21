@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Shirt",
+  "variant": "Snowman",
+  "displayGuess": "Winter (Snowman)",
+  "combinationAsset": "Winter_Shirt_Snowman_Combination.asset",
+  "combinationGuid": "09Cg6dOq2kC2-tI5yyGSYg,3fQj_7meDEeQqm_7RfEfxQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

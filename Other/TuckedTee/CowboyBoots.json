@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": null,
+  "variant": "CowboyBoots",
+  "displayGuess": "TuckedTee (CowboyBoots)",
+  "combinationAsset": "TuckedTee_CowboyBoots_Combination.asset",
+  "combinationGuid": "9lPZEIVbbUK1hdR1aVPLwA",
+  "combinationGuidDashed": "10d953f6-5b85-426d-b585-d4756953cbc0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "DrumMajor",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "DrumMajor (Purple)",
+  "combinationAsset": "DrumMajor_Shirt_Purple_Combination.asset",
+  "combinationGuid": "54d3c589-30ba-44c1-a77c-8f9e16eb0b20,b0298c45-0dd1-453e-bad4-41e4656bb38e,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

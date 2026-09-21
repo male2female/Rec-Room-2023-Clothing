@@ -1,0 +1,11 @@
+{
+  "family": "Sun",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Sun (Blue)",
+  "combinationAsset": "Sun_Hat_Blue_Combination.asset",
+  "combinationGuid": "dzH_40F-MUCy_7gATqL4PA",
+  "combinationGuidDashed": "e3ff3177-7e41-4031-b2ff-b8004ea2f83c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

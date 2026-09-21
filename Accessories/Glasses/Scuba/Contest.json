@@ -1,0 +1,11 @@
+{
+  "family": "Scuba",
+  "slot": "Eye",
+  "variant": "Contest",
+  "displayGuess": "Scuba (Contest)",
+  "combinationAsset": "Scuba_Eye_Contest_Combination.asset",
+  "combinationGuid": "ZSOuWuKVCkqaIKc5d23G8Q,A7Y52vGIN0ijEKsWR_GQLg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

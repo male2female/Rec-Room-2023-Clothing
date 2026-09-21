@@ -1,0 +1,11 @@
+{
+  "family": "ArcherQuiver",
+  "slot": "Shoulder",
+  "variant": "SRank",
+  "displayGuess": "ArcherQuiver (SRank)",
+  "combinationAsset": "ArcherQuiver_Shoulder_SRank_Combination.asset",
+  "combinationGuid": "29EZ6r2SsUakWjzuevxeoA,6094370d-5e28-473a-b422-f3f1c75d5db8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

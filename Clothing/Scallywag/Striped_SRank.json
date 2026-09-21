@@ -1,0 +1,11 @@
+{
+  "family": "Scallywag",
+  "slot": "Shirt",
+  "variant": "Striped_SRank",
+  "displayGuess": "Scallywag (Striped_SRank)",
+  "combinationAsset": "Scallywag_Shirt_Striped_SRank_Combination.asset",
+  "combinationGuid": "6y_fzLhG7E65Px3-CYiyXQ,9f1dd474-34a3-47eb-bb72-dbfc8d2d6ecf,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Pearls",
+  "slot": "Neck",
+  "variant": "Black",
+  "displayGuess": "Pearls (Black)",
+  "combinationAsset": "Pearls_Neck_Black_Combination.asset",
+  "combinationGuid": "sqPMH0LhLkeG-4XkxpU-sw,URWHffwjGUKgXeV01upePA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

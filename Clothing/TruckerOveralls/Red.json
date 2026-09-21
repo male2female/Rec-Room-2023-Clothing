@@ -1,0 +1,11 @@
+{
+  "family": "TruckerOveralls",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "TruckerOveralls (Red)",
+  "combinationAsset": "TruckerOveralls_Shirt_Red_Combination.asset",
+  "combinationGuid": "iokdlBfjuEuAwqIMOQwxdA,H3OQDBef1UaacSD52p8Hdw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

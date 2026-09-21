@@ -1,0 +1,11 @@
+{
+  "family": "Scuba",
+  "slot": "Eye",
+  "variant": "Blue",
+  "displayGuess": "Scuba (Blue)",
+  "combinationAsset": "Scuba_Eye_Blue_Combination.asset",
+  "combinationGuid": "DRS8xu3AqUOy2L0RKF3f7g,A7Y52vGIN0ijEKsWR_GQLg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

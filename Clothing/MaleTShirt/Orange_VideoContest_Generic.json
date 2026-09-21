@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Orange_VideoContest_Generic",
+  "displayGuess": "MaleTShirt (Orange_VideoContest_Generic)",
+  "combinationAsset": "MaleTShirt_Shirt_Orange_VideoContest_Generic_Combination.asset",
+  "combinationGuid": "d3-sxPTJOk2rKo-Jgy3wvw,0440f08f-ef1d-49d8-942b-523056e8bb45,v0GsPFC7cU-_JNG4-ERfog",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

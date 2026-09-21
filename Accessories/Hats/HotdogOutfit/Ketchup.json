@@ -1,0 +1,11 @@
+{
+  "family": "HotdogOutfit",
+  "slot": "Hat",
+  "variant": "Ketchup",
+  "displayGuess": "HotdogOutfit (Ketchup)",
+  "combinationAsset": "HotdogOutfit_Hat_Ketchup_Combination.asset",
+  "combinationGuid": "2KCpbel8JkaeAGQRgvpt2w",
+  "combinationGuidDashed": "6da9a0d8-7ce9-4626-9e00-641182fa6ddb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

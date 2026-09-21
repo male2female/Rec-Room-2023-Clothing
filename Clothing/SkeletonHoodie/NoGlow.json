@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonHoodie",
+  "slot": "Shirt",
+  "variant": "NoGlow",
+  "displayGuess": "SkeletonHoodie (NoGlow)",
+  "combinationAsset": "SkeletonHoodie_Shirt_NoGlow_Combination.asset",
+  "combinationGuid": "s6DQxJ3gY0CG8L7JmcmRTQ,eZGiYEx6sk2PsN39RzQwlQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

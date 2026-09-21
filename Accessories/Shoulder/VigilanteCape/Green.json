@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteCape",
+  "slot": "Shoulder",
+  "variant": "Green",
+  "displayGuess": "VigilanteCape (Green)",
+  "combinationAsset": "VigilanteCape_Shoulder_Green_Combination.asset",
+  "combinationGuid": "oy67Rd9BskuB8yloqSv0Jw",
+  "combinationGuidDashed": "45bb2ea3-41df-4bb2-81f3-2968a92bf427",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

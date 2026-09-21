@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "NoGlow",
+  "displayGuess": "SkeletonMask (NoGlow)",
+  "combinationAsset": "SkeletonMask_Eye_NoGlow_Combination.asset",
+  "combinationGuid": "s6DQxJ3gY0CG8L7JmcmRTQ,DfyODsHfIESXxVjcfZmBOA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

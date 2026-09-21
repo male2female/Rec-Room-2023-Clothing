@@ -1,0 +1,11 @@
+{
+  "family": "Tutu",
+  "slot": "Belt",
+  "variant": "ButterflyMint",
+  "displayGuess": "Tutu (ButterflyMint)",
+  "combinationAsset": "Tutu_Belt_ButterflyMint_Combination.asset",
+  "combinationGuid": "6fp7nDdMvU6Ig-EmvjMpIA",
+  "combinationGuidDashed": "9c7bfae9-4c37-4ebd-8883-e126be332920",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

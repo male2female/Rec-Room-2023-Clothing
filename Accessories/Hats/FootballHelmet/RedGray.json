@@ -1,0 +1,11 @@
+{
+  "family": "FootballHelmet",
+  "slot": "Hat",
+  "variant": "RedGray",
+  "displayGuess": "FootballHelmet (RedGray)",
+  "combinationAsset": "FootballHelmet_Hat_RedGray_Combination.asset",
+  "combinationGuid": "UfhOpLemQ0ypYh7CIC3W1Q,7660e11a-7ef0-43d3-bc02-76b3a4aab064,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

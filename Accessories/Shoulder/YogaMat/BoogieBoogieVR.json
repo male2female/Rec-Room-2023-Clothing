@@ -1,0 +1,11 @@
+{
+  "family": "YogaMat",
+  "slot": "Shoulder",
+  "variant": "BoogieBoogieVR",
+  "displayGuess": "YogaMat (BoogieBoogieVR)",
+  "combinationAsset": "YogaMat_Shoulder_BoogieBoogieVR_Combination.asset",
+  "combinationGuid": "lIURXMnmn0GcYFUVSXHzWA",
+  "combinationGuidDashed": "5c118594-e6c9-419f-9c60-55154971f358",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

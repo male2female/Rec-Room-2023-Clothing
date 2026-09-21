@@ -1,0 +1,42 @@
+{
+  "totalItems": 1896,
+  "byCategory": {
+    "Accessories/Belts": {
+      "items": 37,
+      "families": 14
+    },
+    "Accessories/Earrings": {
+      "items": 24,
+      "families": 7
+    },
+    "Accessories/Glasses": {
+      "items": 66,
+      "families": 20
+    },
+    "Accessories/Hats": {
+      "items": 482,
+      "families": 134
+    },
+    "Accessories/Necklaces": {
+      "items": 63,
+      "families": 21
+    },
+    "Accessories/Shoulder": {
+      "items": 138,
+      "families": 53
+    },
+    "Accessories/Wrist": {
+      "items": 198,
+      "families": 58
+    },
+    "Clothing": {
+      "items": 761,
+      "families": 176
+    },
+    "Other": {
+      "items": 127,
+      "families": 47
+    }
+  },
+  "source": "2023 client asset bundles (UnityPy), combination GUIDs included"
+}

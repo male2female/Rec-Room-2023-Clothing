@@ -1,0 +1,11 @@
+{
+  "family": "Steampunk",
+  "slot": "Shirt",
+  "variant": "Contest",
+  "displayGuess": "Steampunk (Contest)",
+  "combinationAsset": "Steampunk_Shirt_Contest_Combination.asset",
+  "combinationGuid": "fD5vtKxBWECH54Jj4FbnUg,C8gCmBZ8RUG83vvDw_UYew,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

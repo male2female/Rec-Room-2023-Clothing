@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "SeattleSeahawks",
+  "displayGuess": "NFL (SeattleSeahawks)",
+  "combinationAsset": "NFL_Shirt_SeattleSeahawks_Combination.asset",
+  "combinationGuid": "EziQI39wZUWqIy8zs5I7LA",
+  "combinationGuidDashed": "23903813-707f-4565-aa23-2f33b3923b2c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

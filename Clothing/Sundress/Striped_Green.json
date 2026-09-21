@@ -1,0 +1,11 @@
+{
+  "family": "Sundress",
+  "slot": "Shirt",
+  "variant": "Striped_Green",
+  "displayGuess": "Sundress (Striped_Green)",
+  "combinationAsset": "Sundress_Shirt_Striped_Green_Combination.asset",
+  "combinationGuid": "rGMFdPKmK02_OvIIFYlAxA,NqU5Mw75BE6kPaD8t11Qow,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

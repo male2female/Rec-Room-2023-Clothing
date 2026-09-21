@@ -1,0 +1,11 @@
+{
+  "family": "BeanieSlouch",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "BeanieSlouch (Gray)",
+  "combinationAsset": "BeanieSlouch_Hat_Gray_Combination.asset",
+  "combinationGuid": "SeVmHtrMS0y7gKCYkHcrOA,uWXtz0WaO0qJ1W4TfWnLqg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

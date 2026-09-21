@@ -1,0 +1,11 @@
+{
+  "family": "LumberJack",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "LumberJack (Green)",
+  "combinationAsset": "LumberJack_Shirt_Green_Combination.asset",
+  "combinationGuid": "7amHTgEv-UOJSGl0ofo4mw,CUCKsNVnIkavHjcspWAv_A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

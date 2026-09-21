@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "80s",
+  "displayGuess": "UntuckedTee (80s)",
+  "combinationAsset": "UntuckedTee_Shirt_80s_Combination.asset",
+  "combinationGuid": "_aQEMQzp20eMT_Izfc64wA",
+  "combinationGuidDashed": "3104a4fd-e90c-47db-8c4f-f2337dceb8c0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

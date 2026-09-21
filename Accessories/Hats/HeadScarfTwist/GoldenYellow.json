@@ -1,0 +1,11 @@
+{
+  "family": "HeadScarfTwist",
+  "slot": "Hat",
+  "variant": "GoldenYellow",
+  "displayGuess": "HeadScarfTwist (GoldenYellow)",
+  "combinationAsset": "HeadScarfTwist_Hat_GoldenYellow_Combination.asset",
+  "combinationGuid": "irw2uj4c2Eil0ndPCTqodQ",
+  "combinationGuidDashed": "ba36bc8a-1c3e-48d8-a5d2-774f093aa875",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

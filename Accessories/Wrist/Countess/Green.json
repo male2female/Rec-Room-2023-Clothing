@@ -1,0 +1,11 @@
+{
+  "family": "Countess",
+  "slot": "Wrist",
+  "variant": "Green",
+  "displayGuess": "Countess (Green)",
+  "combinationAsset": "Countess_Wrist_Green_Combination.asset",
+  "combinationGuid": "Wj7I2YiVoE6zp8J_HYs8tw,8kdJkmwNM0WQmMVrb8fK8A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

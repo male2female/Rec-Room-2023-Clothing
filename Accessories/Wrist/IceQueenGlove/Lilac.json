@@ -1,0 +1,11 @@
+{
+  "family": "IceQueenGlove",
+  "slot": "Wrist",
+  "variant": "Lilac",
+  "displayGuess": "IceQueenGlove (Lilac)",
+  "combinationAsset": "IceQueenGlove_Wrist_Lilac_Combination.asset",
+  "combinationGuid": "K9wPZ9LHo02GPMtf02rANQ,U7jMLMX4_kKIy1K9IcHOXA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

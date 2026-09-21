@@ -1,0 +1,11 @@
+{
+  "family": "FoxEarsHeadband",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "FoxEarsHeadband (White)",
+  "combinationAsset": "FoxEarsHeadband_Hat_White_Combination.asset",
+  "combinationGuid": "A-xoYdSUF0aEr_XZ9Me-3Q",
+  "combinationGuidDashed": "6168ec03-94d4-4617-84af-f5d9f4c7bedd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

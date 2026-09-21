@@ -1,0 +1,11 @@
+{
+  "family": "Artist",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Artist (Blue)",
+  "combinationAsset": "Artist_Shirt_Blue_Combination.asset",
+  "combinationGuid": "8c94e45c-6605-4b4f-9ba4-2c6c6e557228,5a6db6ba-2a0f-4399-b537-dd78db94bf90,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

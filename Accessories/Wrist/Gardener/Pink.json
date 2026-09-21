@@ -1,0 +1,11 @@
+{
+  "family": "Gardener",
+  "slot": "Wrist",
+  "variant": "Pink",
+  "displayGuess": "Gardener (Pink)",
+  "combinationAsset": "Gardener_Wrist_Pink_Combination.asset",
+  "combinationGuid": "ySbPHkP8WEee2V_P8lt_RA",
+  "combinationGuidDashed": "1ecf26c9-fc43-4758-9ed9-5fcff25b7f44",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

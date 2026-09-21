@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Aromantic",
+  "displayGuess": "Hoodie (Aromantic)",
+  "combinationAsset": "Hoodie_Shirt_Aromantic_Combination.asset",
+  "combinationGuid": "PRLBrEEZhUumm3VnYVJP6Q",
+  "combinationGuidDashed": "acc1123d-1941-4b85-a69b-756761524fe9",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "EnergySaber",
+  "slot": null,
+  "variant": "Green",
+  "displayGuess": "EnergySaber (Green)",
+  "combinationAsset": "EnergySaber_Green_Combination.asset",
+  "combinationGuid": "u0bLCSxcA0yDHC29XnLZOg",
+  "combinationGuidDashed": "09cb46bb-5c2c-4c03-831c-2dbd5e72d93a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

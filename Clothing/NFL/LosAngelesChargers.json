@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "LosAngelesChargers",
+  "displayGuess": "NFL (LosAngelesChargers)",
+  "combinationAsset": "NFL_Shirt_LosAngelesChargers_Combination.asset",
+  "combinationGuid": "Rlxn533MdUqMefvUSoZrrQ",
+  "combinationGuidDashed": "e7675c46-cc7d-4a75-8c79-fbd44a866bad",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

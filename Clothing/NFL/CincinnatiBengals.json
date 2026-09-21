@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "CincinnatiBengals",
+  "displayGuess": "NFL (CincinnatiBengals)",
+  "combinationAsset": "NFL_Shirt_CincinnatiBengals_Combination.asset",
+  "combinationGuid": "ishXZTP3bkeVNk68PBZAiA",
+  "combinationGuidDashed": "6557c88a-f733-476e-9536-4ebc3c164088",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

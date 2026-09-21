@@ -1,0 +1,11 @@
+{
+  "family": "RatKing",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "RatKing (Purple)",
+  "combinationAsset": "RatKing_Hat_Purple_Combination.asset",
+  "combinationGuid": "RTrcYpLtukm83lwAfWi5WA",
+  "combinationGuidDashed": "62dc3a45-ed92-49ba-bcde-5c007d68b958",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

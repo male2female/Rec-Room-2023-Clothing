@@ -1,0 +1,11 @@
+{
+  "family": "Bowler",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "Bowler (Red)",
+  "combinationAsset": "Bowler_Hat_Red_Combination.asset",
+  "combinationGuid": "VyqdOGaUnEa8WzccUIn48w",
+  "combinationGuidDashed": "389d2a57-9466-469c-bc5b-371c5089f8f3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

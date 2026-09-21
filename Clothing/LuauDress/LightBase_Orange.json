@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "LightBase_Orange",
+  "displayGuess": "LuauDress (LightBase_Orange)",
+  "combinationAsset": "LuauDress_Shirt_LightBase_Orange_Combination.asset",
+  "combinationGuid": "nPUQvBsxu0mzhQg9YnWEgw,CAqT_iLfQ0qQ-GbIdAsZow,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

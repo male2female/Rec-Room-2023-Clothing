@@ -1,0 +1,11 @@
+{
+  "family": "BusinessTie",
+  "slot": "Neck",
+  "variant": "ScifiCarpet",
+  "displayGuess": "BusinessTie (ScifiCarpet)",
+  "combinationAsset": "BusinessTie_Neck_ScifiCarpet_Combination.asset",
+  "combinationGuid": "0809a5cf-a0f3-4614-9f98-71518524518a,8212812b-e7e7-4f6d-aa27-d1112af45473,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BeanieBrim",
+  "slot": "Hat",
+  "variant": "MusicNotes",
+  "displayGuess": "BeanieBrim (MusicNotes)",
+  "combinationAsset": "BeanieBrim_Hat_MusicNotes_Combination.asset",
+  "combinationGuid": "QCOMyeCUK0Gudx4ljBmAdw",
+  "combinationGuidDashed": "c98c2340-94e0-412b-ae77-1e258c198077",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "JackFrostWings",
+  "slot": "Shoulder",
+  "variant": "Contest",
+  "displayGuess": "JackFrostWings (Contest)",
+  "combinationAsset": "JackFrostWings_Shoulder_Contest_Combination.asset",
+  "combinationGuid": "dpfTnOvsrUePTVs0XZD9qQ,gOt7BYXvw0uUS-U53KThAA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

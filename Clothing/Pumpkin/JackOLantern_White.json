@@ -1,0 +1,11 @@
+{
+  "family": "Pumpkin",
+  "slot": "Shirt",
+  "variant": "JackOLantern_White",
+  "displayGuess": "Pumpkin (JackOLantern_White)",
+  "combinationAsset": "Pumpkin_Shirt_JackOLantern_White_Combination.asset",
+  "combinationGuid": "Be2v1bpBSEu4lwKJePscPA",
+  "combinationGuidDashed": "d5afed05-41ba-4b48-b897-028978fb1c3c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

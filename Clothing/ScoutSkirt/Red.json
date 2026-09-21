@@ -1,0 +1,11 @@
+{
+  "family": "ScoutSkirt",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "ScoutSkirt (Red)",
+  "combinationAsset": "ScoutSkirt_Shirt_Red_Combination.asset",
+  "combinationGuid": "2bb65868-ee12-4871-b50d-64bbc9066f0b,e65530f7-543c-43e9-bf12-b6cda2bc755c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

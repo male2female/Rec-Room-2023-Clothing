@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "IceCream",
+  "displayGuess": "PoolFloatie (IceCream)",
+  "combinationAsset": "PoolFloatie_Belt_IceCream_Combination.asset",
+  "combinationGuid": "7BMBl3iA6USKijNCKfCXqA",
+  "combinationGuidDashed": "970113ec-8078-44e9-8a8a-334229f097a8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "TampaBayBuccaneers",
+  "displayGuess": "NFL (TampaBayBuccaneers)",
+  "combinationAsset": "NFL_Hat_TampaBayBuccaneers_Combination.asset",
+  "combinationGuid": "3m5Q5crrHUGZJ9_GuxubQw",
+  "combinationGuidDashed": "e5506ede-ebca-411d-9927-dfc6bb1b9b43",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

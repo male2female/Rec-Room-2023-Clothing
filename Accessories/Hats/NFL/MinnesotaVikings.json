@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "MinnesotaVikings",
+  "displayGuess": "NFL (MinnesotaVikings)",
+  "combinationAsset": "NFL_Hat_MinnesotaVikings_Combination.asset",
+  "combinationGuid": "-0DfEFcbNEaNI2uvfHF9qA",
+  "combinationGuidDashed": "10df40fb-1b57-4634-8d23-6baf7c717da8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

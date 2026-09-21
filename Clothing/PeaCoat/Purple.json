@@ -1,0 +1,11 @@
+{
+  "family": "PeaCoat",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "PeaCoat (Purple)",
+  "combinationAsset": "PeaCoat_Shirt_Purple_Combination.asset",
+  "combinationGuid": "uiBklotTUEqRI2F67vyJyA,AZnPWCN41kmNwFwDqWGFWQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

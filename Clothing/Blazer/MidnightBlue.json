@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "MidnightBlue",
+  "displayGuess": "Blazer (MidnightBlue)",
+  "combinationAsset": "Blazer_Shirt_MidnightBlue_Combination.asset",
+  "combinationGuid": "6f2e74bf-1e95-463d-97db-d5d1a53b2c28,be2b9293-1d3c-4b1c-b4c5-fad3ab16cf54,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

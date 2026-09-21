@@ -1,0 +1,11 @@
+{
+  "family": "HeadScarfTwist",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "HeadScarfTwist (Black)",
+  "combinationAsset": "HeadScarfTwist_Hat_Black_Combination.asset",
+  "combinationGuid": "jcG-vMduWEq14vo2sKYdWw",
+  "combinationGuidDashed": "bcbec18d-6ec7-4a58-b5e2-fa36b0a61d5b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

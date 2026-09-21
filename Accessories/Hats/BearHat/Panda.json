@@ -1,0 +1,11 @@
+{
+  "family": "BearHat",
+  "slot": "Hat",
+  "variant": "Panda",
+  "displayGuess": "BearHat (Panda)",
+  "combinationAsset": "BearHat_Hat_Panda_Combination.asset",
+  "combinationGuid": "OnZujqqU_UqwxmznvBBMfg,_zrnGn1ErEWR8WqrZmKZsA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

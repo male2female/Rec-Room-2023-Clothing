@@ -1,0 +1,11 @@
+{
+  "family": "EveningCoat",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "EveningCoat (Orange)",
+  "combinationAsset": "EveningCoat_Shirt_Orange_Combination.asset",
+  "combinationGuid": "j66We9SYr0SNQ2ufZqIqhA,KOCzRE4a6EKb3_NVOI_lcg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

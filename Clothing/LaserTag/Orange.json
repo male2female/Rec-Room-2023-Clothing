@@ -1,0 +1,11 @@
+{
+  "family": "LaserTag",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "LaserTag (Orange)",
+  "combinationAsset": "LaserTag_Shirt_Orange_Combination.asset",
+  "combinationGuid": "jkuw9EhCpEKn-2lKJXWd3Q,959ed05b-0215-4bbe-bb3d-64e4448d676b,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

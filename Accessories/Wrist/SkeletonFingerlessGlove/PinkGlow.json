@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonFingerlessGlove",
+  "slot": "Wrist",
+  "variant": "PinkGlow",
+  "displayGuess": "SkeletonFingerlessGlove (PinkGlow)",
+  "combinationAsset": "SkeletonFingerlessGlove_Wrist_PinkGlow_Combination.asset",
+  "combinationGuid": "DJnKyNXtuEW1tbKBFscIng,GXS9LQgPU0mJIEuXo_Oocw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

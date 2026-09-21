@@ -1,0 +1,11 @@
+{
+  "family": "SteampunkFemme",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "SteampunkFemme (Contest)",
+  "combinationAsset": "SteampunkFemme_Hat_Contest_Combination.asset",
+  "combinationGuid": "vuSwk04zykCe3ANKN838OA,Uhw5NBQy-EOIiCWiZFiL7g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

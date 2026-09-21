@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Suns",
+  "displayGuess": "WorkoutTee (Suns)",
+  "combinationAsset": "WorkoutTee_Shirt_Suns_Combination.asset",
+  "combinationGuid": "hU2rt41rvUqulLM1H5NX4g",
+  "combinationGuidDashed": "b7ab4d85-6b8d-4abd-ae94-b3351f9357e2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

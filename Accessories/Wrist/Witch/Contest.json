@@ -1,0 +1,11 @@
+{
+  "family": "Witch",
+  "slot": "Wrist",
+  "variant": "Contest",
+  "displayGuess": "Witch (Contest)",
+  "combinationAsset": "Witch_Wrist_Contest_Combination.asset",
+  "combinationGuid": "Hk6svQ5Sr0GDKLxOyktk9w,IQvHmZ8ei02hVuXZiXb6TA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

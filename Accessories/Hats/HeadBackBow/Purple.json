@@ -1,0 +1,11 @@
+{
+  "family": "HeadBackBow",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "HeadBackBow (Purple)",
+  "combinationAsset": "HeadBackBow_Hat_Purple_Combination.asset",
+  "combinationGuid": "8iZO162KNUiMC8l_z3OC_A,3DdSzSqV1UG5AtPr8ro3Kg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "BeeYourself",
+  "displayGuess": "UntuckedTee (BeeYourself)",
+  "combinationAsset": "UntuckedTee_BeeYourself_Combination.asset",
+  "combinationGuid": "V-vCW0ICl0Ke3QPAGo9GSg",
+  "combinationGuidDashed": "5bc2eb57-0242-4297-9edd-03c01a8f464a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

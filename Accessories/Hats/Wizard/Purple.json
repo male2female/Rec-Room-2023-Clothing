@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "Wizard (Purple)",
+  "combinationAsset": "Wizard_Hat_Purple_Combination.asset",
+  "combinationGuid": "d3KmqVuMQkCYK6sVTMOTOA,abdf525b-b871-41be-a1c8-810f49740ad4,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

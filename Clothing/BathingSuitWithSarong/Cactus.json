@@ -1,0 +1,11 @@
+{
+  "family": "BathingSuitWithSarong",
+  "slot": "Shirt",
+  "variant": "Cactus",
+  "displayGuess": "BathingSuitWithSarong (Cactus)",
+  "combinationAsset": "BathingSuitWithSarong_Shirt_Cactus_Combination.asset",
+  "combinationGuid": "PNnfMibAUkqetPThlhtBgw",
+  "combinationGuidDashed": "32dfd93c-c026-4a52-9eb4-f4e1961b4183",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

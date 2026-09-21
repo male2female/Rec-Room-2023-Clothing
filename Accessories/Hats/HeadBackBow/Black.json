@@ -1,0 +1,11 @@
+{
+  "family": "HeadBackBow",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "HeadBackBow (Black)",
+  "combinationAsset": "HeadBackBow_Hat_Black_Combination.asset",
+  "combinationGuid": "f_c50saStkaGJuhLjJ9lfA,3DdSzSqV1UG5AtPr8ro3Kg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

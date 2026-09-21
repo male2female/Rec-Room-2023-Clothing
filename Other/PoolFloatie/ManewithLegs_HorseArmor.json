@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": null,
+  "variant": "ManewithLegs_HorseArmor",
+  "displayGuess": "PoolFloatie (ManewithLegs_HorseArmor)",
+  "combinationAsset": "PoolFloatie_ManewithLegs_HorseArmor_Combination.asset",
+  "combinationGuid": "ljbO0JAKVky8M97MsjKnPg",
+  "combinationGuidDashed": "d0ce3696-0a90-4c56-bc33-deccb232a73e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

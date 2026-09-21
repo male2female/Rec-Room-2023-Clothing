@@ -1,0 +1,11 @@
+{
+  "family": "BountyHunterCape",
+  "slot": "Shoulder",
+  "variant": "Green",
+  "displayGuess": "BountyHunterCape (Green)",
+  "combinationAsset": "BountyHunterCape_Shoulder_Green_Combination.asset",
+  "combinationGuid": "Q3ctsvvDDEy_S1TDiGdf6w,DobTmYhC7EigHmvYnCTm3w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

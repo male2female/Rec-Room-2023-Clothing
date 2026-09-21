@@ -1,0 +1,11 @@
+{
+  "family": "LettermanShades",
+  "slot": "Eye",
+  "variant": "Green",
+  "displayGuess": "LettermanShades (Green)",
+  "combinationAsset": "LettermanShades_Eye_Green_Combination.asset",
+  "combinationGuid": "0svDrGn2NkmhUjC1VJUgRg,S21TW8NwMEWLV9zqHxWfFw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

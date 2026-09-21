@@ -1,0 +1,11 @@
+{
+  "family": "SeaCaptain",
+  "slot": "Shirt",
+  "variant": "BlueDark",
+  "displayGuess": "SeaCaptain (BlueDark)",
+  "combinationAsset": "SeaCaptain_Shirt_BlueDark_Combination.asset",
+  "combinationGuid": "7c1aaa7e-503b-46ef-b1c5-0c61a75b916e,8ec5de40-73fc-4f09-9bf3-ddf4701107bc,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

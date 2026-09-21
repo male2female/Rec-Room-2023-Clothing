@@ -1,0 +1,11 @@
+{
+  "family": "GraduationGown",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "GraduationGown (Red)",
+  "combinationAsset": "GraduationGown_Shirt_Red_Combination.asset",
+  "combinationGuid": "4D4ge1PYokaj_g96k4oasA,ica0LZyM_kOox8gxW7CaMw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

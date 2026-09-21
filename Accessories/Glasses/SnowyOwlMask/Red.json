@@ -1,0 +1,11 @@
+{
+  "family": "SnowyOwlMask",
+  "slot": "Eye",
+  "variant": "Red",
+  "displayGuess": "SnowyOwlMask (Red)",
+  "combinationAsset": "SnowyOwlMask_Eye_Red_Combination.asset",
+  "combinationGuid": "I_3bHRSG_EmC6novYyy2dA,Cq8BOWcHb0GTDLvXl1iIcg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

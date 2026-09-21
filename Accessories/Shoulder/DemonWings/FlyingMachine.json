@@ -1,0 +1,11 @@
+{
+  "family": "DemonWings",
+  "slot": "Shoulder",
+  "variant": "FlyingMachine",
+  "displayGuess": "DemonWings (FlyingMachine)",
+  "combinationAsset": "DemonWings_Shoulder_FlyingMachine_Combination.asset",
+  "combinationGuid": "CwObTyhghkWonhm5nTnAaw",
+  "combinationGuidDashed": "4f9b030b-6028-4586-a89e-19b99d39c06b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

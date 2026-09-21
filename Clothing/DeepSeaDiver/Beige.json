@@ -1,0 +1,11 @@
+{
+  "family": "DeepSeaDiver",
+  "slot": "Shirt",
+  "variant": "Beige",
+  "displayGuess": "DeepSeaDiver (Beige)",
+  "combinationAsset": "DeepSeaDiver_Shirt_Beige_Combination.asset",
+  "combinationGuid": "Su7kiW24d0KapNns96JoFQ,EiIow5mS80qpoS10r1ZdvQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

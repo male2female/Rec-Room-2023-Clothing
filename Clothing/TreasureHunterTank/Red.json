@@ -1,0 +1,11 @@
+{
+  "family": "TreasureHunterTank",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "TreasureHunterTank (Red)",
+  "combinationAsset": "TreasureHunterTank_Shirt_Red_Combination.asset",
+  "combinationGuid": "Ij8MXrl1Okip4M7y-gF23Q,K5NXVecrqk6Nb6SkBu08ww,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

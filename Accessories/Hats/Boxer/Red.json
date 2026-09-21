@@ -1,0 +1,11 @@
+{
+  "family": "Boxer",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "Boxer (Red)",
+  "combinationAsset": "Boxer_Hat_Red_Combination.asset",
+  "combinationGuid": "8c7b09f2-6213-4ef9-87ab-a2df72d07a22,92714eac-cc07-4f74-a6f5-cfbbadd07e06,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

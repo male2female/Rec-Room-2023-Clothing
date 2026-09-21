@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "RecCon_ForbiddenOne",
+  "displayGuess": "MaleTShirt (RecCon_ForbiddenOne)",
+  "combinationAsset": "MaleTShirt_Shirt_RecCon_ForbiddenOne_Combination.asset",
+  "combinationGuid": "zlBPAWMbOE2RuKoIy1Ps8Q,UwQiLub0-kqf4dNvQc-R0A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

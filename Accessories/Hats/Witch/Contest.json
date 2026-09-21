@@ -1,0 +1,11 @@
+{
+  "family": "Witch",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "Witch (Contest)",
+  "combinationAsset": "Witch_Hat_Contest_Combination.asset",
+  "combinationGuid": "PcUZrdKXhk2XHa5Gy0YnnA,dpBx3DxB7kKJphxCvfmKKw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Conductor",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Conductor (Green)",
+  "combinationAsset": "Conductor_Hat_Green_Combination.asset",
+  "combinationGuid": "LdKaVAveokmp3qRwVBxnFA,YJGsYfwkik2lp7qWqXyXTw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

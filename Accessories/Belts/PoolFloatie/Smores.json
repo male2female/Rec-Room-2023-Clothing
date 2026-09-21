@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "Smores",
+  "displayGuess": "PoolFloatie (Smores)",
+  "combinationAsset": "PoolFloatie_Belt_Smores_Combination.asset",
+  "combinationGuid": "6wCu0bPODE6tayAY_aicRQ",
+  "combinationGuidDashed": "d1ae00eb-ceb3-4e0c-ad6b-2018fda89c45",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

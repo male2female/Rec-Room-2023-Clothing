@@ -1,0 +1,11 @@
+{
+  "family": "QuiltedVest",
+  "slot": "Shirt",
+  "variant": "Flannel",
+  "displayGuess": "QuiltedVest (Flannel)",
+  "combinationAsset": "QuiltedVest_Shirt_Flannel_Combination.asset",
+  "combinationGuid": "ZLaDizWS7kOmnHVGlLLJ-g,TUZ21v0C9UK9GPsfbRwpsw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

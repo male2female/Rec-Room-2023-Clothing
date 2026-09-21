@@ -1,0 +1,11 @@
+{
+  "family": "RoundHeadphones",
+  "slot": "Hat",
+  "variant": "8ball",
+  "displayGuess": "RoundHeadphones (8ball)",
+  "combinationAsset": "RoundHeadphones_Hat_8ball_Combination.asset",
+  "combinationGuid": "G_fqC7KPaUWFM4Dk3stJYw",
+  "combinationGuidDashed": "0beaf71b-8fb2-4569-8533-80e4decb4963",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

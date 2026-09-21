@@ -1,0 +1,11 @@
+{
+  "family": "Cloche",
+  "slot": "Hat",
+  "variant": "Tan",
+  "displayGuess": "Cloche (Tan)",
+  "combinationAsset": "Cloche_Hat_Tan_Combination.asset",
+  "combinationGuid": "bmi_S166JEGWhf_7woVL0A,WWmx0nBo3k2nXUPPRJVJLQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "GamerGrape",
+  "displayGuess": "LuauDress (GamerGrape)",
+  "combinationAsset": "LuauDress_Shirt_GamerGrape_Combination.asset",
+  "combinationGuid": "RKftA1Fw30-hriuZNMGsoQ",
+  "combinationGuidDashed": "03eda744-7051-4fdf-a1ae-2b9934c1aca1",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

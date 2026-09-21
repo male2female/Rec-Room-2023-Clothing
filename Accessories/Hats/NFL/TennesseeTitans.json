@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "TennesseeTitans",
+  "displayGuess": "NFL (TennesseeTitans)",
+  "combinationAsset": "NFL_Hat_TennesseeTitans_Combination.asset",
+  "combinationGuid": "XNTUcdaSVEuS3rbzwIwYNg",
+  "combinationGuidDashed": "71d4d45c-92d6-4b54-92de-b6f3c08c1836",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

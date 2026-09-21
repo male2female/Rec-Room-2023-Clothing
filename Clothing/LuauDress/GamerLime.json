@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "GamerLime",
+  "displayGuess": "LuauDress (GamerLime)",
+  "combinationAsset": "LuauDress_Shirt_GamerLime_Combination.asset",
+  "combinationGuid": "P6w6X7-Dak2G6O8HDRwlVg",
+  "combinationGuidDashed": "5f3aac3f-83bf-4d6a-86e8-ef070d1c2556",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

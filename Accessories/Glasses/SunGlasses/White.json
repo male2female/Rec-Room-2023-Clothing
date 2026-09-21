@@ -1,0 +1,11 @@
+{
+  "family": "SunGlasses",
+  "slot": "Eye",
+  "variant": "White",
+  "displayGuess": "SunGlasses (White)",
+  "combinationAsset": "SunGlasses_Eye_White_Combination.asset",
+  "combinationGuid": "dZM1bs6_MU2F6Vz1mH0QKg,KfM7veOVlE-dNZmsbDNZBA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

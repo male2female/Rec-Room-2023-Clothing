@@ -1,0 +1,11 @@
+{
+  "family": "Keytar",
+  "slot": "Shoulder",
+  "variant": "Purple",
+  "displayGuess": "Keytar (Purple)",
+  "combinationAsset": "Keytar_Shoulder_Purple_Combination.asset",
+  "combinationGuid": "0aNp_2sWHUS_08TMe-_AzQ",
+  "combinationGuidDashed": "ff69a3d1-166b-441d-bfd3-c4cc7befc0cd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

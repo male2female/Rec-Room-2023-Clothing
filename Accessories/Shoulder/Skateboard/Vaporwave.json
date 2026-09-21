@@ -1,0 +1,11 @@
+{
+  "family": "Skateboard",
+  "slot": "Shoulder",
+  "variant": "Vaporwave",
+  "displayGuess": "Skateboard (Vaporwave)",
+  "combinationAsset": "Skateboard_Shoulder_Vaporwave_Combination.asset",
+  "combinationGuid": "RDkLPQ8OukGIuLgTwnyqfw",
+  "combinationGuidDashed": "3d0b3944-0e0f-41ba-88b8-b813c27caa7f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

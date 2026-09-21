@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "Wizard (Black)",
+  "combinationAsset": "Wizard_Shirt_Black_Combination.asset",
+  "combinationGuid": "7afe1bb0-5ca9-4263-8f85-49d3a18353c7,8768aa33-b014-4062-b323-b146dd7d78d2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

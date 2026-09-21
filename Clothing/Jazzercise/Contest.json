@@ -1,0 +1,11 @@
+{
+  "family": "Jazzercise",
+  "slot": "Shirt",
+  "variant": "Contest",
+  "displayGuess": "Jazzercise (Contest)",
+  "combinationAsset": "Jazzercise_Shirt_Contest_Combination.asset",
+  "combinationGuid": "oF_wUv-ShU6GP34Ch0MnlQ,YTd0lIQLcU2Y2trwuLhJTg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

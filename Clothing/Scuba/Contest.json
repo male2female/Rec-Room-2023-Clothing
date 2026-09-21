@@ -1,0 +1,11 @@
+{
+  "family": "Scuba",
+  "slot": "Shirt",
+  "variant": "Contest",
+  "displayGuess": "Scuba (Contest)",
+  "combinationAsset": "Scuba_Shirt_Contest_Combination.asset",
+  "combinationGuid": "J-K34UX_B0yObjQI9tn0vQ,m0R4Jtf4HES8krxMnwIWFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

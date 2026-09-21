@@ -1,0 +1,11 @@
+{
+  "family": "WingedTruckerHat",
+  "slot": "Hat",
+  "variant": "Vintage",
+  "displayGuess": "WingedTruckerHat (Vintage)",
+  "combinationAsset": "WingedTruckerHat_Hat_Vintage_Combination.asset",
+  "combinationGuid": "nn86ATWxekWdIGlPePPgGQ,njEWOjNEQEWCEqmytodpow,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

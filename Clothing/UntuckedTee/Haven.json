@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "Haven",
+  "displayGuess": "UntuckedTee (Haven)",
+  "combinationAsset": "UntuckedTee_Shirt_Haven_Combination.asset",
+  "combinationGuid": "mzu-a8fcsUCW591ENABAgg",
+  "combinationGuidDashed": "6bbe3b9b-dcc7-40b1-96e7-dd4434004082",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

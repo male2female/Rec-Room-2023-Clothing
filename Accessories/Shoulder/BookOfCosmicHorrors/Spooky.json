@@ -1,0 +1,11 @@
+{
+  "family": "BookOfCosmicHorrors",
+  "slot": "Shoulder",
+  "variant": "Spooky",
+  "displayGuess": "BookOfCosmicHorrors (Spooky)",
+  "combinationAsset": "BookOfCosmicHorrors_Shoulder_Spooky_Combination.asset",
+  "combinationGuid": "14Gft1zCQECXPxPmiUc5VQ",
+  "combinationGuidDashed": "b79f81d7-c25c-4040-973f-13e689473955",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

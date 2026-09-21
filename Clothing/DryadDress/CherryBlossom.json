@@ -1,0 +1,11 @@
+{
+  "family": "DryadDress",
+  "slot": "Shirt",
+  "variant": "CherryBlossom",
+  "displayGuess": "DryadDress (CherryBlossom)",
+  "combinationAsset": "DryadDress_Shirt_CherryBlossom_Combination.asset",
+  "combinationGuid": "BYbKbXAgUk6vE7H7w4jSMA",
+  "combinationGuidDashed": "6dca8605-2070-4e52-af13-b1fbc388d230",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

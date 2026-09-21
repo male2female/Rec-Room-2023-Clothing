@@ -1,0 +1,11 @@
+{
+  "family": "RecTrooper",
+  "slot": null,
+  "variant": "Space",
+  "displayGuess": "RecTrooper (Space)",
+  "combinationAsset": "RecTrooper_Space_Combination.asset",
+  "combinationGuid": "W7E9KfRTLEK-1EZTNKM3Yw",
+  "combinationGuidDashed": "293db15b-53f4-422c-bed4-465334a33763",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

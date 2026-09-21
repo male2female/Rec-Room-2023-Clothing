@@ -1,0 +1,11 @@
+{
+  "family": "BusinessTie",
+  "slot": "Neck",
+  "variant": "MrRobbie",
+  "displayGuess": "BusinessTie (MrRobbie)",
+  "combinationAsset": "BusinessTie_Neck_MrRobbie_Combination.asset",
+  "combinationGuid": "3svqbYmGt0uyVWnx7vJNmw,iLo1YhFY-06HNWgM6gkB7g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

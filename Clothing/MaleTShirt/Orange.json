@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "MaleTShirt (Orange)",
+  "combinationAsset": "MaleTShirt_Shirt_Orange_Combination.asset",
+  "combinationGuid": "95e4cc30-cb68-473d-a395-feadf5b51512,0440f08f-ef1d-49d8-942b-523056e8bb45,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

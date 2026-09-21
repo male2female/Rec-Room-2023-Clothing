@@ -1,0 +1,11 @@
+{
+  "family": "SteampunkFemmeSpex",
+  "slot": "Eye",
+  "variant": "BlackandSilver",
+  "displayGuess": "SteampunkFemmeSpex (BlackandSilver)",
+  "combinationAsset": "SteampunkFemmeSpex_Eye_BlackandSilver_Combination.asset",
+  "combinationGuid": "mZ2ASMrs80axStLp9g1enA,dGzmSibucEe7i1HD7lPcNQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

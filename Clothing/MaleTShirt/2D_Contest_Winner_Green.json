@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "2D_Contest_Winner_Green",
+  "displayGuess": "MaleTShirt (2D_Contest_Winner_Green)",
+  "combinationAsset": "MaleTShirt_Shirt_2D_Contest_Winner_Green_Combination.asset",
+  "combinationGuid": "UUlB4S3GVUGyil6ZK-EbWQ,0440f08f-ef1d-49d8-942b-523056e8bb45,omS7gF10C0ec0ozEoJGJXw",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

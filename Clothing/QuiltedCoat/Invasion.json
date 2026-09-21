@@ -1,0 +1,11 @@
+{
+  "family": "Quiltedcoat",
+  "slot": "Shirt",
+  "variant": "Invasion",
+  "displayGuess": "Quiltedcoat (Invasion)",
+  "combinationAsset": "Quiltedcoat_Shirt_Invasion_Combination.asset",
+  "combinationGuid": "j3I0vVz0yUOYLX9wCOMyyA",
+  "combinationGuidDashed": "bd34728f-f45c-43c9-982d-7f7008e332c8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

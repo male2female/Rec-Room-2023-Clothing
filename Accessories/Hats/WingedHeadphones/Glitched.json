@@ -1,0 +1,11 @@
+{
+  "family": "WingedHeadphones",
+  "slot": "Hat",
+  "variant": "Glitched",
+  "displayGuess": "WingedHeadphones (Glitched)",
+  "combinationAsset": "WingedHeadphones_Hat_Glitched_Combination.asset",
+  "combinationGuid": "VtsT6sKDYE24bAU-PKkIDQ",
+  "combinationGuidDashed": "ea13db56-83c2-4d60-b86c-053e3ca9080d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

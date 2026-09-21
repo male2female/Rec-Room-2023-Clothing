@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Spurs",
+  "displayGuess": "WorkoutTee (Spurs)",
+  "combinationAsset": "WorkoutTee_Shirt_Spurs_Combination.asset",
+  "combinationGuid": "RddbstjtZ0ClxgY-s66tTw",
+  "combinationGuidDashed": "b25bd745-edd8-4067-a5c6-063eb3aead4f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

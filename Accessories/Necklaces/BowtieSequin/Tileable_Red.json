@@ -1,0 +1,11 @@
+{
+  "family": "BowtieSequin",
+  "slot": "Neck",
+  "variant": "Tileable_Red",
+  "displayGuess": "BowtieSequin (Tileable_Red)",
+  "combinationAsset": "BowtieSequin_Neck_Tileable_Red_Combination.asset",
+  "combinationGuid": "Wm30oV5BtEuFQZFk3dPK_w,0R3Mh96tS0631EZYs03dmw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

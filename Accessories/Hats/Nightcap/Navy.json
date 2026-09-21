@@ -1,0 +1,11 @@
+{
+  "family": "Nightcap",
+  "slot": "Hat",
+  "variant": "Navy",
+  "displayGuess": "Nightcap (Navy)",
+  "combinationAsset": "Nightcap_Hat_Navy_Combination.asset",
+  "combinationGuid": "2vawoQvJPUegnClmr2RNAQ,RR69IGV4j0Sd2xtmyN5wFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

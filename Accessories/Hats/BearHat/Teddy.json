@@ -1,0 +1,11 @@
+{
+  "family": "BearHat",
+  "slot": "Hat",
+  "variant": "Teddy",
+  "displayGuess": "BearHat (Teddy)",
+  "combinationAsset": "BearHat_Hat_Teddy_Combination.asset",
+  "combinationGuid": "XKoxnTXYGkSUu52nVS9dnA,TFOAk7kwh0uUgtsyDNxMuQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

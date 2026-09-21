@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Pistons",
+  "displayGuess": "WorkoutTee (Pistons)",
+  "combinationAsset": "WorkoutTee_Shirt_Pistons_Combination.asset",
+  "combinationGuid": "eAq9xK51mE-Nu4RQY0ds4Q",
+  "combinationGuidDashed": "c4bd0a78-75ae-4f98-8dbb-845063476ce1",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

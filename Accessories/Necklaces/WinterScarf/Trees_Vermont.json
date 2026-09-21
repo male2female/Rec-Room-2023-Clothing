@@ -1,0 +1,11 @@
+{
+  "family": "WinterScarf",
+  "slot": "Neck",
+  "variant": "Trees_Vermont",
+  "displayGuess": "WinterScarf (Trees_Vermont)",
+  "combinationAsset": "WinterScarf_Neck_Trees_Vermont_Combination.asset",
+  "combinationGuid": "TDcZZ2ynEU-Mgmju_qIVIg,6WVXb20giEWyZbW2gWGz_w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

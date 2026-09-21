@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "JacksonvilleJaguars",
+  "displayGuess": "NFL (JacksonvilleJaguars)",
+  "combinationAsset": "NFL_Shirt_JacksonvilleJaguars_Combination.asset",
+  "combinationGuid": "w_8Bff5J_Uej5iCAz2WTBw",
+  "combinationGuidDashed": "7d01ffc3-49fe-47fd-a3e6-2080cf659307",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

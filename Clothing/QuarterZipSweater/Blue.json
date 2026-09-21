@@ -1,0 +1,11 @@
+{
+  "family": "QuarterZipSweater",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "QuarterZipSweater (Blue)",
+  "combinationAsset": "QuarterZipSweater_Shirt_Blue_Combination.asset",
+  "combinationGuid": "p5zYbKLGU0m0ZutOicfjsw",
+  "combinationGuidDashed": "6cd89ca7-c6a2-4953-b466-eb4e89c7e3b3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

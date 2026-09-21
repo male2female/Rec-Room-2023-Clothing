@@ -1,0 +1,11 @@
+{
+  "family": "MechaWings",
+  "slot": null,
+  "variant": "ForbiddenOne",
+  "displayGuess": "MechaWings (ForbiddenOne)",
+  "combinationAsset": "MechaWings_ForbiddenOne_Combination.asset",
+  "combinationGuid": "cS-oBNlLE061SIB40QjiDg",
+  "combinationGuidDashed": "04a82f71-4bd9-4e13-b548-8078d108e20e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

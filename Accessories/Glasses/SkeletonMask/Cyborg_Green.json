@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "Cyborg_Green",
+  "displayGuess": "SkeletonMask (Cyborg_Green)",
+  "combinationAsset": "SkeletonMask_Eye_Cyborg_Green_Combination.asset",
+  "combinationGuid": "7BrllPDzNEyD9UZgdgM1Dw",
+  "combinationGuidDashed": "94e51aec-f3f0-4c34-83f5-46607603350f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

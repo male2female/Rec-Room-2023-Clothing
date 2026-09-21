@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Emerald_Syndicate",
+  "displayGuess": "MaleTShirt (Emerald_Syndicate)",
+  "combinationAsset": "MaleTShirt_Shirt_Emerald_Syndicate_Combination.asset",
+  "combinationGuid": "jna5wcWK90WokJyoeJH1iw,0440f08f-ef1d-49d8-942b-523056e8bb45,0qh4mcxJH0Wsrb3nz8UeGw",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

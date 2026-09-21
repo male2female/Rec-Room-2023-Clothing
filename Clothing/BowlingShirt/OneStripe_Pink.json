@@ -1,0 +1,11 @@
+{
+  "family": "BowlingShirt",
+  "slot": "Shirt",
+  "variant": "OneStripe_Pink",
+  "displayGuess": "BowlingShirt (OneStripe_Pink)",
+  "combinationAsset": "BowlingShirt_Shirt_OneStripe_Pink_Combination.asset",
+  "combinationGuid": "-k9_-2onrEG407or8t1RFw,b-IM3eYMJUa40395O5XeLg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

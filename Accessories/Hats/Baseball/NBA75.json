@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "NBA75",
+  "displayGuess": "Baseball (NBA75)",
+  "combinationAsset": "Baseball_Hat_NBA75_Combination.asset",
+  "combinationGuid": "xPs8BvGgdUC1i_luWAfSFA",
+  "combinationGuidDashed": "063cfbc4-a0f1-4075-b58b-f96e5807d214",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

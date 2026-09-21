@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "VerticalStripe_SolidCollar",
+  "displayGuess": "CollarShirt (VerticalStripe_SolidCollar)",
+  "combinationAsset": "CollarShirt_Shirt_VerticalStripe_SolidCollar_Combination.asset",
+  "combinationGuid": "48abd952-214f-48b2-a8f1-1146f6f69aa2,RNN0ejjlm0yqGDcEuUkLjw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

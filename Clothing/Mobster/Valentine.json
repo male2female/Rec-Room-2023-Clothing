@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Shirt",
+  "variant": "Valentine",
+  "displayGuess": "Mobster (Valentine)",
+  "combinationAsset": "Mobster_Shirt_Valentine_Combination.asset",
+  "combinationGuid": "4VkPVbBVLE-eJHilwGMAbQ,HTjlzAlWZ0ezY6w3ngSQSg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

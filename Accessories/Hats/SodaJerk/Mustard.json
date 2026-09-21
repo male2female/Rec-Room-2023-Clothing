@@ -1,0 +1,11 @@
+{
+  "family": "SodaJerk",
+  "slot": "Hat",
+  "variant": "Mustard",
+  "displayGuess": "SodaJerk (Mustard)",
+  "combinationAsset": "SodaJerk_Hat_Mustard_Combination.asset",
+  "combinationGuid": "MxnAq_XOw0uTzQ8IIxqb_Q,sV_ByCug30G1Gw-77KUe1Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

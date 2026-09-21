@@ -1,0 +1,11 @@
+{
+  "family": "BunnyEars",
+  "slot": "Hat",
+  "variant": "Brown",
+  "displayGuess": "BunnyEars (Brown)",
+  "combinationAsset": "BunnyEars_Hat_Brown_Combination.asset",
+  "combinationGuid": "ss931x_Hy0-y1au-fT3zTQ,knKB2ETYmUupbvBwlleZRw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

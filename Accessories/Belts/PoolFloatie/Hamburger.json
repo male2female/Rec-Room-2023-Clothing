@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "Hamburger",
+  "displayGuess": "PoolFloatie (Hamburger)",
+  "combinationAsset": "PoolFloatie_Belt_Hamburger_Combination.asset",
+  "combinationGuid": "1w_u4d4AjESxw5dxRkKHrw,CylZksC7KUGXF2VeJhlLSw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

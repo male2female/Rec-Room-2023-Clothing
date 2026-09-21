@@ -1,0 +1,11 @@
+{
+  "family": "BikeGlove",
+  "slot": "Wrist",
+  "variant": "Premium",
+  "displayGuess": "BikeGlove (Premium)",
+  "combinationAsset": "BikeGlove_Wrist_Premium_Combination.asset",
+  "combinationGuid": "qspNifi92keI-XssPB5qDA,RVraJOPsOUqZjd8bEiPduQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

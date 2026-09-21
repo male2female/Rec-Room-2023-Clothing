@@ -1,0 +1,11 @@
+{
+  "family": "Golfer",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Golfer (Blue)",
+  "combinationAsset": "Golfer_Hat_Blue_Combination.asset",
+  "combinationGuid": "6584dada-499e-4d7c-958d-466955b20640,ddf429fd-a883-48a5-869b-bc12e44d30bf,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

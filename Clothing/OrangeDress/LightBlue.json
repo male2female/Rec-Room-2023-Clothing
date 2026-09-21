@@ -1,0 +1,11 @@
+{
+  "family": "OrangeDress",
+  "slot": "Shirt",
+  "variant": "LightBlue",
+  "displayGuess": "OrangeDress (LightBlue)",
+  "combinationAsset": "OrangeDress_Shirt_LightBlue_Combination.asset",
+  "combinationGuid": "f750de46-3758-4f7d-9709-0a84b1027009,2c8924aa-68f8-4912-9759-18992f72f08a,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

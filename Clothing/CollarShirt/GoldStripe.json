@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "GoldStripe",
+  "displayGuess": "CollarShirt (GoldStripe)",
+  "combinationAsset": "CollarShirt_Shirt_GoldStripe_Combination.asset",
+  "combinationGuid": "n4SdiVms4kaqdjXdbjRBbw,YEMLBlOWsEO4tELHseZ7LA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

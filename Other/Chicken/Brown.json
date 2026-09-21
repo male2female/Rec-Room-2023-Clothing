@@ -1,0 +1,11 @@
+{
+  "family": "Chicken",
+  "slot": null,
+  "variant": "Brown",
+  "displayGuess": "Chicken (Brown)",
+  "combinationAsset": "Chicken_Brown_Combination.asset",
+  "combinationGuid": "wl3nqp4FsU2wqEkYFqv3_Q",
+  "combinationGuidDashed": "aae75dc2-059e-4db1-b0a8-491816abf7fd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

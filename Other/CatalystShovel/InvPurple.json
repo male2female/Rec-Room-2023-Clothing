@@ -1,0 +1,11 @@
+{
+  "family": "CatalystShovel",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "CatalystShovel (InvPurple)",
+  "combinationAsset": "CatalystShovel_InvPurple_Combination.asset",
+  "combinationGuid": "q9hshPgwT0ijshnbKEBKWw",
+  "combinationGuidDashed": "846cd8ab-30f8-484f-a3b2-19db28404a5b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

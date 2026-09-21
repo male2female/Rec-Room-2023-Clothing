@@ -1,0 +1,11 @@
+{
+  "family": "PaintballTruckerCap",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "PaintballTruckerCap (Green)",
+  "combinationAsset": "PaintballTruckerCap_Hat_Green_Combination.asset",
+  "combinationGuid": "LOeHr4xoik6VOv1fOeImjA,3pdsIrhM9EW-y-LNnjbFxg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

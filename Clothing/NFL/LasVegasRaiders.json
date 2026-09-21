@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "LasVegasRaiders",
+  "displayGuess": "NFL (LasVegasRaiders)",
+  "combinationAsset": "NFL_Shirt_LasVegasRaiders_Combination.asset",
+  "combinationGuid": "XlkkIjP4EEKq0ObjXYGtBA",
+  "combinationGuidDashed": "2224595e-f833-4210-aad0-e6e35d81ad04",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

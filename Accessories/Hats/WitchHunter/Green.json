@@ -1,0 +1,11 @@
+{
+  "family": "WitchHunter",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "WitchHunter (Green)",
+  "combinationAsset": "WitchHunter_Hat_Green_Combination.asset",
+  "combinationGuid": "64545dcc-a8eb-4c69-a539-78ee73a2d327,32d91d32-b102-4093-927a-6dc3ac2e9e86,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

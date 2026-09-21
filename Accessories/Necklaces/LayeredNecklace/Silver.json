@@ -1,0 +1,11 @@
+{
+  "family": "LayeredNecklace",
+  "slot": "Neck",
+  "variant": "Silver",
+  "displayGuess": "LayeredNecklace (Silver)",
+  "combinationAsset": "LayeredNecklace_Neck_Silver_Combination.asset",
+  "combinationGuid": "UCxz68a5E0WaZkocDfEf5A",
+  "combinationGuidDashed": "eb732c50-b9c6-4513-9a66-4a1c0df11fe4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "Heart",
+  "displayGuess": "Baseball (Heart)",
+  "combinationAsset": "Baseball_Hat_Heart_Combination.asset",
+  "combinationGuid": "nzFUAOCAFUCd9S-x4EKRwQ,Qx7nrZH-K06CgIoJYfFCCQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

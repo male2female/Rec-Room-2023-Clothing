@@ -1,0 +1,11 @@
+{
+  "family": "LuchadorCape",
+  "slot": "Shoulder",
+  "variant": "Blue",
+  "displayGuess": "LuchadorCape (Blue)",
+  "combinationAsset": "LuchadorCape_Shoulder_Blue_Combination.asset",
+  "combinationGuid": "xNjX_6-aREm0cYZObVLiAg,OE-PtL0-0kWcJPwn1wvuVg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

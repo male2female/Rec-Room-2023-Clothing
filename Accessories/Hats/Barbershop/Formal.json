@@ -1,0 +1,11 @@
+{
+  "family": "Barbershop",
+  "slot": "Hat",
+  "variant": "Formal",
+  "displayGuess": "Barbershop (Formal)",
+  "combinationAsset": "Barbershop_Hat_Formal_Combination.asset",
+  "combinationGuid": "631c9015-2a00-47ea-bb35-465a2ddbca5d,83158223-e268-4036-8a6a-218a8430eb2c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

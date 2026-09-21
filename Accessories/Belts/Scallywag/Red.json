@@ -1,0 +1,11 @@
+{
+  "family": "Scallywag",
+  "slot": "Belt",
+  "variant": "Red",
+  "displayGuess": "Scallywag (Red)",
+  "combinationAsset": "Scallywag_Belt_Red_Combination.asset",
+  "combinationGuid": "c3c9f89c-580c-43c4-b38b-07394044e0e1,005699fe-2c69-4bec-831f-031fe8ad7f0a,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

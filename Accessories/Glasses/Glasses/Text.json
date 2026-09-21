@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Text",
+  "displayGuess": "Glasses (Text)",
+  "combinationAsset": "Glasses_Eye_Text_Combination.asset",
+  "combinationGuid": "dRQI80Qn4E-kzhPJoW66MA",
+  "combinationGuidDashed": "f3081475-2744-4fe0-a4ce-13c9a16eba30",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

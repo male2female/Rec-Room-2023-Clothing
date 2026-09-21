@@ -1,0 +1,11 @@
+{
+  "family": "BikeGlove",
+  "slot": "Wrist",
+  "variant": "Yellow",
+  "displayGuess": "BikeGlove (Yellow)",
+  "combinationAsset": "BikeGlove_Wrist_Yellow_Combination.asset",
+  "combinationGuid": "4398ce1a-e6ee-4da4-ad0d-7abfab41020c,0XPd5RzNJEepHztqwAznHQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "RoyalCrown",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "RoyalCrown (Black)",
+  "combinationAsset": "RoyalCrown_Hat_Black_Combination.asset",
+  "combinationGuid": "QkfA71-1z0qOiZAVrbzhtA,hCeaYHy1TE2s6rTPxAQP9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

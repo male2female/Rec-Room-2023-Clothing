@@ -1,0 +1,11 @@
+{
+  "family": "Scuba",
+  "slot": "Shoulder",
+  "variant": "Contest",
+  "displayGuess": "Scuba (Contest)",
+  "combinationAsset": "Scuba_Shoulder_Contest_Combination.asset",
+  "combinationGuid": "GWi1rEebqkCV_TS2WzQhcA,4zPm9miF5UOouEWFpOxYZg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

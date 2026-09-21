@@ -1,0 +1,11 @@
+{
+  "family": "Golfer",
+  "slot": "Wrist",
+  "variant": "Blue",
+  "displayGuess": "Golfer (Blue)",
+  "combinationAsset": "Golfer_Wrist_Blue_Combination.asset",
+  "combinationGuid": "32a5e42d-2b60-40b1-a145-ed96fc91af8e,f4cea991-fc3d-4715-bf82-8a8fb60e8799,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

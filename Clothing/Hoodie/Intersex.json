@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Intersex",
+  "displayGuess": "Hoodie (Intersex)",
+  "combinationAsset": "Hoodie_Shirt_Intersex_Combination.asset",
+  "combinationGuid": "MfF0wizDjUa7RUE-AVJpvA",
+  "combinationGuidDashed": "c274f131-c32c-468d-bb45-413e015269bc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

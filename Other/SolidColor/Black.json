@@ -1,0 +1,11 @@
+{
+  "family": "SolidColor",
+  "slot": null,
+  "variant": "Black",
+  "displayGuess": "SolidColor (Black)",
+  "combinationAsset": "SolidColor_Black_Combination.asset",
+  "combinationGuid": "e69372eb-2fd8-4e17-a448-ee0be61a2c7a,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

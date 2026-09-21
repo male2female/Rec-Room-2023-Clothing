@@ -1,0 +1,11 @@
+{
+  "family": "SpaghettiCowboy",
+  "slot": "Shoulder",
+  "variant": "Blue",
+  "displayGuess": "SpaghettiCowboy (Blue)",
+  "combinationAsset": "SpaghettiCowboy_Shoulder_Blue_Combination.asset",
+  "combinationGuid": "VnRSTH4HqEqADLtryqSQNQ,kxkqq5UA_kCM6lFsFe3dvw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

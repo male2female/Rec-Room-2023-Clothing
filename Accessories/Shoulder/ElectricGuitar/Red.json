@@ -1,0 +1,11 @@
+{
+  "family": "ElectricGuitar",
+  "slot": "Shoulder",
+  "variant": "Red",
+  "displayGuess": "ElectricGuitar (Red)",
+  "combinationAsset": "ElectricGuitar_Shoulder_Red_Combination.asset",
+  "combinationGuid": "zBfCq7T69kqZPTz3P8KKhg",
+  "combinationGuidDashed": "abc217cc-fab4-4af6-993d-3cf73fc28a86",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

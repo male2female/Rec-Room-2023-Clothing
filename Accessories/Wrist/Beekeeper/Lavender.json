@@ -1,0 +1,11 @@
+{
+  "family": "Beekeeper",
+  "slot": "Wrist",
+  "variant": "Lavender",
+  "displayGuess": "Beekeeper (Lavender)",
+  "combinationAsset": "Beekeeper_Wrist_Lavender_Combination.asset",
+  "combinationGuid": "lBe3yxuE40eBmTrnEHBqQQ,1f18670d-df52-4d2b-8009-a32cf7c67b40,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

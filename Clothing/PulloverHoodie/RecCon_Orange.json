@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "RecCon_Orange",
+  "displayGuess": "PulloverHoodie (RecCon_Orange)",
+  "combinationAsset": "PulloverHoodie_Shirt_RecCon_Orange_Combination.asset",
+  "combinationGuid": "HUxqkzeE-Umq96TgSn0Hbg,48yVsRt8sU6jf3P4wlPA8Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

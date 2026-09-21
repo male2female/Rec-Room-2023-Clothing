@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Shirt",
+  "variant": "UglySweater",
+  "displayGuess": "Winter (UglySweater)",
+  "combinationAsset": "Winter_Shirt_UglySweater_Combination.asset",
+  "combinationGuid": "fTWOc1eEl0aVKXwTYYjA9Q,31nK13dsTkaIf3tGFrZlJQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

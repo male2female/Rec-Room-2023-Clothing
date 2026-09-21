@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "BuffaloBills",
+  "displayGuess": "NFL (BuffaloBills)",
+  "combinationAsset": "NFL_Hat_BuffaloBills_Combination.asset",
+  "combinationGuid": "WlfHWDcnO0SBT5wTjEPSmw",
+  "combinationGuidDashed": "58c7575a-2737-443b-814f-9c138c43d29b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

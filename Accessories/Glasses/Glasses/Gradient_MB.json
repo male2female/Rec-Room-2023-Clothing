@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Gradient_MB",
+  "displayGuess": "Glasses (Gradient_MB)",
+  "combinationAsset": "Glasses_Eye_Gradient_MB_Combination.asset",
+  "combinationGuid": "OBcu3bf1NEio_7t9smqGag",
+  "combinationGuidDashed": "dd2e1738-f5b7-4834-a8ff-bb7db26a866a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

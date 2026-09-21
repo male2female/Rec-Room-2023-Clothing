@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Bulls",
+  "displayGuess": "WorkoutTee (Bulls)",
+  "combinationAsset": "WorkoutTee_Shirt_Bulls_Combination.asset",
+  "combinationGuid": "hE5scNMqJ0igY_jhufvNmg",
+  "combinationGuidDashed": "706c4e84-2ad3-4827-a063-f8e1b9fbcd9a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

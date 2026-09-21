@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "YellowGlow",
+  "displayGuess": "SkeletonMask (YellowGlow)",
+  "combinationAsset": "SkeletonMask_Eye_YellowGlow_Combination.asset",
+  "combinationGuid": "jhPUIkf5bkinMSsqPTK3fg,DfyODsHfIESXxVjcfZmBOA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

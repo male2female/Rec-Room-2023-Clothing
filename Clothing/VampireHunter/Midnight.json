@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Shirt",
+  "variant": "Midnight",
+  "displayGuess": "VampireHunter (Midnight)",
+  "combinationAsset": "VampireHunter_Shirt_Midnight_Combination.asset",
+  "combinationGuid": "CavRDqIlmUeTZBtCLn1hZQ,x10FeRBsQU2DIIpG8XIlwg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

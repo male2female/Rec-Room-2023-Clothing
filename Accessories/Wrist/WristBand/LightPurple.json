@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "LightPurple",
+  "displayGuess": "WristBand (LightPurple)",
+  "combinationAsset": "WristBand_Wrist_LightPurple_Combination.asset",
+  "combinationGuid": "Z2L6AqDdcUqxiN1mVw-X9g,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

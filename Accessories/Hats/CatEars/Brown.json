@@ -1,0 +1,11 @@
+{
+  "family": "CatEars",
+  "slot": "Hat",
+  "variant": "Brown",
+  "displayGuess": "CatEars (Brown)",
+  "combinationAsset": "CatEars_Hat_Brown_Combination.asset",
+  "combinationGuid": "713781e5-ce47-41c6-a24f-94d42a565e30,1e3195ab-f7f6-41f4-a5ec-378d09ecdf69,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

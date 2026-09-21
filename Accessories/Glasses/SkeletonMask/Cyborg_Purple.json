@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "Cyborg_Purple",
+  "displayGuess": "SkeletonMask (Cyborg_Purple)",
+  "combinationAsset": "SkeletonMask_Eye_Cyborg_Purple_Combination.asset",
+  "combinationGuid": "lwyGrpMk-kGZwIkioHr8Sg",
+  "combinationGuidDashed": "ae860c97-2493-41fa-99c0-8922a07afc4a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

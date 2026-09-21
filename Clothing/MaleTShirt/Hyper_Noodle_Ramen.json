@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Hyper_Noodle_Ramen",
+  "displayGuess": "MaleTShirt (Hyper_Noodle_Ramen)",
+  "combinationAsset": "MaleTShirt_Shirt_Hyper_Noodle_Ramen_Combination.asset",
+  "combinationGuid": "M1JVd5ur7U2ZtpvhEhPNhw,0440f08f-ef1d-49d8-942b-523056e8bb45,tzMFIJyxZE6cZNuLdaKs7w",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

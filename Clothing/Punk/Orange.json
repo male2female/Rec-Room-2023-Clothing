@@ -1,0 +1,11 @@
+{
+  "family": "Punk",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "Punk (Orange)",
+  "combinationAsset": "Punk_Shirt_Orange_Combination.asset",
+  "combinationGuid": "YceWQmfB7U-R7OeBIr2Ogw",
+  "combinationGuidDashed": "4296c761-c167-4fed-91ec-e78122bd8e83",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

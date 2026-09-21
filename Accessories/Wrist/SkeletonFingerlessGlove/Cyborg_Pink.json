@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonFingerlessGlove",
+  "slot": "Wrist",
+  "variant": "Cyborg_Pink",
+  "displayGuess": "SkeletonFingerlessGlove (Cyborg_Pink)",
+  "combinationAsset": "SkeletonFingerlessGlove_Wrist_Cyborg_Pink_Combination.asset",
+  "combinationGuid": "GYeYHzKcekODxx_zbtk8Qg",
+  "combinationGuidDashed": "1f988719-9c32-437a-83c7-1ff36ed93c42",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

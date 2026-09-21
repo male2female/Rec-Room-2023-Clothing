@@ -1,0 +1,11 @@
+{
+  "family": "FighterPilot",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "FighterPilot (Black)",
+  "combinationAsset": "FighterPilot_Shirt_Black_Combination.asset",
+  "combinationGuid": "8c74ee27-3d56-401b-8a8c-7868a80770e8,435eba0d-d8f9-43cc-91aa-2959d63c6fa7,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

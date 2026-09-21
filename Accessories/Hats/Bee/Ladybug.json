@@ -1,0 +1,11 @@
+{
+  "family": "Bee",
+  "slot": "Hat",
+  "variant": "Ladybug",
+  "displayGuess": "Bee (Ladybug)",
+  "combinationAsset": "Bee_Hat_Ladybug_Combination.asset",
+  "combinationGuid": "dXz9B9OH2UuLNV35u8KB-A",
+  "combinationGuidDashed": "07fd7c75-87d3-4bd9-8b35-5df9bbc281f8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

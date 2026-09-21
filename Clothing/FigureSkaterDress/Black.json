@@ -1,0 +1,11 @@
+{
+  "family": "FigureSkaterDress",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "FigureSkaterDress (Black)",
+  "combinationAsset": "FigureSkaterDress_Shirt_Black_Combination.asset",
+  "combinationGuid": "ngF6e9k3wkme3HdodiB03w",
+  "combinationGuidDashed": "7b7a019e-37d9-49c2-9edc-7768762074df",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

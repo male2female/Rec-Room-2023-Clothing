@@ -1,0 +1,11 @@
+{
+  "family": "Soccer",
+  "slot": "Wrist",
+  "variant": "RecproOrange",
+  "displayGuess": "Soccer (RecproOrange)",
+  "combinationAsset": "Soccer_Wrist_RecproOrange_Combination.asset",
+  "combinationGuid": "3by5X5XZ4EW7eaERsaBJKg",
+  "combinationGuidDashed": "5fb9bcdd-d995-45e0-bb79-a111b1a0492a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

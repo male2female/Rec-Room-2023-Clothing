@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteMask",
+  "slot": null,
+  "variant": "Black",
+  "displayGuess": "VigilanteMask (Black)",
+  "combinationAsset": "VigilanteMask_Black_Combination.asset",
+  "combinationGuid": "2U3ZEvBzoESCb7kk4zSokQ",
+  "combinationGuidDashed": "12d94dd9-73f0-44a0-826f-b924e334a891",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

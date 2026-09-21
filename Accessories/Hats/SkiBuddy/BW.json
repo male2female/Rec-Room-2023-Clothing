@@ -1,0 +1,11 @@
+{
+  "family": "SkiBuddy",
+  "slot": "Hat",
+  "variant": "BW",
+  "displayGuess": "SkiBuddy (BW)",
+  "combinationAsset": "SkiBuddy_Hat_BW_Combination.asset",
+  "combinationGuid": "sipxCGA1uUu72KV07vAWFA",
+  "combinationGuidDashed": "08712ab2-3560-4bb9-bbd8-a574eef01614",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

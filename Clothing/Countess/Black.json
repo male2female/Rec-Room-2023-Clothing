@@ -1,0 +1,11 @@
+{
+  "family": "Countess",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "Countess (Black)",
+  "combinationAsset": "Countess_Shirt_Black_Combination.asset",
+  "combinationGuid": "i5RKLo-RbEqisnGII1wpaQ,xnxDimLvVUCI9tEJqWDDcA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

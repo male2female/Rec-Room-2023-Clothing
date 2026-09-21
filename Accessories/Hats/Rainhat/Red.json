@@ -1,0 +1,11 @@
+{
+  "family": "Rainhat",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "Rainhat (Red)",
+  "combinationAsset": "Rainhat_Hat_Red_Combination.asset",
+  "combinationGuid": "v3af60p1Q02NpdCqIRO9lw,1hVOI7IuY0mKvtr2PZXLww,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

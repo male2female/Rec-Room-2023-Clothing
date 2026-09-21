@@ -1,0 +1,11 @@
+{
+  "family": "BowlingShirt",
+  "slot": "Shirt",
+  "variant": "Flames_Blue",
+  "displayGuess": "BowlingShirt (Flames_Blue)",
+  "combinationAsset": "BowlingShirt_Shirt_Flames_Blue_Combination.asset",
+  "combinationGuid": "032pE8s9Ik-2CImFVDrSqg,5RUG6i2Mx0-55IO-IlhUdQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BabydollDress",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "BabydollDress (Green)",
+  "combinationAsset": "BabydollDress_Shirt_Green_Combination.asset",
+  "combinationGuid": "c9589974-c261-485e-b571-cb2f34fb178f,cb9e9e05-c481-4397-86e7-c2111bc0e817,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

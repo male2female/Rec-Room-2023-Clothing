@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Magic",
+  "displayGuess": "WorkoutTee (Magic)",
+  "combinationAsset": "WorkoutTee_Shirt_Magic_Combination.asset",
+  "combinationGuid": "B3wjSG3Ui0ipGgN3h7BFiw",
+  "combinationGuidDashed": "48237c07-d46d-488b-a91a-037787b0458b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

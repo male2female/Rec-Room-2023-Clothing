@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Alpaca",
+  "displayGuess": "MaleTShirt (Alpaca)",
+  "combinationAsset": "MaleTShirt_Shirt_Alpaca_Combination.asset",
+  "combinationGuid": "941c046e-4e95-49f8-a7d7-19071fcc3c94,0440f08f-ef1d-49d8-942b-523056e8bb45,703ff56b-560d-4ff4-8c63-d195e879a328",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

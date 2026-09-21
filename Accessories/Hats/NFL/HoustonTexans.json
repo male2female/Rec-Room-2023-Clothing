@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "HoustonTexans",
+  "displayGuess": "NFL (HoustonTexans)",
+  "combinationAsset": "NFL_Hat_HoustonTexans_Combination.asset",
+  "combinationGuid": "1nFX70Rqo0-qQo2M_Z1KCg",
+  "combinationGuidDashed": "ef5771d6-6a44-4fa3-aa42-8d8cfd9d4a0a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

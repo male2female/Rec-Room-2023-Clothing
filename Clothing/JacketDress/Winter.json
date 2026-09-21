@@ -1,0 +1,11 @@
+{
+  "family": "JacketDress",
+  "slot": "Shirt",
+  "variant": "Winter",
+  "displayGuess": "JacketDress (Winter)",
+  "combinationAsset": "JacketDress_Shirt_Winter_Combination.asset",
+  "combinationGuid": "tLbmGIoldE2CC5Qi1oyqyA",
+  "combinationGuidDashed": "18e6b6b4-258a-4d74-820b-9422d68caac8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

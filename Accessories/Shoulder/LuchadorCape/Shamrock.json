@@ -1,0 +1,11 @@
+{
+  "family": "LuchadorCape",
+  "slot": "Shoulder",
+  "variant": "Shamrock",
+  "displayGuess": "LuchadorCape (Shamrock)",
+  "combinationAsset": "LuchadorCape_Shoulder_Shamrock_Combination.asset",
+  "combinationGuid": "r_QZLd-Aw0SsdQb_uYroog,eYGWiwqSGUG7Hx1R3I-11A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

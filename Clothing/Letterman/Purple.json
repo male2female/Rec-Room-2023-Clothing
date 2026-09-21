@@ -1,0 +1,11 @@
+{
+  "family": "Letterman",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "Letterman (Purple)",
+  "combinationAsset": "Letterman_Shirt_Purple_Combination.asset",
+  "combinationGuid": "iufpnteVCEiiZu_m-yPovQ,fz_0gZ6RXEC78NpYsx_eqA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

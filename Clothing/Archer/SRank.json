@@ -1,0 +1,11 @@
+{
+  "family": "Archer",
+  "slot": "Shirt",
+  "variant": "SRank",
+  "displayGuess": "Archer (SRank)",
+  "combinationAsset": "Archer_Shirt_SRank_Combination.asset",
+  "combinationGuid": "lgqLGi01o02ZFC9Xs5Ofdg,f88178b8-b204-4fa5-9dfd-6e438bf1e247,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

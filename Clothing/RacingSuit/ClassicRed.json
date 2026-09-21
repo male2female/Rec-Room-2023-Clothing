@@ -1,0 +1,11 @@
+{
+  "family": "RacingSuit",
+  "slot": "Shirt",
+  "variant": "ClassicRed",
+  "displayGuess": "RacingSuit (ClassicRed)",
+  "combinationAsset": "RacingSuit_Shirt_ClassicRed_Combination.asset",
+  "combinationGuid": "lhqUg1VMNkC8nrsGZF4edQ,uFERkSfSl0i9BPFBVOICeg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

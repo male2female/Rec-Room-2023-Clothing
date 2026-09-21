@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "FourthFridays",
+  "displayGuess": "UntuckedTee (FourthFridays)",
+  "combinationAsset": "UntuckedTee_Shirt_FourthFridays_Combination.asset",
+  "combinationGuid": "JpaGA1tG6U-VLsHH_vklzA",
+  "combinationGuidDashed": "03869626-465b-4fe9-952e-c1c7fef925cc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

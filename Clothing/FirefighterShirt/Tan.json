@@ -1,0 +1,11 @@
+{
+  "family": "FirefighterShirt",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "FirefighterShirt (Tan)",
+  "combinationAsset": "FirefighterShirt_Shirt_Tan_Combination.asset",
+  "combinationGuid": "0x7a3hV5XUyzyf8cUuzVtQ,vYAcZMymO0m6bCNQIsI8rQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

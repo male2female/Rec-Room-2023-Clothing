@@ -1,0 +1,11 @@
+{
+  "family": "BeanieBrim",
+  "slot": "Hat",
+  "variant": "LightTeal",
+  "displayGuess": "BeanieBrim (LightTeal)",
+  "combinationAsset": "BeanieBrim_Hat_LightTeal_Combination.asset",
+  "combinationGuid": "C8b4lTZ-TEOlCVv7Gs219g",
+  "combinationGuidDashed": "95f8c60b-7e36-434c-a509-5bfb1acdb5f6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BatCostumeEars",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "BatCostumeEars (Black)",
+  "combinationAsset": "BatCostumeEars_Hat_Black_Combination.asset",
+  "combinationGuid": "mnYzlq3Rw0-Q89gmc5f9XA",
+  "combinationGuidDashed": "9633769a-d1ad-4fc3-90f3-d8267397fd5c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

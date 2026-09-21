@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Hat",
+  "variant": "SRank",
+  "displayGuess": "Wizard (SRank)",
+  "combinationAsset": "Wizard_Hat_SRank_Combination.asset",
+  "combinationGuid": "RKmRHk2N_U2gd91nybo6vg,abdf525b-b871-41be-a1c8-810f49740ad4,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

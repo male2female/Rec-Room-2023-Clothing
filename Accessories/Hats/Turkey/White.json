@@ -1,0 +1,11 @@
+{
+  "family": "Turkey",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "Turkey (White)",
+  "combinationAsset": "Turkey_Hat_White_Combination.asset",
+  "combinationGuid": "yXDNXmcJvUC4eCx9oGItcA",
+  "combinationGuidDashed": "5ecd70c9-0967-40bd-b878-2c7da0622d70",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

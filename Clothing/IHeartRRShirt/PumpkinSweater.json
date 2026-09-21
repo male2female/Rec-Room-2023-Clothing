@@ -1,0 +1,11 @@
+{
+  "family": "IHeartRRShirt",
+  "slot": "Shirt",
+  "variant": "PumpkinSweater",
+  "displayGuess": "IHeartRRShirt (PumpkinSweater)",
+  "combinationAsset": "IHeartRRShirt_Shirt_PumpkinSweater_Combination.asset",
+  "combinationGuid": "Rd-iQjCjUUW8_o2kIb1rFw,Ez3OIIGl0Eqys2JGnSnQHw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

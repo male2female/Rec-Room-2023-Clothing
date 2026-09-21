@@ -1,0 +1,11 @@
+{
+  "family": "SuspiciousGoblin",
+  "slot": "Shirt",
+  "variant": "Default",
+  "displayGuess": "SuspiciousGoblin",
+  "combinationAsset": "SuspiciousGoblin_Shirt_Combination.asset",
+  "combinationGuid": "4oywwjb3-kifr-um9x87Pw,11ZEZTFhy0ONpoXb3kiewQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

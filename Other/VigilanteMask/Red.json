@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteMask",
+  "slot": null,
+  "variant": "Red",
+  "displayGuess": "VigilanteMask (Red)",
+  "combinationAsset": "VigilanteMask_Red_Combination.asset",
+  "combinationGuid": "kfZalp0wCkypX-QDhF0YoA",
+  "combinationGuidDashed": "965af691-309d-4c0a-a95f-e403845d18a0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

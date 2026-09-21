@@ -1,0 +1,11 @@
+{
+  "family": "RacingHelmet",
+  "slot": "Hat",
+  "variant": "ClassicRed",
+  "displayGuess": "RacingHelmet (ClassicRed)",
+  "combinationAsset": "RacingHelmet_Hat_ClassicRed_Combination.asset",
+  "combinationGuid": "ijCbiOeGD0C4uznegq9CXw,VzyoPsQyCUaW6RSusgVUGQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "WitchHunter",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "WitchHunter (Purple)",
+  "combinationAsset": "WitchHunter_Hat_Purple_Combination.asset",
+  "combinationGuid": "71e5a0fe-fc8d-420b-af3b-e74160e0d1f3,32d91d32-b102-4093-927a-6dc3ac2e9e86,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

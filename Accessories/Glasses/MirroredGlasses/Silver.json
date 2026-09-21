@@ -1,0 +1,11 @@
+{
+  "family": "MirroredGlasses",
+  "slot": "Eye",
+  "variant": "Silver",
+  "displayGuess": "MirroredGlasses (Silver)",
+  "combinationAsset": "MirroredGlasses_Eye_Silver_Combination.asset",
+  "combinationGuid": "f841cdfa-45ba-4f09-a117-503eef34cb4b,9c55b609-b7dc-4070-a3ad-6351a0054a06,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

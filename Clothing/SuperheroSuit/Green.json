@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroSuit",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "SuperheroSuit (Green)",
+  "combinationAsset": "SuperheroSuit_Shirt_Green_Combination.asset",
+  "combinationGuid": "JY4zXsTbX0W1sU6g1o4kuw,Y-XQzHOjIkC_-it1j9m9jA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

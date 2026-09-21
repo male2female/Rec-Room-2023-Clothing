@@ -1,0 +1,11 @@
+{
+  "family": "SweaterScarf",
+  "slot": "Shoulder",
+  "variant": "Yellow",
+  "displayGuess": "SweaterScarf (Yellow)",
+  "combinationAsset": "SweaterScarf_Shoulder_Yellow_Combination.asset",
+  "combinationGuid": "R8VYB2EGPkmQX4dbmGLuRA",
+  "combinationGuidDashed": "0758c547-0661-493e-905f-875b9862ee44",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

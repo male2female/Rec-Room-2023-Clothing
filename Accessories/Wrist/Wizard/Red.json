@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "Wizard (Red)",
+  "combinationAsset": "Wizard_Wrist_Red_Combination.asset",
+  "combinationGuid": "a38254c0-00e3-429b-9d5d-b9e6a9812e69,47514b9b-0d17-4727-97ed-dab67e7fe031,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

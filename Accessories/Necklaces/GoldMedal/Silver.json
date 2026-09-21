@@ -1,0 +1,11 @@
+{
+  "family": "GoldMedal",
+  "slot": "Neck",
+  "variant": "Silver",
+  "displayGuess": "GoldMedal (Silver)",
+  "combinationAsset": "GoldMedal_Neck_Silver_Combination.asset",
+  "combinationGuid": "ERnUPsyT6kuEnIRZF8zPwg,wzt-5C_LjEmIQWUVPcYWhA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

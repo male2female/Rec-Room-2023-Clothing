@@ -1,0 +1,11 @@
+{
+  "family": "BaseballShirt",
+  "slot": "Shirt",
+  "variant": "SolidGreen",
+  "displayGuess": "BaseballShirt (SolidGreen)",
+  "combinationAsset": "BaseballShirt_Shirt_SolidGreen_Combination.asset",
+  "combinationGuid": "9967ce54-c2b7-437a-946e-11f8ee6d6fdd,ca37823a-b8f3-4414-b38b-de0dc7fa4295,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

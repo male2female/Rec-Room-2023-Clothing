@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "WashingtonCommanders",
+  "displayGuess": "NFL (WashingtonCommanders)",
+  "combinationAsset": "NFL_Shirt_WashingtonCommanders_Combination.asset",
+  "combinationGuid": "vtQ3bx6n7kSFdES121M5IQ",
+  "combinationGuidDashed": "6f37d4be-a71e-44ee-8574-44b5db533921",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

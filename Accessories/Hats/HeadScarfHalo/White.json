@@ -1,0 +1,11 @@
+{
+  "family": "HeadScarfHalo",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "HeadScarfHalo (White)",
+  "combinationAsset": "HeadScarfHalo_Hat_White_Combination.asset",
+  "combinationGuid": "fAmEEm6ziUO2ZXTscQWtSg",
+  "combinationGuidDashed": "1284097c-b36e-4389-b665-74ec7105ad4a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

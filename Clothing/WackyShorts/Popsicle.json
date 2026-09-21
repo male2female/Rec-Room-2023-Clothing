@@ -1,0 +1,11 @@
+{
+  "family": "WackyShorts",
+  "slot": "Shirt",
+  "variant": "Popsicle",
+  "displayGuess": "WackyShorts (Popsicle)",
+  "combinationAsset": "WackyShorts_Shirt_Popsicle_Combination.asset",
+  "combinationGuid": "56qchovVVEaVwL9S52kneA,BAjMoTHbD0mSCjoG9jmzjA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

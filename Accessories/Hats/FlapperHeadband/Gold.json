@@ -1,0 +1,11 @@
+{
+  "family": "FlapperHeadband",
+  "slot": "Hat",
+  "variant": "Gold",
+  "displayGuess": "FlapperHeadband (Gold)",
+  "combinationAsset": "FlapperHeadband_Hat_Gold_Combination.asset",
+  "combinationGuid": "b6c25a3b-125b-4aab-bed0-e6e5ced2c21c,d9be3a98-9da9-419e-9dce-fe58a3ad9c4e,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

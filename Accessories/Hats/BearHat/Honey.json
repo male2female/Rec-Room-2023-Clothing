@@ -1,0 +1,11 @@
+{
+  "family": "BearHat",
+  "slot": "Hat",
+  "variant": "Honey",
+  "displayGuess": "BearHat (Honey)",
+  "combinationAsset": "BearHat_Hat_Honey_Combination.asset",
+  "combinationGuid": "9nPWmpM4mUmEpHfthqYeng",
+  "combinationGuidDashed": "9ad673f6-3893-4999-84a4-77ed86a61e9e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

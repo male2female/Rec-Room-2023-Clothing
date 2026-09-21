@@ -1,0 +1,11 @@
+{
+  "family": "BikeGlove",
+  "slot": "Wrist",
+  "variant": "DarkBlue",
+  "displayGuess": "BikeGlove (DarkBlue)",
+  "combinationAsset": "BikeGlove_Wrist_DarkBlue_Combination.asset",
+  "combinationGuid": "XNq4Cns4lEGydtktdsXlmQ,0XPd5RzNJEepHztqwAznHQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

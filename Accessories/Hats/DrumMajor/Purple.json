@@ -1,0 +1,11 @@
+{
+  "family": "DrumMajor",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "DrumMajor (Purple)",
+  "combinationAsset": "DrumMajor_Hat_Purple_Combination.asset",
+  "combinationGuid": "8053b5e5-0f67-4329-a45d-1ee9fc830820,a8a91216-0fcc-461e-a682-95ee82509cce,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

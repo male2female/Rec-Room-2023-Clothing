@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "Yellow",
+  "displayGuess": "WristBand (Yellow)",
+  "combinationAsset": "WristBand_Wrist_Yellow_Combination.asset",
+  "combinationGuid": "M0nOQl44DkG_GjTXzAEQCQ,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

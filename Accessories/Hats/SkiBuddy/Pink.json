@@ -1,0 +1,11 @@
+{
+  "family": "SkiBuddy",
+  "slot": "Hat",
+  "variant": "Pink",
+  "displayGuess": "SkiBuddy (Pink)",
+  "combinationAsset": "SkiBuddy_Hat_Pink_Combination.asset",
+  "combinationGuid": "m2znGrdH-EOhrbLbFsmyOg",
+  "combinationGuidDashed": "1ae76c9b-47b7-43f8-a1ad-b2db16c9b23a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

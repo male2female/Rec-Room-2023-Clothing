@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "KansasCityChiefs",
+  "displayGuess": "NFL (KansasCityChiefs)",
+  "combinationAsset": "NFL_Hat_KansasCityChiefs_Combination.asset",
+  "combinationGuid": "6JY7l1gtpE631NTmT6xv3A",
+  "combinationGuidDashed": "973b96e8-2d58-4ea4-b7d4-d4e64fac6fdc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

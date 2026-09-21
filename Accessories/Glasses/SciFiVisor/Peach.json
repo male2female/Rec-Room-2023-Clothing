@@ -1,0 +1,11 @@
+{
+  "family": "SciFiVisor",
+  "slot": "Eye",
+  "variant": "Peach",
+  "displayGuess": "SciFiVisor (Peach)",
+  "combinationAsset": "SciFiVisor_Eye_Peach_Combination.asset",
+  "combinationGuid": "FFIpxInE-EKbk2GY-pIkyg,uB4gFxfrh0W5OtkmZdFN1Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

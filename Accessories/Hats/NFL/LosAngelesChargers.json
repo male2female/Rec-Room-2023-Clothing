@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "LosAngelesChargers",
+  "displayGuess": "NFL (LosAngelesChargers)",
+  "combinationAsset": "NFL_Hat_LosAngelesChargers_Combination.asset",
+  "combinationGuid": "6EjRVha2i0mCUVLaL_em_w",
+  "combinationGuidDashed": "56d148e8-b616-498b-8251-52da2ff7a6ff",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

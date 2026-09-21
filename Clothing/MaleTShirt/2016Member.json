@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "2016Member",
+  "displayGuess": "MaleTShirt (2016Member)",
+  "combinationAsset": "MaleTShirt_Shirt_2016Member_Combination.asset",
+  "combinationGuid": "5864d23d-1a86-40a6-a52c-46ee670e4508,2ee3944d-e9fb-4959-973e-570a7fc6cc57,167ba0d4-4fac-4143-b5ae-1dbd8e02dc76",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

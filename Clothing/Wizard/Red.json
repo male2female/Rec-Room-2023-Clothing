@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "Wizard (Red)",
+  "combinationAsset": "Wizard_Shirt_Red_Combination.asset",
+  "combinationGuid": "a38254c0-00e3-429b-9d5d-b9e6a9812e69,8768aa33-b014-4062-b323-b146dd7d78d2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

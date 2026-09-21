@@ -1,0 +1,11 @@
+{
+  "family": "ArcherGlove",
+  "slot": "Wrist",
+  "variant": "Black",
+  "displayGuess": "ArcherGlove (Black)",
+  "combinationAsset": "ArcherGlove_Wrist_Black_Combination.asset",
+  "combinationGuid": "2be2f040-68e4-44dd-9099-29f11110f3a4,7b187c06-7ba2-4f3c-bca9-fdf98146f385,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

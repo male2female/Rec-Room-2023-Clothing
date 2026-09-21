@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Shirt",
+  "variant": "PinStripePurple",
+  "displayGuess": "Mobster (PinStripePurple)",
+  "combinationAsset": "Mobster_Shirt_PinStripePurple_Combination.asset",
+  "combinationGuid": "newGzX_zA0eGUX3Iayq5Ag,6Jv4AJGBYUGP_n4sDcz2Kw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Jersey",
+  "slot": "Shirt",
+  "variant": "Fatigue",
+  "displayGuess": "Jersey (Fatigue)",
+  "combinationAsset": "Jersey_Shirt_Fatigue_Combination.asset",
+  "combinationGuid": "6d703981-2734-4c45-8983-cdd5f328902f,a0271cd0-e172-4d3f-aa2f-9806f21a82d2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

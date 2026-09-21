@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Timberwolves",
+  "displayGuess": "WorkoutTee (Timberwolves)",
+  "combinationAsset": "WorkoutTee_Shirt_Timberwolves_Combination.asset",
+  "combinationGuid": "j3S5Gk92mEOKlD424seciA",
+  "combinationGuidDashed": "1ab9748f-764f-4398-8a94-3e36e2c79c88",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

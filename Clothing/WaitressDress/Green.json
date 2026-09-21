@@ -1,0 +1,11 @@
+{
+  "family": "WaitressDress",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "WaitressDress (Green)",
+  "combinationAsset": "WaitressDress_Shirt_Green_Combination.asset",
+  "combinationGuid": "zGOD45zNAk2i6P_zPsNPfg,ORmS9HkfoUeFuO4RhqcW7g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

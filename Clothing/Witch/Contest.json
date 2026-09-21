@@ -1,0 +1,11 @@
+{
+  "family": "Witch",
+  "slot": "Shirt",
+  "variant": "Contest",
+  "displayGuess": "Witch (Contest)",
+  "combinationAsset": "Witch_Shirt_Contest_Combination.asset",
+  "combinationGuid": "uTHwo8qd6Ei3Oy4gz_j9Ow,AK4CoAB2IUGkwqECNaO75g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

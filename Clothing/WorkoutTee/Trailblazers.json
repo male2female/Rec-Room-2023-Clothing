@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Trailblazers",
+  "displayGuess": "WorkoutTee (Trailblazers)",
+  "combinationAsset": "WorkoutTee_Shirt_Trailblazers_Combination.asset",
+  "combinationGuid": "49mpP0duKEylQ2v5ZU9SYg",
+  "combinationGuidDashed": "3fa9d9e3-6e47-4c28-a543-6bf9654f5262",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

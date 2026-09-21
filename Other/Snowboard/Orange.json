@@ -1,0 +1,11 @@
+{
+  "family": "Snowboard",
+  "slot": null,
+  "variant": "Orange",
+  "displayGuess": "Snowboard (Orange)",
+  "combinationAsset": "Snowboard_Orange_Combination.asset",
+  "combinationGuid": "DSZKCNhXAEiAxMM1Gqfhsw",
+  "combinationGuidDashed": "084a260d-57d8-4800-80c4-c3351aa7e1b3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

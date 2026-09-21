@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarine",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "SpaceMarine (Red)",
+  "combinationAsset": "SpaceMarine_Shirt_Red_Combination.asset",
+  "combinationGuid": "d78643e4-c0d2-4836-bf22-b5a0e2d65b28,7ac81d60-05b8-4a85-982c-f69213a93818,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

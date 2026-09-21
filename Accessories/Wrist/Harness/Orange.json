@@ -1,0 +1,11 @@
+{
+  "family": "Harness",
+  "slot": "Wrist",
+  "variant": "Orange",
+  "displayGuess": "Harness (Orange)",
+  "combinationAsset": "Harness_Wrist_Orange_Combination.asset",
+  "combinationGuid": "sX0ZZDcCUkyFSJISfvq0vg,rgzG7sfrlkqd9EO13LNmpQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

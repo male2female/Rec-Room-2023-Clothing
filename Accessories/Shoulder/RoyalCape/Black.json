@@ -1,0 +1,11 @@
+{
+  "family": "RoyalCape",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "RoyalCape (Black)",
+  "combinationAsset": "RoyalCape_Shoulder_Black_Combination.asset",
+  "combinationGuid": "cKLBS6pbf0SFuavWyeZ7GA,HTU3Wp_ri0GNYGFSezFHSg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

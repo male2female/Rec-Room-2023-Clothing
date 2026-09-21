@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "TennisRock",
+  "displayGuess": "UntuckedTee (TennisRock)",
+  "combinationAsset": "UntuckedTee_TennisRock_Combination.asset",
+  "combinationGuid": "S_dLd3dzvk2hM6ZA2DKTWg",
+  "combinationGuidDashed": "774bf74b-7377-4dbe-a133-a640d832935a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

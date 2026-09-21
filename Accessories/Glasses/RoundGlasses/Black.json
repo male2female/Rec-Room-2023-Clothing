@@ -1,0 +1,11 @@
+{
+  "family": "RoundGlasses",
+  "slot": "Eye",
+  "variant": "Black",
+  "displayGuess": "RoundGlasses (Black)",
+  "combinationAsset": "RoundGlasses_Eye_Black_Combination.asset",
+  "combinationGuid": "2pnfLqkYZ0-GbpeE8g0vVA,hGtyDIIWckGoRgCaSG6GBw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

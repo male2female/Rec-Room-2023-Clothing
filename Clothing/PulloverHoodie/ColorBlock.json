@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "ColorBlock",
+  "displayGuess": "PulloverHoodie (ColorBlock)",
+  "combinationAsset": "PulloverHoodie_Shirt_ColorBlock_Combination.asset",
+  "combinationGuid": "SJ7DV0meUU6QjksIcAAeRw",
+  "combinationGuidDashed": "57c39e48-9e49-4e51-908e-4b0870001e47",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

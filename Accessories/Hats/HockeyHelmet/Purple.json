@@ -1,0 +1,11 @@
+{
+  "family": "HockeyHelmet",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "HockeyHelmet (Purple)",
+  "combinationAsset": "HockeyHelmet_Hat_Purple_Combination.asset",
+  "combinationGuid": "d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,7c4d447c-6594-4bd8-9510-12ad683ab116,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

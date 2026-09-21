@@ -1,0 +1,11 @@
+{
+  "family": "FemaleCheerleader",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "FemaleCheerleader (Green)",
+  "combinationAsset": "FemaleCheerleader_Shirt_Green_Combination.asset",
+  "combinationGuid": "a0oe68pikUykAgrRo-axkQ,KFq8d1VsO0KDqBWUj4qRFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

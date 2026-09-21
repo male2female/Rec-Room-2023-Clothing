@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "FoamHand",
+  "displayGuess": "UntuckedTee (FoamHand)",
+  "combinationAsset": "UntuckedTee_Shirt_FoamHand_Combination.asset",
+  "combinationGuid": "hbF6ChMyEk-L8O4f6o_l6A",
+  "combinationGuidDashed": "0a7ab185-3213-4f12-8bf0-ee1fea8fe5e8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "Wizard (White)",
+  "combinationAsset": "Wizard_Hat_White_Combination.asset",
+  "combinationGuid": "d3a9b576-5433-4305-bd96-b08820c09212,abdf525b-b871-41be-a1c8-810f49740ad4,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

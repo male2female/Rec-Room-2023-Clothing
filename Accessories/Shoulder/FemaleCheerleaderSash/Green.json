@@ -1,0 +1,11 @@
+{
+  "family": "FemaleCheerleaderSash",
+  "slot": "Shoulder",
+  "variant": "Green",
+  "displayGuess": "FemaleCheerleaderSash (Green)",
+  "combinationAsset": "FemaleCheerleaderSash_Shoulder_Green_Combination.asset",
+  "combinationGuid": "KUAMuM41hk-YLZoqTiKncA,LjQ1UKN2xkqJkok40Dxaew,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

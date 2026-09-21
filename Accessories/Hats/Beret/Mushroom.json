@@ -1,0 +1,11 @@
+{
+  "family": "Beret",
+  "slot": "Hat",
+  "variant": "Mushroom",
+  "displayGuess": "Beret (Mushroom)",
+  "combinationAsset": "Beret_Hat_Mushroom_Combination.asset",
+  "combinationGuid": "8xqL--ghKUunlS0r4ugCgg",
+  "combinationGuidDashed": "fb8b1af3-21e8-4b29-a795-2d2be2e80282",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

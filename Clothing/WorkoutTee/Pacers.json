@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Pacers",
+  "displayGuess": "WorkoutTee (Pacers)",
+  "combinationAsset": "WorkoutTee_Shirt_Pacers_Combination.asset",
+  "combinationGuid": "ow_9g2xNj0G33-zWIhjW-Q",
+  "combinationGuidDashed": "83fd0fa3-4d6c-418f-b7df-ecd62218d6f9",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

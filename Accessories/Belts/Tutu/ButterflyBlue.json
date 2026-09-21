@@ -1,0 +1,11 @@
+{
+  "family": "Tutu",
+  "slot": "Belt",
+  "variant": "ButterflyBlue",
+  "displayGuess": "Tutu (ButterflyBlue)",
+  "combinationAsset": "Tutu_Belt_ButterflyBlue_Combination.asset",
+  "combinationGuid": "lBkOSQNDZUOvoknntnEMew",
+  "combinationGuidDashed": "490e1994-4303-4365-afa2-49e7b6710c7b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

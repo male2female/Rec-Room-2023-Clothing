@@ -1,0 +1,11 @@
+{
+  "family": "TruckerJacket",
+  "slot": "Shirt",
+  "variant": "RebelRose",
+  "displayGuess": "TruckerJacket (RebelRose)",
+  "combinationAsset": "TruckerJacket_Shirt_RebelRose_Combination.asset",
+  "combinationGuid": "4Eck_dNL1UKlIZWsA1YppQ,WeyKw_WS70Cx3NZdOaxGeA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

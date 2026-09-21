@@ -1,0 +1,11 @@
+{
+  "family": "Nightcap",
+  "slot": "Hat",
+  "variant": "GlowyStars",
+  "displayGuess": "Nightcap (GlowyStars)",
+  "combinationAsset": "Nightcap_Hat_GlowyStars_Combination.asset",
+  "combinationGuid": "ZvUwd0aVfk6SjA7oyouXUQ",
+  "combinationGuidDashed": "7730f566-9546-4e7e-928c-0ee8ca8b9751",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

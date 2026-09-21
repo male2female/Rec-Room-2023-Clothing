@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "ClassOf2018",
+  "displayGuess": "MaleTShirt (ClassOf2018)",
+  "combinationAsset": "MaleTShirt_Shirt_ClassOf2018_Combination.asset",
+  "combinationGuid": "6kPcLZtEqU2Hs4yBFvc_sA,0440f08f-ef1d-49d8-942b-523056e8bb45,NxMm0sSBdUatynU16o0_Zw",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

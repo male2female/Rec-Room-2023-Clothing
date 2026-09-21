@@ -1,0 +1,11 @@
+{
+  "family": "CatEarHeadphones",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "CatEarHeadphones (Blue)",
+  "combinationAsset": "CatEarHeadphones_Hat_Blue_Combination.asset",
+  "combinationGuid": "7Ww7mumWXkiyj0R3u_-hrA",
+  "combinationGuidDashed": "9a3b6ced-96e9-485e-b28f-4477bbffa1ac",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

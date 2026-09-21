@@ -1,0 +1,11 @@
+{
+  "family": "RecTrooper",
+  "slot": null,
+  "variant": "wrist_space",
+  "displayGuess": "RecTrooper (wrist_space)",
+  "combinationAsset": "RecTrooper_wrist_space_Combination.asset",
+  "combinationGuid": "XaNgcjkwP0uxS5_S1JaQrA",
+  "combinationGuidDashed": "7260a35d-3039-4b3f-b14b-9fd2d49690ac",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

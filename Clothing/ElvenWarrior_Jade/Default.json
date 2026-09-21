@@ -1,0 +1,11 @@
+{
+  "family": "ElvenWarrior_Jade",
+  "slot": "Shirt",
+  "variant": "Default",
+  "displayGuess": "ElvenWarrior_Jade",
+  "combinationAsset": "ElvenWarrior_Jade_Shirt_Combination.asset",
+  "combinationGuid": "M5QwJJRRBUy42HLyp6ghtg",
+  "combinationGuidDashed": "24309433-5194-4c05-b8d8-72f2a7a821b6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Sundress",
+  "slot": "Shirt",
+  "variant": "Flowers_Black",
+  "displayGuess": "Sundress (Flowers_Black)",
+  "combinationAsset": "Sundress_Shirt_Flowers_Black_Combination.asset",
+  "combinationGuid": "6PyJEQxyd0K9TPRnvt_86Q,mkNzDvyGfEijbdzAxKYrPQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

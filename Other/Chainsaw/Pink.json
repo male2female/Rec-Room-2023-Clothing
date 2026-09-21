@@ -1,0 +1,11 @@
+{
+  "family": "Chainsaw",
+  "slot": null,
+  "variant": "Pink",
+  "displayGuess": "Chainsaw (Pink)",
+  "combinationAsset": "Chainsaw_Pink_Combination.asset",
+  "combinationGuid": "ZqWSyRnr9ECIvoU5yFyqXQ",
+  "combinationGuidDashed": "c992a566-eb19-40f4-88be-8539c85caa5d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

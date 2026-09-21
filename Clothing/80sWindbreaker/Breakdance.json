@@ -1,0 +1,11 @@
+{
+  "family": "80sWindbreaker",
+  "slot": "Shirt",
+  "variant": "Breakdance",
+  "displayGuess": "80sWindbreaker (Breakdance)",
+  "combinationAsset": "80sWindbreaker_Shirt_Breakdance_Combination.asset",
+  "combinationGuid": "rwojzpr0E0ylG6_Vv_MVaQ",
+  "combinationGuidDashed": "ce230aaf-f49a-4c13-a51b-afd5bff31569",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

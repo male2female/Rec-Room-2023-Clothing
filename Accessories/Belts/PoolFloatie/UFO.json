@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "UFO",
+  "displayGuess": "PoolFloatie (UFO)",
+  "combinationAsset": "PoolFloatie_Belt_UFO_Combination.asset",
+  "combinationGuid": "akqD9mYQQ0qks9SJe80MbA",
+  "combinationGuidDashed": "f6834a6a-1066-4a43-a4b3-d4897bcd0c6c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

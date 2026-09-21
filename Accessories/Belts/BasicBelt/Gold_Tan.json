@@ -1,0 +1,11 @@
+{
+  "family": "BasicBelt",
+  "slot": "Belt",
+  "variant": "Gold_Tan",
+  "displayGuess": "BasicBelt (Gold_Tan)",
+  "combinationAsset": "BasicBelt_Belt_Gold_Tan_Combination.asset",
+  "combinationGuid": "zPGCmxM_b0yTt7tqMaomcw,rL9p5JY83Eyxj00Dieg7oA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

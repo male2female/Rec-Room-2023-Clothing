@@ -1,0 +1,11 @@
+{
+  "family": "GatheredShirt",
+  "slot": "Shirt",
+  "variant": "Denim",
+  "displayGuess": "GatheredShirt (Denim)",
+  "combinationAsset": "GatheredShirt_Shirt_Denim_Combination.asset",
+  "combinationGuid": "8lwfuCRnU0291wqwgTwgRQ",
+  "combinationGuidDashed": "b81f5cf2-6724-4d53-bdd7-0ab0813c2045",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

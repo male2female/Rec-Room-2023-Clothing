@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "TennesseeTitans",
+  "displayGuess": "NFL (TennesseeTitans)",
+  "combinationAsset": "NFL_Shirt_TennesseeTitans_Combination.asset",
+  "combinationGuid": "xdO8lwFuG0e1v2FRmza4dQ",
+  "combinationGuidDashed": "97bcd3c5-6e01-471b-b5bf-61519b36b875",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

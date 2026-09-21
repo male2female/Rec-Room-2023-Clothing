@@ -1,0 +1,11 @@
+{
+  "family": "Bowtie",
+  "slot": "Neck",
+  "variant": "SodaJerk",
+  "displayGuess": "Bowtie (SodaJerk)",
+  "combinationAsset": "Bowtie_Neck_SodaJerk_Combination.asset",
+  "combinationGuid": "e4IDo-fuH0C9YByzcX5k-A,qCIoeLQw-Uq-SKIetIgIpA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

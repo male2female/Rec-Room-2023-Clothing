@@ -1,0 +1,11 @@
+{
+  "family": "SkiBuddy",
+  "slot": "Shirt",
+  "variant": "BW",
+  "displayGuess": "SkiBuddy (BW)",
+  "combinationAsset": "SkiBuddy_Shirt_BW_Combination.asset",
+  "combinationGuid": "vpxBkYv6LUSVV4NhYAS1Fw",
+  "combinationGuidDashed": "91419cbe-fa8b-442d-9557-83616004b517",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

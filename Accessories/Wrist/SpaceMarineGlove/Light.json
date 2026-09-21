@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineGlove",
+  "slot": "Wrist",
+  "variant": "Light",
+  "displayGuess": "SpaceMarineGlove (Light)",
+  "combinationAsset": "SpaceMarineGlove_Wrist_Light_Combination.asset",
+  "combinationGuid": "68273c9e-96d6-4ddb-aaab-d99229e864d5,7634b7ef-9607-497a-b41f-c0191dc75998,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

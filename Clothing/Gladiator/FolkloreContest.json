@@ -1,0 +1,11 @@
+{
+  "family": "Gladiator",
+  "slot": "Shirt",
+  "variant": "FolkloreContest",
+  "displayGuess": "Gladiator (FolkloreContest)",
+  "combinationAsset": "Gladiator_Shirt_FolkloreContest_Combination.asset",
+  "combinationGuid": "RjX1VTHHoEiNBfXkkniDgw",
+  "combinationGuidDashed": "55f53546-c731-48a0-8d05-f5e492788383",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

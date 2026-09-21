@@ -1,0 +1,11 @@
+{
+  "family": "HeadScarf",
+  "slot": null,
+  "variant": "Red",
+  "displayGuess": "HeadScarf (Red)",
+  "combinationAsset": "HeadScarf_Red_Combination.asset",
+  "combinationGuid": "OlfQDuz1NUOr88AL2n0jXg",
+  "combinationGuidDashed": "0ed0573a-f5ec-4335-abf3-c00bda7d235e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

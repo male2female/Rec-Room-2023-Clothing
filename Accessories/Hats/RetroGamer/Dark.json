@@ -1,0 +1,11 @@
+{
+  "family": "RetroGamer",
+  "slot": "Hat",
+  "variant": "Dark",
+  "displayGuess": "RetroGamer (Dark)",
+  "combinationAsset": "RetroGamer_Hat_Dark_Combination.asset",
+  "combinationGuid": "ZYjUekG8JkC9uPkm4xH8ww",
+  "combinationGuidDashed": "7ad48865-bc41-4026-bdb8-f926e311fcc3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

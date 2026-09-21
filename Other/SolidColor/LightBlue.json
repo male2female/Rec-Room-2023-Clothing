@@ -1,0 +1,11 @@
+{
+  "family": "SolidColor",
+  "slot": null,
+  "variant": "LightBlue",
+  "displayGuess": "SolidColor (LightBlue)",
+  "combinationAsset": "SolidColor_LightBlue_Combination.asset",
+  "combinationGuid": "484b6c13-af22-4ad5-8c43-34c0de095d49,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

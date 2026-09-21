@@ -1,0 +1,11 @@
+{
+  "family": "Bowtie",
+  "slot": "Neck",
+  "variant": "CandyCane",
+  "displayGuess": "Bowtie (CandyCane)",
+  "combinationAsset": "Bowtie_Neck_CandyCane_Combination.asset",
+  "combinationGuid": "W4a144so90eRzCojUnDowA,rcuK1wZcXkCe0_LGX7E-Tw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

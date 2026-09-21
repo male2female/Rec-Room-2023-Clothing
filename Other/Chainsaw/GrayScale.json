@@ -1,0 +1,11 @@
+{
+  "family": "Chainsaw",
+  "slot": null,
+  "variant": "GrayScale",
+  "displayGuess": "Chainsaw (GrayScale)",
+  "combinationAsset": "Chainsaw_GrayScale_Combination.asset",
+  "combinationGuid": "5p1Hwa8IE0KIuucb7hV16w",
+  "combinationGuidDashed": "c1479de6-08af-4213-88ba-e71bee1575eb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

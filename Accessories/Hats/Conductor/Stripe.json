@@ -1,0 +1,11 @@
+{
+  "family": "Conductor",
+  "slot": "Hat",
+  "variant": "Stripe",
+  "displayGuess": "Conductor (Stripe)",
+  "combinationAsset": "Conductor_Hat_Stripe_Combination.asset",
+  "combinationGuid": "e-oZt-PbKEOfawVammBQTA",
+  "combinationGuidDashed": "b719ea7b-dbe3-4328-9f6b-055a9a60504c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

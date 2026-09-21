@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "RECDLC",
+  "displayGuess": "UntuckedTee (RECDLC)",
+  "combinationAsset": "UntuckedTee_Shirt_RECDLC_Combination.asset",
+  "combinationGuid": "ppH8miE39kGaSuACQv34WA",
+  "combinationGuidDashed": "9afc91a6-3721-41f6-9a4a-e00242fdf858",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

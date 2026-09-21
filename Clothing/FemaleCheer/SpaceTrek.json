@@ -1,0 +1,11 @@
+{
+  "family": "FemaleCheer",
+  "slot": "Shirt",
+  "variant": "SpaceTrek",
+  "displayGuess": "FemaleCheer (SpaceTrek)",
+  "combinationAsset": "FemaleCheer_Shirt_SpaceTrek_Combination.asset",
+  "combinationGuid": "cFQ1Z7_wp0meS8wdC1hemQ",
+  "combinationGuidDashed": "67355470-f0bf-49a7-9e4b-cc1d0b585e99",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

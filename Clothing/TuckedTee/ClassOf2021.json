@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "ClassOf2021",
+  "displayGuess": "TuckedTee (ClassOf2021)",
+  "combinationAsset": "TuckedTee_Shirt_ClassOf2021_Combination.asset",
+  "combinationGuid": "vtXUyu-xmkaYtOCL9r3PsA,VtepaI2fvUWhcvNmpQ8r6Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

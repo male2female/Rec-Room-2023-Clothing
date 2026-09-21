@@ -1,0 +1,11 @@
+{
+  "family": "DeepSeaDiver",
+  "slot": "Wrist",
+  "variant": "Black",
+  "displayGuess": "DeepSeaDiver (Black)",
+  "combinationAsset": "DeepSeaDiver_Wrist_Black_Combination.asset",
+  "combinationGuid": "CahBzgN3D0y46AQsvGC14A,0p5N9U5qokKdQhW07yYLGQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

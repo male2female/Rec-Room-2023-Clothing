@@ -1,0 +1,11 @@
+{
+  "family": "Tennis",
+  "slot": "Shirt",
+  "variant": "Floral_Blue",
+  "displayGuess": "Tennis (Floral_Blue)",
+  "combinationAsset": "Tennis_Shirt_Floral_Blue_Combination.asset",
+  "combinationGuid": "RwgnKTfMEkWrAp_OMGy__Q,iT7UGMahoEu7BZZqeKXKww,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

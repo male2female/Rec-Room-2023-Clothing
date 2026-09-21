@@ -1,0 +1,11 @@
+{
+  "family": "Tennis",
+  "slot": "Shirt",
+  "variant": "Pink",
+  "displayGuess": "Tennis (Pink)",
+  "combinationAsset": "Tennis_Shirt_Pink_Combination.asset",
+  "combinationGuid": "304e5cf1-5c94-481f-8e49-e6a943e6b300,90e0da8b-1941-4ca8-b7e5-b4e31921873c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

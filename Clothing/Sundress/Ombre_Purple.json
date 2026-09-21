@@ -1,0 +1,11 @@
+{
+  "family": "Sundress",
+  "slot": "Shirt",
+  "variant": "Ombre_Purple",
+  "displayGuess": "Sundress (Ombre_Purple)",
+  "combinationAsset": "Sundress_Shirt_Ombre_Purple_Combination.asset",
+  "combinationGuid": "as9fjqDWiUi1w7yYavKZXA,thwvF0DFRk-mV99ruqYFoQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

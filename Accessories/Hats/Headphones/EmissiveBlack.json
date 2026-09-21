@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "EmissiveBlack",
+  "displayGuess": "Headphones (EmissiveBlack)",
+  "combinationAsset": "Headphones_Hat_EmissiveBlack_Combination.asset",
+  "combinationGuid": "Uz2hrptCa0erjqyPoiZxew,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

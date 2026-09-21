@@ -1,0 +1,11 @@
+{
+  "family": "Tourist",
+  "slot": "Shirt",
+  "variant": "Tropical_LightBase_BlueMonochromatic",
+  "displayGuess": "Tourist (Tropical_LightBase_BlueMonochromatic)",
+  "combinationAsset": "Tourist_Shirt_Tropical_LightBase_BlueMonochromatic_Combination.asset",
+  "combinationGuid": "adJVA26PyUSVvmZgxkCAmQ,0WOBGm34H0ySBC10VToa9g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

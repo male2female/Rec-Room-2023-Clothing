@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "MrBeast",
+  "displayGuess": "UntuckedTee (MrBeast)",
+  "combinationAsset": "UntuckedTee_Shirt_MrBeast_Combination.asset",
+  "combinationGuid": "vjO5ctMe0UC8GN6p61IC4A",
+  "combinationGuidDashed": "72b933be-1ed3-40d1-bc18-dea9eb5202e0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "ButterflyWings",
+  "slot": "Shoulder",
+  "variant": "CairnsBirdwing",
+  "displayGuess": "ButterflyWings (CairnsBirdwing)",
+  "combinationAsset": "ButterflyWings_Shoulder_CairnsBirdwing_Combination.asset",
+  "combinationGuid": "1qHXl55Qn0qSb1gAhr8Wjg,GlB_scM-5kuc4A5TmGe6Yw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

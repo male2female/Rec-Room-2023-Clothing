@@ -1,0 +1,11 @@
+{
+  "family": "LaserTag",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "LaserTag (Green)",
+  "combinationAsset": "LaserTag_Hat_Green_Combination.asset",
+  "combinationGuid": "-e6bmXnwZU2EVwZ8RupKbg,4e378419-d043-4e86-ad0e-66288ac21cf4,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

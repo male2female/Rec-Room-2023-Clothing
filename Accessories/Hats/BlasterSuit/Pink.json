@@ -1,0 +1,11 @@
+{
+  "family": "BlasterSuit",
+  "slot": "Hat",
+  "variant": "Pink",
+  "displayGuess": "BlasterSuit (Pink)",
+  "combinationAsset": "BlasterSuit_Hat_Pink_Combination.asset",
+  "combinationGuid": "KfjLWNUbpEClo_qafEfUEw",
+  "combinationGuidDashed": "58cbf829-1bd5-40a4-a5a3-fa9a7c47d413",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

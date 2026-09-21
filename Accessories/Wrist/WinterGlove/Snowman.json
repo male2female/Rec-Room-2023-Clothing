@@ -1,0 +1,11 @@
+{
+  "family": "WinterGlove",
+  "slot": "Wrist",
+  "variant": "Snowman",
+  "displayGuess": "WinterGlove (Snowman)",
+  "combinationAsset": "WinterGlove_Wrist_Snowman_Combination.asset",
+  "combinationGuid": "09Cg6dOq2kC2-tI5yyGSYg,xq7bizx6UEGaMTHB9zI3pw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

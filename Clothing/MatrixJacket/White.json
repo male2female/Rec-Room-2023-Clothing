@@ -1,0 +1,11 @@
+{
+  "family": "MatrixJacket",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "MatrixJacket (White)",
+  "combinationAsset": "MatrixJacket_Shirt_White_Combination.asset",
+  "combinationGuid": "pCEBoSP2pESLl9ih-J-55g,8SzXFoWD8k20cekFe6cLKg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

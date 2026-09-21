@@ -1,0 +1,11 @@
+{
+  "family": "ThunderGuy",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "ThunderGuy (Red)",
+  "combinationAsset": "ThunderGuy_Shirt_Red_Combination.asset",
+  "combinationGuid": "_fabGqrxrkW2mfx0bejHsA",
+  "combinationGuidDashed": "1a9bf6fd-f1aa-45ae-b699-fc746de8c7b0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

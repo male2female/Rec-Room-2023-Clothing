@@ -1,0 +1,11 @@
+{
+  "family": "ScallywagBracelet",
+  "slot": "Wrist",
+  "variant": "SRank",
+  "displayGuess": "ScallywagBracelet (SRank)",
+  "combinationAsset": "ScallywagBracelet_Wrist_SRank_Combination.asset",
+  "combinationGuid": "X3MkhL55Rk-0UK6h4dw0Eg,ce3782aa-56cc-40d7-9019-8ce714cb7748,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

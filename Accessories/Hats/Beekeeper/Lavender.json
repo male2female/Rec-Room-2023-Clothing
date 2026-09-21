@@ -1,0 +1,11 @@
+{
+  "family": "Beekeeper",
+  "slot": "Hat",
+  "variant": "Lavender",
+  "displayGuess": "Beekeeper (Lavender)",
+  "combinationAsset": "Beekeeper_Hat_Lavender_Combination.asset",
+  "combinationGuid": "lBe3yxuE40eBmTrnEHBqQQ,e4b53a9a-ac95-49ae-bf68-615bb23fa075,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

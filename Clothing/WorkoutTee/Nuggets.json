@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Nuggets",
+  "displayGuess": "WorkoutTee (Nuggets)",
+  "combinationAsset": "WorkoutTee_Shirt_Nuggets_Combination.asset",
+  "combinationGuid": "sVeZH49mP0yBRKrbVr-0LA",
+  "combinationGuidDashed": "1f9957b1-668f-4c3f-8144-aadb56bfb42c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

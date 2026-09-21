@@ -1,0 +1,11 @@
+{
+  "family": "BatCostume",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "BatCostume (Green)",
+  "combinationAsset": "BatCostume_Shirt_Green_Combination.asset",
+  "combinationGuid": "dE_ZWKPV90utoyWtRalh8w",
+  "combinationGuidDashed": "58d94f74-d5a3-4bf7-ada3-25ad45a961f3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

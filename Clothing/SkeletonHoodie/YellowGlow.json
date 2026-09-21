@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonHoodie",
+  "slot": "Shirt",
+  "variant": "YellowGlow",
+  "displayGuess": "SkeletonHoodie (YellowGlow)",
+  "combinationAsset": "SkeletonHoodie_Shirt_YellowGlow_Combination.asset",
+  "combinationGuid": "jhPUIkf5bkinMSsqPTK3fg,eZGiYEx6sk2PsN39RzQwlQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

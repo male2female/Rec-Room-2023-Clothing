@@ -1,0 +1,11 @@
+{
+  "family": "ScoutRaccoon",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "ScoutRaccoon (Gray)",
+  "combinationAsset": "ScoutRaccoon_Hat_Gray_Combination.asset",
+  "combinationGuid": "926ae943-76cb-46dd-9c66-a6ee44ea9194,f1cd10fb-3d0b-436f-a173-65bc0d88d8bf,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

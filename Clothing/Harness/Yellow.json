@@ -1,0 +1,11 @@
+{
+  "family": "Harness",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "Harness (Yellow)",
+  "combinationAsset": "Harness_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "dyEaPloE8kazWC7Zblv8uQ,ovy_3j_qwE-7mmks1Z47ig,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Scifi",
+  "slot": null,
+  "variant": "Carpet",
+  "displayGuess": "Scifi (Carpet)",
+  "combinationAsset": "Scifi_Carpet_Combination.asset",
+  "combinationGuid": "0809a5cf-a0f3-4614-9f98-71518524518a,3290f148-1bd1-4ffd-a947-61fd0529af05,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

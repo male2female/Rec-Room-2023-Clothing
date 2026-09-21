@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "ArtFestival",
+  "displayGuess": "TuckedTee (ArtFestival)",
+  "combinationAsset": "TuckedTee_Shirt_ArtFestival_Combination.asset",
+  "combinationGuid": "r4O0JuB0dke1IoOEqW4nkg",
+  "combinationGuidDashed": "26b483af-74e0-4776-b522-8384a96e2792",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

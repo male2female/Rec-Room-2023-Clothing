@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "VideoPartner",
+  "displayGuess": "Hoodie (VideoPartner)",
+  "combinationAsset": "Hoodie_Shirt_VideoPartner_Combination.asset",
+  "combinationGuid": "Ist3SXFwKkCCvxirWLLjng",
+  "combinationGuidDashed": "4977cb22-7071-402a-82bf-18ab58b2e39e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

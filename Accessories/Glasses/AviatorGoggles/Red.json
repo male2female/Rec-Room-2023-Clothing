@@ -1,0 +1,11 @@
+{
+  "family": "AviatorGoggles",
+  "slot": "Eye",
+  "variant": "Red",
+  "displayGuess": "AviatorGoggles (Red)",
+  "combinationAsset": "AviatorGoggles_Eye_Red_Combination.asset",
+  "combinationGuid": "qJGX62O_HUiZWN61NAc1Lg,556f876a-70da-4104-b792-fca8ad67be0c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

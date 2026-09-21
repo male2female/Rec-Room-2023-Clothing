@@ -1,0 +1,11 @@
+{
+  "family": "Samurai",
+  "slot": "Belt",
+  "variant": "Gold",
+  "displayGuess": "Samurai (Gold)",
+  "combinationAsset": "Samurai_Belt_Gold_Combination.asset",
+  "combinationGuid": "XIluUn9vQEabkEpqyYBG0g,9sSCSLRkYUCs4CCHK8FfAA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

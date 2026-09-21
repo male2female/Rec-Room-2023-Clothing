@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "SeaDark",
+  "displayGuess": "Blazer (SeaDark)",
+  "combinationAsset": "Blazer_Shirt_SeaDark_Combination.asset",
+  "combinationGuid": "0ffad843-d6c9-425a-8686-7217009c867e,be2b9293-1d3c-4b1c-b4c5-fad3ab16cf54,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

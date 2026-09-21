@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "Makerpen",
+  "displayGuess": "UntuckedTee (Makerpen)",
+  "combinationAsset": "UntuckedTee_Makerpen_Combination.asset",
+  "combinationGuid": "GU267AQ5T0m1jco3mNw_uw",
+  "combinationGuidDashed": "ecba4d19-3904-494f-b58d-ca3798dc3fbb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

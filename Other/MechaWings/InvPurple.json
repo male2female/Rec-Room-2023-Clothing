@@ -1,0 +1,11 @@
+{
+  "family": "MechaWings",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "MechaWings (InvPurple)",
+  "combinationAsset": "MechaWings_InvPurple_Combination.asset",
+  "combinationGuid": "oSoW8v6emEW4g1IduUNzOA",
+  "combinationGuidDashed": "f2162aa1-9efe-4598-b883-521db9437338",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

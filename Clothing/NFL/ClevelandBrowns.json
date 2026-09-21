@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "ClevelandBrowns",
+  "displayGuess": "NFL (ClevelandBrowns)",
+  "combinationAsset": "NFL_Shirt_ClevelandBrowns_Combination.asset",
+  "combinationGuid": "cLswsDJEmkCqYDGI8DJmPQ",
+  "combinationGuidDashed": "b030bb70-4432-409a-aa60-3188f032663d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Archer",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "Archer (Yellow)",
+  "combinationAsset": "Archer_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "6e152cc7-e93a-4408-8092-236db420b680,f88178b8-b204-4fa5-9dfd-6e438bf1e247,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

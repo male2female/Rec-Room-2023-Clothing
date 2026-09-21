@@ -1,0 +1,11 @@
+{
+  "family": "FootballHelmet",
+  "slot": "Hat",
+  "variant": "BlackGold",
+  "displayGuess": "FootballHelmet (BlackGold)",
+  "combinationAsset": "FootballHelmet_Hat_BlackGold_Combination.asset",
+  "combinationGuid": "_MS-R9DB5kinLBszWle8hg,7660e11a-7ef0-43d3-bc02-76b3a4aab064,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

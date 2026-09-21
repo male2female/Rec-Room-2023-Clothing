@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": null,
+  "variant": "Mic_VideoContest_Orange",
+  "displayGuess": "Headphones (Mic_VideoContest_Orange)",
+  "combinationAsset": "Headphones_Mic_VideoContest_Orange_Combination.asset",
+  "combinationGuid": "M9ZKWX59e02037Qy4rgmAA",
+  "combinationGuidDashed": "594ad633-7d7e-4d7b-b4df-b432e2b82600",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

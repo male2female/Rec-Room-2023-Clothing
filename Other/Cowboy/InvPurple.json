@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "Cowboy (InvPurple)",
+  "combinationAsset": "Cowboy_InvPurple_Combination.asset",
+  "combinationGuid": "zoUmQIcOrU6jgBu_0urrGA",
+  "combinationGuidDashed": "402685ce-0e87-4ead-a380-1bbfd2eaeb18",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

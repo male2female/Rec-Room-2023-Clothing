@@ -1,0 +1,11 @@
+{
+  "family": "HeadWrap",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "HeadWrap (Red)",
+  "combinationAsset": "HeadWrap_Hat_Red_Combination.asset",
+  "combinationGuid": "0zldWzi4H0OQwsWPt6gl-w",
+  "combinationGuidDashed": "5b5d39d3-b838-431f-90c2-c58fb7a825fb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

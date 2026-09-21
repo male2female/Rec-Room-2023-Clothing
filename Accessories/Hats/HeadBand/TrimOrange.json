@@ -1,0 +1,11 @@
+{
+  "family": "HeadBand",
+  "slot": "Hat",
+  "variant": "TrimOrange",
+  "displayGuess": "HeadBand (TrimOrange)",
+  "combinationAsset": "HeadBand_Hat_TrimOrange_Combination.asset",
+  "combinationGuid": "51ef8d39-2b94-4f9e-9620-07b6b0a913a5,018a5c07-e956-457d-a540-a5e2cd68da09,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

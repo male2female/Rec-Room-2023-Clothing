@@ -1,0 +1,11 @@
+{
+  "family": "BlasterSuit",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "BlasterSuit (White)",
+  "combinationAsset": "BlasterSuit_Hat_White_Combination.asset",
+  "combinationGuid": "Adyl5MkwQEKK_MT5AluYkA",
+  "combinationGuidDashed": "e4a5dc01-30c9-4240-8afc-c4f9025b9890",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

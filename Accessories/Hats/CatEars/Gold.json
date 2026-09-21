@@ -1,0 +1,11 @@
+{
+  "family": "CatEars",
+  "slot": "Hat",
+  "variant": "Gold",
+  "displayGuess": "CatEars (Gold)",
+  "combinationAsset": "CatEars_Hat_Gold_Combination.asset",
+  "combinationGuid": "37f8378b-b98c-477a-b8c9-9340772800b5,1e3195ab-f7f6-41f4-a5ec-378d09ecdf69,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

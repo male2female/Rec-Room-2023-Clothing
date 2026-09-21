@@ -1,0 +1,11 @@
+{
+  "family": "TruckerJacket",
+  "slot": "Wrist",
+  "variant": "White",
+  "displayGuess": "TruckerJacket (White)",
+  "combinationAsset": "TruckerJacket_Wrist_White_Combination.asset",
+  "combinationGuid": "yA0KhVg19kWqG1UkyxQogQ,yBNsYcZXzEiuR0u3tWnnWQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Angler",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "Angler (Tan)",
+  "combinationAsset": "Angler_Shirt_Tan_Combination.asset",
+  "combinationGuid": "cac27853-e2df-4d77-b3fd-af3bc0813f01,cdbe2cc8-4fd7-451f-9b66-0df0e0e7a85e,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NewYearsHat",
+  "slot": "Hat",
+  "variant": "Gold",
+  "displayGuess": "NewYearsHat (Gold)",
+  "combinationAsset": "NewYearsHat_Hat_Gold_Combination.asset",
+  "combinationGuid": "RROvzwtshUGyRudVIBn8bw,MrrsmY0J0EKduH-f5wUj6g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

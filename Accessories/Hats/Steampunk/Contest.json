@@ -1,0 +1,11 @@
+{
+  "family": "Steampunk",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "Steampunk (Contest)",
+  "combinationAsset": "Steampunk_Hat_Contest_Combination.asset",
+  "combinationGuid": "AAbGHOOitUu9enweOXbrkw,fXnd_COSzUeznwe7P4ZYRg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

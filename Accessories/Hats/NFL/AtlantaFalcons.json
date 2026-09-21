@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "AtlantaFalcons",
+  "displayGuess": "NFL (AtlantaFalcons)",
+  "combinationAsset": "NFL_Hat_AtlantaFalcons_Combination.asset",
+  "combinationGuid": "VxmHqppE6UWiXVBXL2QvTA",
+  "combinationGuidDashed": "aa871957-449a-45e9-a25d-50572f642f4c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

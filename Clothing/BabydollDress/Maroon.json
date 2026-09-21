@@ -1,0 +1,11 @@
+{
+  "family": "BabydollDress",
+  "slot": "Shirt",
+  "variant": "Maroon",
+  "displayGuess": "BabydollDress (Maroon)",
+  "combinationAsset": "BabydollDress_Shirt_Maroon_Combination.asset",
+  "combinationGuid": "d6823e01-69f0-4f85-b94a-74894356a2cf,cb9e9e05-c481-4397-86e7-c2111bc0e817,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

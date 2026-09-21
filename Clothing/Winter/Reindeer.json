@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Shirt",
+  "variant": "Reindeer",
+  "displayGuess": "Winter (Reindeer)",
+  "combinationAsset": "Winter_Shirt_Reindeer_Combination.asset",
+  "combinationGuid": "PG6H6px5HkO4X_xPRd1idA",
+  "combinationGuidDashed": "ea876e3c-799c-431e-b85f-fc4f45dd6274",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "TruckerCap",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "TruckerCap (Red)",
+  "combinationAsset": "TruckerCap_Hat_Red_Combination.asset",
+  "combinationGuid": "lDXambcP60CeY2C8qeGDFw,uiAwVt3HK0mRVtWp9B-gTg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

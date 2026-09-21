@@ -1,0 +1,11 @@
+{
+  "family": "Sherlock",
+  "slot": "Shirt",
+  "variant": "Gray",
+  "displayGuess": "Sherlock (Gray)",
+  "combinationAsset": "Sherlock_Shirt_Gray_Combination.asset",
+  "combinationGuid": "msOFHoFN9UORkeXXtdqBsw,9ZP617DQk0mZ10J3d5q9oA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

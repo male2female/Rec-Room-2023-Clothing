@@ -1,0 +1,11 @@
+{
+  "family": "Lacrosse",
+  "slot": "Shirt",
+  "variant": "Stripe_Purple",
+  "displayGuess": "Lacrosse (Stripe_Purple)",
+  "combinationAsset": "Lacrosse_Shirt_Stripe_Purple_Combination.asset",
+  "combinationGuid": "e3454bc7-c88d-4958-8b81-db3fe5472a1e,da36bbcc-2a9a-4ba2-9e4a-6f52c9b1ef74,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

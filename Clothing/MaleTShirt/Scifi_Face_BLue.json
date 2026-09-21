@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Scifi_Face_BLue",
+  "displayGuess": "MaleTShirt (Scifi_Face_BLue)",
+  "combinationAsset": "MaleTShirt_Shirt_Scifi_Face_BLue_Combination.asset",
+  "combinationGuid": "bda7a57e-5227-49f4-a119-e3f166604738,0440f08f-ef1d-49d8-942b-523056e8bb45,4ca3347a-dc87-412f-9eb1-799372e6fdd1",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

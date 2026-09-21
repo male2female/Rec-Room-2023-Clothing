@@ -1,0 +1,11 @@
+{
+  "family": "Raincoat",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Raincoat (Blue)",
+  "combinationAsset": "Raincoat_Shirt_Blue_Combination.asset",
+  "combinationGuid": "GH9q8_0O9EqjGdz7lGWD2g,T7zwcIIc8Ee3ud8a2JCuwQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

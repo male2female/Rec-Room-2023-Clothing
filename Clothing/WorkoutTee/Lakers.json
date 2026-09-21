@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Lakers",
+  "displayGuess": "WorkoutTee (Lakers)",
+  "combinationAsset": "WorkoutTee_Shirt_Lakers_Combination.asset",
+  "combinationGuid": "9bQaIrqI00qtjdtkIkj_3g",
+  "combinationGuidDashed": "221ab4f5-88ba-4ad3-ad8d-db642248ffde",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

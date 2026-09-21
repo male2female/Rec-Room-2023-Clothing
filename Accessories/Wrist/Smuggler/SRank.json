@@ -1,0 +1,11 @@
+{
+  "family": "Smuggler",
+  "slot": "Wrist",
+  "variant": "SRank",
+  "displayGuess": "Smuggler (SRank)",
+  "combinationAsset": "Smuggler_Wrist_SRank_Combination.asset",
+  "combinationGuid": "bzYdPb8GWUS-CgT4wrziIA,8ffce0d6-d03e-4097-bc46-09b8894bc1d3,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

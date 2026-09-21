@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarine",
+  "slot": "Shirt",
+  "variant": "SRank",
+  "displayGuess": "SpaceMarine (SRank)",
+  "combinationAsset": "SpaceMarine_Shirt_SRank_Combination.asset",
+  "combinationGuid": "4ElTihrMA0ipcgeb9UG01Q,7ac81d60-05b8-4a85-982c-f69213a93818,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

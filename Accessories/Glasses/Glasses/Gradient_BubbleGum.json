@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Gradient_BubbleGum",
+  "displayGuess": "Glasses (Gradient_BubbleGum)",
+  "combinationAsset": "Glasses_Eye_Gradient_BubbleGum_Combination.asset",
+  "combinationGuid": "FuMUQFSnnU6awB-vPaeuZw",
+  "combinationGuidDashed": "4014e316-a754-4e9d-9ac0-1faf3da7ae67",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

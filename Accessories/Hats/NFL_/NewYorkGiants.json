@@ -1,0 +1,11 @@
+{
+  "family": "NFL_",
+  "slot": "Hat",
+  "variant": "NewYorkGiants",
+  "displayGuess": "NFL_ (NewYorkGiants)",
+  "combinationAsset": "NFL__Hat_NewYorkGiants_Combination.asset",
+  "combinationGuid": "zMWcGYnGdk6lVqVNuFwJHw",
+  "combinationGuidDashed": "199cc5cc-c689-4e76-a556-a54db85c091f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

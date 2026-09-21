@@ -1,0 +1,11 @@
+{
+  "family": "FootballShoulderPads",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "FootballShoulderPads (Orange)",
+  "combinationAsset": "FootballShoulderPads_Shirt_Orange_Combination.asset",
+  "combinationGuid": "32dde6dc-e3dc-43ee-9b7c-987bc6778c17,e17481fc-b2b6-47a5-91e5-7205f45a3247,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Rose",
+  "slot": "Hat",
+  "variant": "Yellow",
+  "displayGuess": "Rose (Yellow)",
+  "combinationAsset": "Rose_Hat_Yellow_Combination.asset",
+  "combinationGuid": "T0PMM2iQqkCCMZoznrdkug",
+  "combinationGuidDashed": "33cc434f-9068-40aa-8231-9a339eb764ba",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

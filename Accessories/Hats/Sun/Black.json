@@ -1,0 +1,11 @@
+{
+  "family": "Sun",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "Sun (Black)",
+  "combinationAsset": "Sun_Hat_Black_Combination.asset",
+  "combinationGuid": "YS-fXtVLTkG-wl40HPBLOg",
+  "combinationGuidDashed": "5e9f2f61-4bd5-414e-bec2-5e341cf04b3a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

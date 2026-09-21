@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "Watermelon",
+  "displayGuess": "PoolFloatie (Watermelon)",
+  "combinationAsset": "PoolFloatie_Belt_Watermelon_Combination.asset",
+  "combinationGuid": "NMmOn0zQZ0mJLxCMnsbIVw,v1ZOE9G9gEWAqNJX1A9f2A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

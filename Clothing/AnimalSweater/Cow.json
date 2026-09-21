@@ -1,0 +1,11 @@
+{
+  "family": "AnimalSweater",
+  "slot": "Shirt",
+  "variant": "Cow",
+  "displayGuess": "AnimalSweater (Cow)",
+  "combinationAsset": "AnimalSweater_Shirt_Cow_Combination.asset",
+  "combinationGuid": "qzvnj7D1tUuf01HvpiIvqw",
+  "combinationGuidDashed": "8fe73bab-f5b0-4bb5-9fd3-51efa6222fab",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

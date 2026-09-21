@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Cyber_Junk_City",
+  "displayGuess": "MaleTShirt (Cyber_Junk_City)",
+  "combinationAsset": "MaleTShirt_Shirt_Cyber_Junk_City_Combination.asset",
+  "combinationGuid": "nLRxEIBhUkyQsfrk3nzsDA,0440f08f-ef1d-49d8-942b-523056e8bb45,n4hqSCv9OUewI30KnbPhFw",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

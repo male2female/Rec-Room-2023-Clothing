@@ -1,0 +1,11 @@
+{
+  "family": "QuiltedCoat",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "QuiltedCoat (Yellow)",
+  "combinationAsset": "QuiltedCoat_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "zTsJHduQ5kirH9-6mewV4g,ACrBLiAIgEur9V6l_B0CvA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

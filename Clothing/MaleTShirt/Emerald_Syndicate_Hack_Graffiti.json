@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Emerald_Syndicate_Hack_Graffiti",
+  "displayGuess": "MaleTShirt (Emerald_Syndicate_Hack_Graffiti)",
+  "combinationAsset": "MaleTShirt_Shirt_Emerald_Syndicate_Hack_Graffiti_Combination.asset",
+  "combinationGuid": "jna5wcWK90WokJyoeJH1iw,0440f08f-ef1d-49d8-942b-523056e8bb45,MPfe2wahQECCDGfhZE-drA",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

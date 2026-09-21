@@ -1,0 +1,11 @@
+{
+  "family": "Hedgehog",
+  "slot": "Hat",
+  "variant": "Yellow",
+  "displayGuess": "Hedgehog (Yellow)",
+  "combinationAsset": "Hedgehog_Hat_Yellow_Combination.asset",
+  "combinationGuid": "YfRfaC49J0yW0wnSJf5DwA",
+  "combinationGuidDashed": "685ff461-3d2e-4c27-96d3-09d225fe43c0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

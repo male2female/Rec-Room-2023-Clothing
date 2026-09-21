@@ -1,0 +1,11 @@
+{
+  "family": "Plaid",
+  "slot": null,
+  "variant": "LightBlue",
+  "displayGuess": "Plaid (LightBlue)",
+  "combinationAsset": "Plaid_LightBlue_Combination.asset",
+  "combinationGuid": "d6edbc00-3c1d-4f49-8412-3ef8c7c5f4c2,cf119781-5bd9-4b85-9a0b-12e82e988c23,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

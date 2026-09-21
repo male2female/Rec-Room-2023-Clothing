@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "NewYorkGiants",
+  "displayGuess": "NFL (NewYorkGiants)",
+  "combinationAsset": "NFL_Shirt_NewYorkGiants_Combination.asset",
+  "combinationGuid": "hrTGnJLb4U21P9PCi7u3xw",
+  "combinationGuidDashed": "9cc6b486-db92-4de1-b53f-d3c28bbbb7c7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "IceQueenCrown",
+  "slot": "Hat",
+  "variant": "Lilac",
+  "displayGuess": "IceQueenCrown (Lilac)",
+  "combinationAsset": "IceQueenCrown_Hat_Lilac_Combination.asset",
+  "combinationGuid": "5Hk7UR60rkquUNxpQ8O0Gw,zMXDVNsKn0GhVd2Tjho0-g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

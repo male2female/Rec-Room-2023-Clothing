@@ -1,0 +1,11 @@
+{
+  "family": "SnowyOwlCape",
+  "slot": "Shoulder",
+  "variant": "Red",
+  "displayGuess": "SnowyOwlCape (Red)",
+  "combinationAsset": "SnowyOwlCape_Shoulder_Red_Combination.asset",
+  "combinationGuid": "W83EASFUS06FBVMfL80ruw,Ydd6tdb9dUGooM6WAczNjQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

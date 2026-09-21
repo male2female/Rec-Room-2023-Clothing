@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "BirdHead_Parrot",
+  "displayGuess": "PoolFloatie (BirdHead_Parrot)",
+  "combinationAsset": "PoolFloatie_Belt_BirdHead_Parrot_Combination.asset",
+  "combinationGuid": "hM0OmxjWLESbsJ-M0Z3QvQ,qZzkrGXpPkGq_nnGLZorwA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

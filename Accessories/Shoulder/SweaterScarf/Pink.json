@@ -1,0 +1,11 @@
+{
+  "family": "SweaterScarf",
+  "slot": "Shoulder",
+  "variant": "Pink",
+  "displayGuess": "SweaterScarf (Pink)",
+  "combinationAsset": "SweaterScarf_Shoulder_Pink_Combination.asset",
+  "combinationGuid": "LVuUiGBtn0mp4Wfs-2F5EQ",
+  "combinationGuidDashed": "88945b2d-6d60-499f-a9e1-67ecfb617911",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

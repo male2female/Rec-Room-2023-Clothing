@@ -1,0 +1,11 @@
+{
+  "family": "Letterman",
+  "slot": "Wrist",
+  "variant": "Green",
+  "displayGuess": "Letterman (Green)",
+  "combinationAsset": "Letterman_Wrist_Green_Combination.asset",
+  "combinationGuid": "UUyjVU4mvECPhI9xTMYR1Q,4EHIyZkOOEqnM-PuD_a5xw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

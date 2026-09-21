@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "EthanProm",
+  "displayGuess": "UntuckedTee (EthanProm)",
+  "combinationAsset": "UntuckedTee_Shirt_EthanProm_Combination.asset",
+  "combinationGuid": "rQaQALql2E-zdM8072gfCg",
+  "combinationGuidDashed": "009006ad-a5ba-4fd8-b374-cf34ef681f0a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Scallywag",
+  "slot": "Eye",
+  "variant": "SRank",
+  "displayGuess": "Scallywag (SRank)",
+  "combinationAsset": "Scallywag_Eye_SRank_Combination.asset",
+  "combinationGuid": "clFrpYWFQEmDkE14f3o_Ig,DE1C-RJkuEWIvpR0q1i42g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

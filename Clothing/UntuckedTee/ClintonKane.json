@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "ClintonKane",
+  "displayGuess": "UntuckedTee (ClintonKane)",
+  "combinationAsset": "UntuckedTee_Shirt_ClintonKane_Combination.asset",
+  "combinationGuid": "42YaouiGVEe3zSjTsvyfoA",
+  "combinationGuidDashed": "a21a66e3-86e8-4754-b7cd-28d3b2fc9fa0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

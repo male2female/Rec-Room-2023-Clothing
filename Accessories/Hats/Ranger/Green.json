@@ -1,0 +1,11 @@
+{
+  "family": "Ranger",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Ranger (Green)",
+  "combinationAsset": "Ranger_Hat_Green_Combination.asset",
+  "combinationGuid": "d0bb468c-b78f-4e80-916d-65fec3ec0010,0272eb19-fc0e-4ad6-8db9-cc0cda2528b0,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Dodgeball",
+  "slot": "Shirt",
+  "variant": "Gray",
+  "displayGuess": "Dodgeball (Gray)",
+  "combinationAsset": "Dodgeball_Shirt_Gray_Combination.asset",
+  "combinationGuid": "0ba92db2-690a-44ce-92f4-130e9503b6c1,944d934d-5e21-42d7-8196-fff9a81ee469,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

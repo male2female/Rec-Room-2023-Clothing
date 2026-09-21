@@ -1,0 +1,11 @@
+{
+  "family": "SodaJerk",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "SodaJerk (Green)",
+  "combinationAsset": "SodaJerk_Hat_Green_Combination.asset",
+  "combinationGuid": "oKxmH-1s2EyIDkZoOQSQQw,sV_ByCug30G1Gw-77KUe1Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

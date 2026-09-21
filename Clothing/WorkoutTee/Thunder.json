@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Thunder",
+  "displayGuess": "WorkoutTee (Thunder)",
+  "combinationAsset": "WorkoutTee_Shirt_Thunder_Combination.asset",
+  "combinationGuid": "ZDsylFpkEUi5PijTLSfYNg",
+  "combinationGuidDashed": "94323b64-645a-4811-b93e-28d32d27d836",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

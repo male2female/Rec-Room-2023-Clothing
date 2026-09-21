@@ -1,0 +1,11 @@
+{
+  "family": "Plaid",
+  "slot": null,
+  "variant": "Royal",
+  "displayGuess": "Plaid (Royal)",
+  "combinationAsset": "Plaid_Royal_Combination.asset",
+  "combinationGuid": "6dd95046-acf8-42fe-ab78-80a334096a9d,cf119781-5bd9-4b85-9a0b-12e82e988c23,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

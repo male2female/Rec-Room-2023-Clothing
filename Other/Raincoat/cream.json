@@ -1,0 +1,11 @@
+{
+  "family": "Raincoat",
+  "slot": null,
+  "variant": "cream",
+  "displayGuess": "Raincoat (cream)",
+  "combinationAsset": "Raincoat_cream_Combination.asset",
+  "combinationGuid": "m8x6fiLEw0m4pJywntEpzg",
+  "combinationGuidDashed": "7e7acc9b-c422-49c3-b8a4-9cb09ed129ce",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

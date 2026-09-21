@@ -1,0 +1,11 @@
+{
+  "family": "TruckerJacket",
+  "slot": "Shirt",
+  "variant": "Punk",
+  "displayGuess": "TruckerJacket (Punk)",
+  "combinationAsset": "TruckerJacket_Shirt_Punk_Combination.asset",
+  "combinationGuid": "wMo3Bq1aXkCMFSRJft81BQ",
+  "combinationGuidDashed": "0637cac0-5aad-405e-8c15-24497edf3505",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

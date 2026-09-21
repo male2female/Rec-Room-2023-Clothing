@@ -1,0 +1,11 @@
+{
+  "family": "WinterScarf",
+  "slot": "Neck",
+  "variant": "UglySweater",
+  "displayGuess": "WinterScarf (UglySweater)",
+  "combinationAsset": "WinterScarf_Neck_UglySweater_Combination.asset",
+  "combinationGuid": "cj9OYinX5kyzlhBUQwZKog,AKWH3_SDqkG8SRm5sauROQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

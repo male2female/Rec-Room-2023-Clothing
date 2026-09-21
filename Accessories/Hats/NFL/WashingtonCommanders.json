@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "WashingtonCommanders",
+  "displayGuess": "NFL (WashingtonCommanders)",
+  "combinationAsset": "NFL_Hat_WashingtonCommanders_Combination.asset",
+  "combinationGuid": "FnezvbcGD0-oyFOTkpUo7g",
+  "combinationGuidDashed": "bdb37716-06b7-4f0f-a8c8-5393929528ee",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

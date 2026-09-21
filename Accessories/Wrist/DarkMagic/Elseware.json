@@ -1,0 +1,11 @@
+{
+  "family": "DarkMagic",
+  "slot": "Wrist",
+  "variant": "Elseware",
+  "displayGuess": "DarkMagic (Elseware)",
+  "combinationAsset": "DarkMagic_Wrist_Elseware_Combination.asset",
+  "combinationGuid": "cfAfhzaNvkG7wGx0gkaRUg",
+  "combinationGuidDashed": "871ff071-8d36-41be-bbc0-6c7482469152",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

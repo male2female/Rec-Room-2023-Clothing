@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Wrist",
+  "variant": "Leather",
+  "displayGuess": "VampireHunter (Leather)",
+  "combinationAsset": "VampireHunter_Wrist_Leather_Combination.asset",
+  "combinationGuid": "D0tP58wC30mJ00vNxw8hqA,N5wN1l0tYEau5np-9PoIiA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MechaTorso",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "MechaTorso (InvPurple)",
+  "combinationAsset": "MechaTorso_InvPurple_Combination.asset",
+  "combinationGuid": "CeebPv2TZUixq8cmVD5lUA",
+  "combinationGuidDashed": "3e9be709-93fd-4865-b1ab-c726543e6550",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

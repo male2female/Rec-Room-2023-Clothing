@@ -1,0 +1,11 @@
+{
+  "family": "HorizontalStripe3",
+  "slot": null,
+  "variant": "Stripe3",
+  "displayGuess": "HorizontalStripe3 (Stripe3)",
+  "combinationAsset": "HorizontalStripe3_Stripe3_Combination.asset",
+  "combinationGuid": "5c4a2b35-0e1c-44de-8c3a-96d4a6458b1b,9c03f381-7357-4d0f-8cda-8737d4c43d25,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "TopHat",
+  "slot": "Hat",
+  "variant": "ScifiCarpet",
+  "displayGuess": "TopHat (ScifiCarpet)",
+  "combinationAsset": "TopHat_Hat_ScifiCarpet_Combination.asset",
+  "combinationGuid": "bd4a84e2-b67a-4269-a26a-17fb23ddb09e,ccf1ccc1-e229-4157-bb74-f2cdef01e547,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

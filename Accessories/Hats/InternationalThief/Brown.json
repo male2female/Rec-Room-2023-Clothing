@@ -1,0 +1,11 @@
+{
+  "family": "InternationalThief",
+  "slot": "Hat",
+  "variant": "Brown",
+  "displayGuess": "InternationalThief (Brown)",
+  "combinationAsset": "InternationalThief_Hat_Brown_Combination.asset",
+  "combinationGuid": "QJSPgq2KXEOWNynY8uqQvA,BOB_mAXdA0u2khOH5qjqXQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

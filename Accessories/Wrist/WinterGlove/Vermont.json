@@ -1,0 +1,11 @@
+{
+  "family": "WinterGlove",
+  "slot": "Wrist",
+  "variant": "Vermont",
+  "displayGuess": "WinterGlove (Vermont)",
+  "combinationAsset": "WinterGlove_Wrist_Vermont_Combination.asset",
+  "combinationGuid": "83jS7d-cUUC_GNDcGpiDxw,jQjfiz2i6kaPfrkjnBGxBA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

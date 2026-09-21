@@ -1,0 +1,11 @@
+{
+  "family": "SolidColor",
+  "slot": null,
+  "variant": "GoldYellow",
+  "displayGuess": "SolidColor (GoldYellow)",
+  "combinationAsset": "SolidColor_GoldYellow_Combination.asset",
+  "combinationGuid": "67bcca75-4ab1-4964-8688-9908c464d355,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

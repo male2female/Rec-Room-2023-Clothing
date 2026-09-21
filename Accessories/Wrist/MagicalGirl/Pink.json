@@ -1,0 +1,11 @@
+{
+  "family": "MagicalGirl",
+  "slot": "Wrist",
+  "variant": "Pink",
+  "displayGuess": "MagicalGirl (Pink)",
+  "combinationAsset": "MagicalGirl_Wrist_Pink_Combination.asset",
+  "combinationGuid": "LDjFJtM-WkeYhtwA7cyDOg,ZtCqMnFTQUWv2h0MfZ4m6A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

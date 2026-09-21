@@ -1,0 +1,11 @@
+{
+  "family": "PatchworkCape",
+  "slot": "Shoulder",
+  "variant": "Green",
+  "displayGuess": "PatchworkCape (Green)",
+  "combinationAsset": "PatchworkCape_Shoulder_Green_Combination.asset",
+  "combinationGuid": "VF7QrfNdC0ex5p62bkdt7w",
+  "combinationGuidDashed": "add05e54-5df3-470b-b1e6-9eb66e476def",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "RacingSuit",
+  "slot": "Shirt",
+  "variant": "Sponsors",
+  "displayGuess": "RacingSuit (Sponsors)",
+  "combinationAsset": "RacingSuit_Shirt_Sponsors_Combination.asset",
+  "combinationGuid": "yO5pgI2quE2i3tNBlvJPGA",
+  "combinationGuidDashed": "8069eec8-aa8d-4db8-a2de-d34196f24f18",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

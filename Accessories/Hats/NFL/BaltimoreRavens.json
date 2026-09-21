@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "BaltimoreRavens",
+  "displayGuess": "NFL (BaltimoreRavens)",
+  "combinationAsset": "NFL_Hat_BaltimoreRavens_Combination.asset",
+  "combinationGuid": "kjDg5GM1b0iepa52BX5wbg",
+  "combinationGuidDashed": "e4e03092-3563-486f-9ea5-ae76057e706e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

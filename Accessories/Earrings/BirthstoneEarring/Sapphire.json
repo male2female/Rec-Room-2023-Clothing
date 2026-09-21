@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Sapphire",
+  "displayGuess": "BirthstoneEarring (Sapphire)",
+  "combinationAsset": "BirthstoneEarring_Ear_Sapphire_Combination.asset",
+  "combinationGuid": "kQD41xK4dU6dI_6pRkP0qA,aSeusgYlPE6vOBu9Ua_dWA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "PocketTee",
+  "slot": "Shirt",
+  "variant": "Reclympics",
+  "displayGuess": "PocketTee (Reclympics)",
+  "combinationAsset": "PocketTee_Shirt_Reclympics_Combination.asset",
+  "combinationGuid": "Ris_kNVcgU-EK4SoMckC2Q,74J7skzs9EaIq09bZArjiQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

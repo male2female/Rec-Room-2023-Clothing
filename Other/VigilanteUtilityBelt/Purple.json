@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteUtilityBelt",
+  "slot": null,
+  "variant": "Purple",
+  "displayGuess": "VigilanteUtilityBelt (Purple)",
+  "combinationAsset": "VigilanteUtilityBelt_Purple_Combination.asset",
+  "combinationGuid": "PXssHhcJsUmUKGA8T4u85A",
+  "combinationGuidDashed": "1e2c7b3d-0917-49b1-9428-603c4f8bbce4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

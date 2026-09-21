@@ -1,0 +1,11 @@
+{
+  "family": "ArcherGlove",
+  "slot": "Wrist",
+  "variant": "Tan",
+  "displayGuess": "ArcherGlove (Tan)",
+  "combinationAsset": "ArcherGlove_Wrist_Tan_Combination.asset",
+  "combinationGuid": "d5987fee-e3cc-4336-853a-5df57f73df05,7b187c06-7ba2-4f3c-bca9-fdf98146f385,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

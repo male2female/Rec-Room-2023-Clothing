@@ -1,0 +1,11 @@
+{
+  "family": "ButterflyWings",
+  "slot": "Shoulder",
+  "variant": "PepperedMoth",
+  "displayGuess": "ButterflyWings (PepperedMoth)",
+  "combinationAsset": "ButterflyWings_Shoulder_PepperedMoth_Combination.asset",
+  "combinationGuid": "opDwtb3OdESsA2Zpfx7luQ",
+  "combinationGuidDashed": "b5f090a2-cebd-4474-ac03-66697f1ee5b9",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

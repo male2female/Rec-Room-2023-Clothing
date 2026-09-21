@@ -1,0 +1,11 @@
+{
+  "family": "MagicalGirl",
+  "slot": "Neck",
+  "variant": "Pink",
+  "displayGuess": "MagicalGirl (Pink)",
+  "combinationAsset": "MagicalGirl_Neck_Pink_Combination.asset",
+  "combinationGuid": "kaRBW1u3dkODGjPMePW6Uw,M5z2wk-GDkOAjvZzqsfcNQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

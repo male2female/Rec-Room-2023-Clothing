@@ -1,0 +1,11 @@
+{
+  "family": "ArcherHat",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "ArcherHat (Red)",
+  "combinationAsset": "ArcherHat_Hat_Red_Combination.asset",
+  "combinationGuid": "5b5281c9-b795-4bb2-ba7b-ba52047ebe3f,1ba65dd5-9df9-4ff3-be96-f83a7abf67b3,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

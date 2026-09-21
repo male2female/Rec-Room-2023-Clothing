@@ -1,0 +1,11 @@
+{
+  "family": "ArcherQuiver",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "ArcherQuiver (Black)",
+  "combinationAsset": "ArcherQuiver_Shoulder_Black_Combination.asset",
+  "combinationGuid": "74b009f4-e128-4c59-8a6a-4c0ba6119bde,6094370d-5e28-473a-b422-f3f1c75d5db8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

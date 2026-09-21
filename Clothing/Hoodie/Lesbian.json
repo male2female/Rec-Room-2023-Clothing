@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Lesbian",
+  "displayGuess": "Hoodie (Lesbian)",
+  "combinationAsset": "Hoodie_Shirt_Lesbian_Combination.asset",
+  "combinationGuid": "G6Udm6kMdE28vmRY5KPanA,Fw79pqDPP0C8H07AnTY-Vg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

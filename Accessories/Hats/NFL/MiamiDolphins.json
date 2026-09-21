@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "MiamiDolphins",
+  "displayGuess": "NFL (MiamiDolphins)",
+  "combinationAsset": "NFL_Hat_MiamiDolphins_Combination.asset",
+  "combinationGuid": "oyvOdKXeGU65V6sKhhb0qg",
+  "combinationGuidDashed": "74ce2ba3-dea5-4e19-b957-ab0a8616f4aa",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

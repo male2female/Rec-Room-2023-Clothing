@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "VideoContest_GreenSilver",
+  "displayGuess": "MaleTShirt (VideoContest_GreenSilver)",
+  "combinationAsset": "MaleTShirt_Shirt_VideoContest_GreenSilver_Combination.asset",
+  "combinationGuid": "eb1vYTP_KEGQH-f33_whQg,0440f08f-ef1d-49d8-942b-523056e8bb45,t2do8WSejE-Y0aiEirKw9g",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

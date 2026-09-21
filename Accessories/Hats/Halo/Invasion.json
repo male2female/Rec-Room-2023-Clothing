@@ -1,0 +1,11 @@
+{
+  "family": "Halo",
+  "slot": "Hat",
+  "variant": "Invasion",
+  "displayGuess": "Halo (Invasion)",
+  "combinationAsset": "Halo_Hat_Invasion_Combination.asset",
+  "combinationGuid": "f6O5cw0vc0ineEptRysocg",
+  "combinationGuidDashed": "73b9a37f-2f0d-4873-a778-4a6d472b2872",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

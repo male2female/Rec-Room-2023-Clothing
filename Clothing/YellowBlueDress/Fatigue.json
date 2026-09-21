@@ -1,0 +1,11 @@
+{
+  "family": "YellowBlueDress",
+  "slot": "Shirt",
+  "variant": "Fatigue",
+  "displayGuess": "YellowBlueDress (Fatigue)",
+  "combinationAsset": "YellowBlueDress_Shirt_Fatigue_Combination.asset",
+  "combinationGuid": "6d703981-2734-4c45-8983-cdd5f328902f,cfabdefe-0890-436e-b2a3-b5c712e22955,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BasicNecklace",
+  "slot": "Neck",
+  "variant": "Cherry",
+  "displayGuess": "BasicNecklace (Cherry)",
+  "combinationAsset": "BasicNecklace_Neck_Cherry_Combination.asset",
+  "combinationGuid": "SDbpnjVYmEGQneK5fhZ0Cw,FwjsTo0nb0uNU6l8XvllNA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Hibiscus",
+  "slot": "Hat",
+  "variant": "Yellow",
+  "displayGuess": "Hibiscus (Yellow)",
+  "combinationAsset": "Hibiscus_Hat_Yellow_Combination.asset",
+  "combinationGuid": "596097a8-d545-4256-959d-1d3cd96fc64c,65b89eae-347e-4eff-9ff3-7f25cace0125,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

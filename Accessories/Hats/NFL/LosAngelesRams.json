@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "LosAngelesRams",
+  "displayGuess": "NFL (LosAngelesRams)",
+  "combinationAsset": "NFL_Hat_LosAngelesRams_Combination.asset",
+  "combinationGuid": "EtgbhY9a_EqO4j86Al9Kpw",
+  "combinationGuidDashed": "851bd812-5a8f-4afc-8ee2-3f3a025f4aa7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

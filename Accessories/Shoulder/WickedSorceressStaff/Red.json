@@ -1,0 +1,11 @@
+{
+  "family": "WickedSorceressStaff",
+  "slot": "Shoulder",
+  "variant": "Red",
+  "displayGuess": "WickedSorceressStaff (Red)",
+  "combinationAsset": "WickedSorceressStaff_Shoulder_Red_Combination.asset",
+  "combinationGuid": "4yMvQ3-hnU2zZQf_XT9r-A",
+  "combinationGuidDashed": "432f23e3-a17f-4d9d-b365-07ff5d3f6bf8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

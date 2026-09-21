@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "Lime",
+  "displayGuess": "WristBand (Lime)",
+  "combinationAsset": "WristBand_Wrist_Lime_Combination.asset",
+  "combinationGuid": "5rLtRfNWO0qT7X-0sJkUXg,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

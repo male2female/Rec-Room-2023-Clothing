@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonHoodie",
+  "slot": "Shirt",
+  "variant": "Cyborg_Green",
+  "displayGuess": "SkeletonHoodie (Cyborg_Green)",
+  "combinationAsset": "SkeletonHoodie_Shirt_Cyborg_Green_Combination.asset",
+  "combinationGuid": "2mwfYNx7iUGbSf6u8rRXwg",
+  "combinationGuidDashed": "601f6cda-7bdc-4189-9b49-feaef2b457c2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MoonandStarsDress",
+  "slot": "Shirt",
+  "variant": "Snowflakes",
+  "displayGuess": "MoonandStarsDress (Snowflakes)",
+  "combinationAsset": "MoonandStarsDress_Shirt_Snowflakes_Combination.asset",
+  "combinationGuid": "eutz2irupECSYGMtru3NMQ,Gruqp7EGM0WJbAM_F8hWbQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

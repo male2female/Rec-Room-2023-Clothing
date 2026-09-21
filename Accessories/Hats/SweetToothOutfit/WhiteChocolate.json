@@ -1,0 +1,11 @@
+{
+  "family": "SweetToothOutfit",
+  "slot": "Hat",
+  "variant": "WhiteChocolate",
+  "displayGuess": "SweetToothOutfit (WhiteChocolate)",
+  "combinationAsset": "SweetToothOutfit_Hat_WhiteChocolate_Combination.asset",
+  "combinationGuid": "_8OmgC7c80CsvQN41U6XyA",
+  "combinationGuidDashed": "80a6c3ff-dc2e-40f3-acbd-0378d54e97c8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

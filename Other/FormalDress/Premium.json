@@ -1,0 +1,11 @@
+{
+  "family": "FormalDress",
+  "slot": null,
+  "variant": "Premium",
+  "displayGuess": "FormalDress (Premium)",
+  "combinationAsset": "FormalDress_Premium_Combination.asset",
+  "combinationGuid": "HzTJsuYdLkC_NY3ClszRpQ",
+  "combinationGuidDashed": "b2c9341f-1de6-402e-bf35-8dc296ccd1a5",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

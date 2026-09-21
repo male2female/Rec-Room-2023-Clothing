@@ -1,0 +1,11 @@
+{
+  "family": "SmugglerGlasses",
+  "slot": "Eye",
+  "variant": "SRank",
+  "displayGuess": "SmugglerGlasses (SRank)",
+  "combinationAsset": "SmugglerGlasses_Eye_SRank_Combination.asset",
+  "combinationGuid": "bzYdPb8GWUS-CgT4wrziIA,fe01b6ed-3c36-47b6-bcfa-47864ef9d610,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

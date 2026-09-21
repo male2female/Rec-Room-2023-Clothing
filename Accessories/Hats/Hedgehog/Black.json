@@ -1,0 +1,11 @@
+{
+  "family": "Hedgehog",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "Hedgehog (Black)",
+  "combinationAsset": "Hedgehog_Hat_Black_Combination.asset",
+  "combinationGuid": "0WW04NMMfU2LLahCq0jQ6Q",
+  "combinationGuidDashed": "e0b465d1-0cd3-4d7d-8b2d-a842ab48d0e9",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

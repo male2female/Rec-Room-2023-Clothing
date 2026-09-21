@@ -1,0 +1,11 @@
+{
+  "family": "OrangeDress",
+  "slot": "Shirt",
+  "variant": "GreenFlower",
+  "displayGuess": "OrangeDress (GreenFlower)",
+  "combinationAsset": "OrangeDress_Shirt_GreenFlower_Combination.asset",
+  "combinationGuid": "d66aa400-aa5a-4539-a25d-5f8ce94dc281,2c8924aa-68f8-4912-9759-18992f72f08a,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MechaWings",
+  "slot": null,
+  "variant": "Invasion",
+  "displayGuess": "MechaWings (Invasion)",
+  "combinationAsset": "MechaWings_Invasion_Combination.asset",
+  "combinationGuid": "rFcMAp5UvkuGalprkr_ARQ",
+  "combinationGuidDashed": "020c57ac-549e-4bbe-866a-5a6b92bfc045",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

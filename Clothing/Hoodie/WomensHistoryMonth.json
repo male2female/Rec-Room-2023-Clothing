@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "WomensHistoryMonth",
+  "displayGuess": "Hoodie (WomensHistoryMonth)",
+  "combinationAsset": "Hoodie_Shirt_WomensHistoryMonth_Combination.asset",
+  "combinationGuid": "kBaeiw5WG0OHOIsric74Ag",
+  "combinationGuidDashed": "8b9e1690-560e-431b-8738-8b2b89cef802",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

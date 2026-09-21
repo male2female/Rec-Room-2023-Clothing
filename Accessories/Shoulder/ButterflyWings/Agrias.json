@@ -1,0 +1,11 @@
+{
+  "family": "ButterflyWings",
+  "slot": "Shoulder",
+  "variant": "Agrias",
+  "displayGuess": "ButterflyWings (Agrias)",
+  "combinationAsset": "ButterflyWings_Shoulder_Agrias_Combination.asset",
+  "combinationGuid": "PTqpWqqU9k--lNlRrmlVbA,yViVKOLHc0qLiPw9Oy1Obg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

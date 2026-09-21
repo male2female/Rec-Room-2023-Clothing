@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "DallasCowboys",
+  "displayGuess": "NFL (DallasCowboys)",
+  "combinationAsset": "NFL_Hat_DallasCowboys_Combination.asset",
+  "combinationGuid": "v0nZrzbIMEi3AaGuNjmwDw",
+  "combinationGuidDashed": "afd949bf-c836-4830-b701-a1ae3639b00f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

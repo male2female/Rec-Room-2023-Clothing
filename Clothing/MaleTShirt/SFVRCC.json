@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "SFVRCC",
+  "displayGuess": "MaleTShirt (SFVRCC)",
+  "combinationAsset": "MaleTShirt_Shirt_SFVRCC_Combination.asset",
+  "combinationGuid": "14afd295-bcd0-4595-80dc-d477618b9ab9,2ee3944d-e9fb-4959-973e-570a7fc6cc57,a74e6c0d-1300-4928-9141-977a711b71c4",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

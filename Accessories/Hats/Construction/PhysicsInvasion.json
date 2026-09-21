@@ -1,0 +1,11 @@
+{
+  "family": "Construction",
+  "slot": "Hat",
+  "variant": "PhysicsInvasion",
+  "displayGuess": "Construction (PhysicsInvasion)",
+  "combinationAsset": "Construction_Hat_PhysicsInvasion_Combination.asset",
+  "combinationGuid": "uym5X1GZgUSzVb8U-pwlIw",
+  "combinationGuidDashed": "5fb929bb-9951-4481-b355-bf14fa9c2523",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "Holographic",
+  "displayGuess": "Baseball (Holographic)",
+  "combinationAsset": "Baseball_Hat_Holographic_Combination.asset",
+  "combinationGuid": "mdSSJyipq0KvjDNQ2NyUaw,LQheTa-EvUaAonSyoWNmXg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

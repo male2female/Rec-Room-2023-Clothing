@@ -1,0 +1,11 @@
+{
+  "family": "PeaCoat",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "PeaCoat (Tan)",
+  "combinationAsset": "PeaCoat_Shirt_Tan_Combination.asset",
+  "combinationGuid": "PwsLxCnzOkSW-RGz3tNb1w,AZnPWCN41kmNwFwDqWGFWQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

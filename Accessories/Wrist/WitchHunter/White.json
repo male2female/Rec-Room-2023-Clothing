@@ -1,0 +1,11 @@
+{
+  "family": "WitchHunter",
+  "slot": "Wrist",
+  "variant": "White",
+  "displayGuess": "WitchHunter (White)",
+  "combinationAsset": "WitchHunter_Wrist_White_Combination.asset",
+  "combinationGuid": "e02838f8-4029-455a-b35c-dd40f972b05b,5b8d9490-e5bc-480e-91bc-65d1797b52ad,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

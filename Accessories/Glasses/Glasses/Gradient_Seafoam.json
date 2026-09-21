@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Gradient_Seafoam",
+  "displayGuess": "Glasses (Gradient_Seafoam)",
+  "combinationAsset": "Glasses_Eye_Gradient_Seafoam_Combination.asset",
+  "combinationGuid": "F1IV-zZ22kKtXkr2pHp_YQ",
+  "combinationGuidDashed": "fb155217-7636-42da-ad5e-4af6a47a7f61",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

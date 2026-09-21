@@ -1,0 +1,11 @@
+{
+  "family": "Chicken",
+  "slot": null,
+  "variant": "Yellow",
+  "displayGuess": "Chicken (Yellow)",
+  "combinationAsset": "Chicken_Yellow_Combination.asset",
+  "combinationGuid": "fF9qwnew3Eao2gF0xcOqrw",
+  "combinationGuidDashed": "c26a5f7c-b077-46dc-a8da-0174c5c3aaaf",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

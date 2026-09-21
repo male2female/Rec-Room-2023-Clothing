@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "Mobster (Gray)",
+  "combinationAsset": "Mobster_Hat_Gray_Combination.asset",
+  "combinationGuid": "390a476a-5545-48eb-955c-1bf1a16012bf,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

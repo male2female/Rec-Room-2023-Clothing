@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "SeattleSeahawks",
+  "displayGuess": "NFL (SeattleSeahawks)",
+  "combinationAsset": "NFL_Hat_SeattleSeahawks_Combination.asset",
+  "combinationGuid": "QD-SRdKijU2RVu60TcU_jw",
+  "combinationGuidDashed": "45923f40-a2d2-4d8d-9156-eeb44dc53f8f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

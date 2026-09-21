@@ -1,0 +1,11 @@
+{
+  "family": "TinyBackpack",
+  "slot": "Shoulder",
+  "variant": "Yellow",
+  "displayGuess": "TinyBackpack (Yellow)",
+  "combinationAsset": "TinyBackpack_Shoulder_Yellow_Combination.asset",
+  "combinationGuid": "5GEhQr7Iy0-kB0yCA3uJ6g",
+  "combinationGuidDashed": "422161e4-c8be-4fcb-a407-4c82037b89ea",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "LuchadorMask",
+  "slot": "Hat",
+  "variant": "GreenGold",
+  "displayGuess": "LuchadorMask (GreenGold)",
+  "combinationAsset": "LuchadorMask_Hat_GreenGold_Combination.asset",
+  "combinationGuid": "5_UnQ7vZ9E2T-EhJ7M-mQw,jL-LAsd03EeN1J-Zp8opew,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

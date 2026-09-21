@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroDress",
+  "slot": "Shirt",
+  "variant": "Pink",
+  "displayGuess": "SuperheroDress (Pink)",
+  "combinationAsset": "SuperheroDress_Shirt_Pink_Combination.asset",
+  "combinationGuid": "_C4RxcDBQE-mHh2oyL9vGw",
+  "combinationGuidDashed": "c5112efc-c1c0-4f40-a61e-1da8c8bf6f1b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

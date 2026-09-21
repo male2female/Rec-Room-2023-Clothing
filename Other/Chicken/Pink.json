@@ -1,0 +1,11 @@
+{
+  "family": "Chicken",
+  "slot": null,
+  "variant": "Pink",
+  "displayGuess": "Chicken (Pink)",
+  "combinationAsset": "Chicken_Pink_Combination.asset",
+  "combinationGuid": "AvIuVibXj0u7UzWFh90_LA",
+  "combinationGuidDashed": "562ef202-d726-4b8f-bb53-358587dd3f2c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "Jumbotron",
+  "displayGuess": "Baseball (Jumbotron)",
+  "combinationAsset": "Baseball_Hat_Jumbotron_Combination.asset",
+  "combinationGuid": "Vk1n941ZgkKrhrL9mh18oA,lxmw7EbzsUuoy0roRy5McQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

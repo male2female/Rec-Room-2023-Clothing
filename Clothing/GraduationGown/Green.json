@@ -1,0 +1,11 @@
+{
+  "family": "GraduationGown",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "GraduationGown (Green)",
+  "combinationAsset": "GraduationGown_Shirt_Green_Combination.asset",
+  "combinationGuid": "iZy7RmfAz0603oMO-jD-WA,ica0LZyM_kOox8gxW7CaMw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "PaintballGoggles",
+  "slot": "Eye",
+  "variant": "Blue",
+  "displayGuess": "PaintballGoggles (Blue)",
+  "combinationAsset": "PaintballGoggles_Eye_Blue_Combination.asset",
+  "combinationGuid": "kS7jek5tPkSkIgjIF369Vg,_Jx5VqGbVUCPwl_SaUCTRA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Blue",
+  "displayGuess": "Glasses (Blue)",
+  "combinationAsset": "Glasses_Eye_Blue_Combination.asset",
+  "combinationGuid": "9tZq7Xvfj0WhhLBAuAacxA,l_iJLV14q0eNgOsOI1u0pw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

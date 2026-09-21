@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "PoolFloatie (InvPurple)",
+  "combinationAsset": "PoolFloatie_InvPurple_Combination.asset",
+  "combinationGuid": "RCit-BlLyE6cvzpbfCVShA",
+  "combinationGuidDashed": "f8ad2844-4b19-4ec8-9cbf-3a5b7c255284",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

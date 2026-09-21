@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineGlove",
+  "slot": "Wrist",
+  "variant": "SRank",
+  "displayGuess": "SpaceMarineGlove (SRank)",
+  "combinationAsset": "SpaceMarineGlove_Wrist_SRank_Combination.asset",
+  "combinationGuid": "4ElTihrMA0ipcgeb9UG01Q,7634b7ef-9607-497a-b41f-c0191dc75998,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

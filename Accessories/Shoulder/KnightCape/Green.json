@@ -1,0 +1,11 @@
+{
+  "family": "KnightCape",
+  "slot": "Shoulder",
+  "variant": "Green",
+  "displayGuess": "KnightCape (Green)",
+  "combinationAsset": "KnightCape_Shoulder_Green_Combination.asset",
+  "combinationGuid": "PMa9370LPEig_7pKwCceEQ,15099be7-38b7-4b0b-ac13-1bacedbf5fb2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "HockeyShirt",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "HockeyShirt (Red)",
+  "combinationAsset": "HockeyShirt_Shirt_Red_Combination.asset",
+  "combinationGuid": "b1ea158d-1663-4db1-bb09-9847f6e9d1e6,e5635772-4e84-4b30-b77f-4a1196cb599b,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

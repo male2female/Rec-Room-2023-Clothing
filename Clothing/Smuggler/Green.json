@@ -1,0 +1,11 @@
+{
+  "family": "Smuggler",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Smuggler (Green)",
+  "combinationAsset": "Smuggler_Shirt_Green_Combination.asset",
+  "combinationGuid": "076c96ae-9f9b-45bf-9dc7-ce73d5ddf422,970a8c7e-d091-4719-bb9c-e3be8d46ee68,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

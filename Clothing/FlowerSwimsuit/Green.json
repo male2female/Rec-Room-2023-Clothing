@@ -1,0 +1,11 @@
+{
+  "family": "FlowerSwimsuit",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "FlowerSwimsuit (Green)",
+  "combinationAsset": "FlowerSwimsuit_Shirt_Green_Combination.asset",
+  "combinationGuid": "cf515c87-3c0a-4443-9f63-5ea1bdbaa61a,3248a3ec-50d1-4c0a-96ae-25eb9d8ed622,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

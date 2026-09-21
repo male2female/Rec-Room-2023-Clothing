@@ -1,0 +1,11 @@
+{
+  "family": "RetroGamer",
+  "slot": "Wrist",
+  "variant": "Dark",
+  "displayGuess": "RetroGamer (Dark)",
+  "combinationAsset": "RetroGamer_Wrist_Dark_Combination.asset",
+  "combinationGuid": "hKBSHovOeUy84yCbvutkOw",
+  "combinationGuidDashed": "1e52a084-ce8b-4c79-bce3-209bbeeb643b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

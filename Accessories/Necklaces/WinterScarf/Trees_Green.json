@@ -1,0 +1,11 @@
+{
+  "family": "WinterScarf",
+  "slot": "Neck",
+  "variant": "Trees_Green",
+  "displayGuess": "WinterScarf (Trees_Green)",
+  "combinationAsset": "WinterScarf_Neck_Trees_Green_Combination.asset",
+  "combinationGuid": "-tDd0gdxQkuvL2id10AweQ,6WVXb20giEWyZbW2gWGz_w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

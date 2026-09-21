@@ -1,0 +1,11 @@
+{
+  "family": "BandanaHeadband",
+  "slot": "Hat",
+  "variant": "PolkaDots",
+  "displayGuess": "BandanaHeadband (PolkaDots)",
+  "combinationAsset": "BandanaHeadband_Hat_PolkaDots_Combination.asset",
+  "combinationGuid": "0oMo4q5cLEi9LGpkOFIlkA",
+  "combinationGuidDashed": "e22883d2-5cae-482c-bd2c-6a6438522590",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

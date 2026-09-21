@@ -1,0 +1,11 @@
+{
+  "family": "FlapperGlove",
+  "slot": "Wrist",
+  "variant": "Gold",
+  "displayGuess": "FlapperGlove (Gold)",
+  "combinationAsset": "FlapperGlove_Wrist_Gold_Combination.asset",
+  "combinationGuid": "2cf2b644-3fa6-449c-9fe8-d0ab917f3106,0e42108e-3b08-49b4-86c0-7984719e8380,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

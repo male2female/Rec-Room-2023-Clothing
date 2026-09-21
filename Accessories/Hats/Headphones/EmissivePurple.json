@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "EmissivePurple",
+  "displayGuess": "Headphones (EmissivePurple)",
+  "combinationAsset": "Headphones_Hat_EmissivePurple_Combination.asset",
+  "combinationGuid": "3PfP661Fg0CruzRxis9EiA,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

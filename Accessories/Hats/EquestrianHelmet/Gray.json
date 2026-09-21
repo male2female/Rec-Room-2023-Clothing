@@ -1,0 +1,11 @@
+{
+  "family": "EquestrianHelmet",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "EquestrianHelmet (Gray)",
+  "combinationAsset": "EquestrianHelmet_Hat_Gray_Combination.asset",
+  "combinationGuid": "4828b50c-95b6-466a-bb25-514891d78202,be6b3fa1-3388-48ac-8957-d7b8c85ff968,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

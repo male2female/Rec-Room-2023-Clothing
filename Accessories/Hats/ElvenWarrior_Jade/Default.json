@@ -1,0 +1,11 @@
+{
+  "family": "ElvenWarrior_Jade",
+  "slot": "Hat",
+  "variant": "Default",
+  "displayGuess": "ElvenWarrior_Jade",
+  "combinationAsset": "ElvenWarrior_Jade_Hat_Combination.asset",
+  "combinationGuid": "z1djgGqy502ha9X_uB3enA",
+  "combinationGuidDashed": "806357cf-b26a-4de7-a16b-d5ffb81dde9c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

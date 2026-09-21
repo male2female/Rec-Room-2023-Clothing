@@ -1,0 +1,11 @@
+{
+  "family": "Conductor",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Conductor (Blue)",
+  "combinationAsset": "Conductor_Hat_Blue_Combination.asset",
+  "combinationGuid": "jwXdjDbEmkOFyKZHT_RYOw,YJGsYfwkik2lp7qWqXyXTw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BasketballTee",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "BasketballTee (Green)",
+  "combinationAsset": "BasketballTee_Shirt_Green_Combination.asset",
+  "combinationGuid": "ojTIShRZHEOV1qQRfhwvTA,54a5c055-f757-4c00-a1e1-8b0b6552c608,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

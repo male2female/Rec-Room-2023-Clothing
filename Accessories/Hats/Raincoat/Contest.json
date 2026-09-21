@@ -1,0 +1,11 @@
+{
+  "family": "Raincoat",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "Raincoat (Contest)",
+  "combinationAsset": "Raincoat_Hat_Contest_Combination.asset",
+  "combinationGuid": "kX7ocqn8X0-4M1nw-KrwFQ,qC66Hu6yKEu2Res2o2z1Kw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

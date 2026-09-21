@@ -1,0 +1,11 @@
+{
+  "family": "Punk",
+  "slot": "Wrist",
+  "variant": "Green",
+  "displayGuess": "Punk (Green)",
+  "combinationAsset": "Punk_Wrist_Green_Combination.asset",
+  "combinationGuid": "a6796264-9c7e-4605-830c-06db8d0dc780,dd7472ed-bdcb-4811-81ba-5ed682fb7675,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

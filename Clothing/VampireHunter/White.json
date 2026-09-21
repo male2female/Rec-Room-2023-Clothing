@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "VampireHunter (White)",
+  "combinationAsset": "VampireHunter_Shirt_White_Combination.asset",
+  "combinationGuid": "9QG6qp5FBU-u0-JK-yMMqA,x10FeRBsQU2DIIpG8XIlwg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

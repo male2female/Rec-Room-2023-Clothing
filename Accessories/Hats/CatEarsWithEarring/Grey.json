@@ -1,0 +1,11 @@
+{
+  "family": "CatEarsWithEarring",
+  "slot": "Hat",
+  "variant": "Grey",
+  "displayGuess": "CatEarsWithEarring (Grey)",
+  "combinationAsset": "CatEarsWithEarring_Hat_Grey_Combination.asset",
+  "combinationGuid": "UcK6aipko0iE4THJUO1TvA",
+  "combinationGuidDashed": "6abac251-642a-48a3-84e1-31c950ed53bc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

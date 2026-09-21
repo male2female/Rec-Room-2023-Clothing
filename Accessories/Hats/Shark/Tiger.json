@@ -1,0 +1,11 @@
+{
+  "family": "Shark",
+  "slot": "Hat",
+  "variant": "Tiger",
+  "displayGuess": "Shark (Tiger)",
+  "combinationAsset": "Shark_Hat_Tiger_Combination.asset",
+  "combinationGuid": "ln5aTG458UOVh4sR820FJQ",
+  "combinationGuidDashed": "4c5a7e96-396e-43f1-9587-8b11f36d0525",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

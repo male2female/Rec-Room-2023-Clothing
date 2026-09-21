@@ -1,0 +1,11 @@
+{
+  "family": "Scuba",
+  "slot": "Shoulder",
+  "variant": "Blue",
+  "displayGuess": "Scuba (Blue)",
+  "combinationAsset": "Scuba_Shoulder_Blue_Combination.asset",
+  "combinationGuid": "V_duN2oWaUmmao1xHhzCJA,Uvarm_CwTUWWQYZvzI8OaQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

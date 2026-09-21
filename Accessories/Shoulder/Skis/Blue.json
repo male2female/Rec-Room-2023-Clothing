@@ -1,0 +1,11 @@
+{
+  "family": "Skis",
+  "slot": "Shoulder",
+  "variant": "Blue",
+  "displayGuess": "Skis (Blue)",
+  "combinationAsset": "Skis_Shoulder_Blue_Combination.asset",
+  "combinationGuid": "sNtmG8EODkOoiAdOi5Hetg",
+  "combinationGuidDashed": "1b66dbb0-0ec1-430e-a888-074e8b91deb6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

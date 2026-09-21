@@ -1,0 +1,11 @@
+{
+  "family": "SmallBrim",
+  "slot": "Hat",
+  "variant": "Maroon",
+  "displayGuess": "SmallBrim (Maroon)",
+  "combinationAsset": "SmallBrim_Hat_Maroon_Combination.asset",
+  "combinationGuid": "d6823e01-69f0-4f85-b94a-74894356a2cf,65ed43ff-dfc4-4cab-b0b9-77dc94165e24,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

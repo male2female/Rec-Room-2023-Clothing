@@ -1,0 +1,11 @@
+{
+  "family": "WingedHeadband",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "WingedHeadband (Red)",
+  "combinationAsset": "WingedHeadband_Hat_Red_Combination.asset",
+  "combinationGuid": "JUOrYcAd7U-ChkFZRiBeKA",
+  "combinationGuidDashed": "61ab4325-1dc0-4fed-8286-415946205e28",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BaseBallFlatBill",
+  "slot": "Hat",
+  "variant": "Basketball",
+  "displayGuess": "BaseBallFlatBill (Basketball)",
+  "combinationAsset": "BaseBallFlatBill_Hat_Basketball_Combination.asset",
+  "combinationGuid": "-C1ui-T280GEfW6-vPQ-ig",
+  "combinationGuidDashed": "8b6e2df8-f6e4-41f3-847d-6ebebcf43e8a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

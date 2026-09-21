@@ -1,0 +1,11 @@
+{
+  "family": "SkiBuddy",
+  "slot": "Eye",
+  "variant": "Pink",
+  "displayGuess": "SkiBuddy (Pink)",
+  "combinationAsset": "SkiBuddy_Eye_Pink_Combination.asset",
+  "combinationGuid": "n741vKj02kyt8B5fT6s2og",
+  "combinationGuidDashed": "bc35be9f-f4a8-4cda-adf0-1e5f4fab36a2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

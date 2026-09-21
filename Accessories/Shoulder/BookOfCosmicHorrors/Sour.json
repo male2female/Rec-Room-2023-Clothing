@@ -1,0 +1,11 @@
+{
+  "family": "BookOfCosmicHorrors",
+  "slot": "Shoulder",
+  "variant": "Sour",
+  "displayGuess": "BookOfCosmicHorrors (Sour)",
+  "combinationAsset": "BookOfCosmicHorrors_Shoulder_Sour_Combination.asset",
+  "combinationGuid": "hKkdXrgEQ0SStVnZsXu0uQ",
+  "combinationGuidDashed": "5e1da984-04b8-4443-92b5-59d9b17bb4b9",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

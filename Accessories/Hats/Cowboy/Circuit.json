@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Hat",
+  "variant": "Circuit",
+  "displayGuess": "Cowboy (Circuit)",
+  "combinationAsset": "Cowboy_Hat_Circuit_Combination.asset",
+  "combinationGuid": "AEqCasEqOUCgetoTwuMTug",
+  "combinationGuidDashed": "6a824a00-2ac1-4039-a07a-da13c2e313ba",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

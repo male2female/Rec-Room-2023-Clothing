@@ -1,0 +1,11 @@
+{
+  "family": "TrackSuit",
+  "slot": "Shirt",
+  "variant": "Squid",
+  "displayGuess": "TrackSuit (Squid)",
+  "combinationAsset": "TrackSuit_Shirt_Squid_Combination.asset",
+  "combinationGuid": "J7l1YwWjqkutybwykwih7w",
+  "combinationGuidDashed": "6375b927-a305-4baa-adc9-bc329308a1ef",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

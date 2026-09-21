@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "Plaid",
+  "displayGuess": "WristBand (Plaid)",
+  "combinationAsset": "WristBand_Wrist_Plaid_Combination.asset",
+  "combinationGuid": "j367nSYyg06rOMZ1GmfmFA,FS7kgc4DpkKuar24J9dW8g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

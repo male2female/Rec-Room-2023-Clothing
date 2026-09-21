@@ -1,0 +1,11 @@
+{
+  "family": "CoatOverTurtleNeck",
+  "slot": "Shirt",
+  "variant": "PastelPurple",
+  "displayGuess": "CoatOverTurtleNeck (PastelPurple)",
+  "combinationAsset": "CoatOverTurtleNeck_Shirt_PastelPurple_Combination.asset",
+  "combinationGuid": "J36t8RwGPUqtLBsF-_UtEw",
+  "combinationGuidDashed": "f1ad7e27-061c-4a3d-ad2c-1b05fbf52d13",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

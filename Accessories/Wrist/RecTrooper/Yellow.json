@@ -1,0 +1,11 @@
+{
+  "family": "RecTrooper",
+  "slot": "Wrist",
+  "variant": "Yellow",
+  "displayGuess": "RecTrooper (Yellow)",
+  "combinationAsset": "RecTrooper_Wrist_Yellow_Combination.asset",
+  "combinationGuid": "aaaG7Fg8fky2dkrwVsA30g,8ubY2vSZQEOmhqIg70Gqyw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

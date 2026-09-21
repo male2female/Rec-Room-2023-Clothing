@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteSuit",
+  "slot": null,
+  "variant": "Purple",
+  "displayGuess": "VigilanteSuit (Purple)",
+  "combinationAsset": "VigilanteSuit_Purple_Combination.asset",
+  "combinationGuid": "zvs7t0P2Q02wIELJzMa2TQ",
+  "combinationGuidDashed": "b73bfbce-f643-4d43-b020-42c9ccc6b64d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

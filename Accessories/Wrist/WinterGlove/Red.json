@@ -1,0 +1,11 @@
+{
+  "family": "WinterGlove",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "WinterGlove (Red)",
+  "combinationAsset": "WinterGlove_Wrist_Red_Combination.asset",
+  "combinationGuid": "SWvJWvMDpE-it5PFoPgERg,jQjfiz2i6kaPfrkjnBGxBA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

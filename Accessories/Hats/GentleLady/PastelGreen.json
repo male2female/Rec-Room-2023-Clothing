@@ -1,0 +1,11 @@
+{
+  "family": "GentleLady",
+  "slot": "Hat",
+  "variant": "PastelGreen",
+  "displayGuess": "GentleLady (PastelGreen)",
+  "combinationAsset": "GentleLady_Hat_PastelGreen_Combination.asset",
+  "combinationGuid": "9liduuR6IE-6C4YN_FKcZg",
+  "combinationGuidDashed": "ba9d58f6-7ae4-4f20-ba0b-860dfc529c66",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

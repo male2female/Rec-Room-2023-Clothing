@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "EmissiveXboxGreen",
+  "displayGuess": "Headphones (EmissiveXboxGreen)",
+  "combinationAsset": "Headphones_Hat_EmissiveXboxGreen_Combination.asset",
+  "combinationGuid": "PQTvQiYu-ESRUldnxgm5BQ,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

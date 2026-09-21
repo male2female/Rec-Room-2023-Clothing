@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "ArgyleRed",
+  "displayGuess": "CollarShirt (ArgyleRed)",
+  "combinationAsset": "CollarShirt_Shirt_ArgyleRed_Combination.asset",
+  "combinationGuid": "071d1bf3-86dc-4a31-b54a-e6579fab8649,d015cae7-a905-49e4-8823-6dec069689a6,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

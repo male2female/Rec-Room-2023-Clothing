@@ -1,0 +1,11 @@
+{
+  "family": "SmugglerGlasses",
+  "slot": "Eye",
+  "variant": "Grey",
+  "displayGuess": "SmugglerGlasses (Grey)",
+  "combinationAsset": "SmugglerGlasses_Eye_Grey_Combination.asset",
+  "combinationGuid": "90869e86-cbc5-4024-9d08-fcdc41c64eb5,fe01b6ed-3c36-47b6-bcfa-47864ef9d610,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

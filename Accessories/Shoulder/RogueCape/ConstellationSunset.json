@@ -1,0 +1,11 @@
+{
+  "family": "RogueCape",
+  "slot": "Shoulder",
+  "variant": "ConstellationSunset",
+  "displayGuess": "RogueCape (ConstellationSunset)",
+  "combinationAsset": "RogueCape_Shoulder_ConstellationSunset_Combination.asset",
+  "combinationGuid": "ay9ktLnHfUKdj0-q52Gvyg",
+  "combinationGuidDashed": "b4642f6b-c7b9-427d-9d8f-4faae761afca",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

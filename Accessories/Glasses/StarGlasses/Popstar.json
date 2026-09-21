@@ -1,0 +1,11 @@
+{
+  "family": "StarGlasses",
+  "slot": "Eye",
+  "variant": "Popstar",
+  "displayGuess": "StarGlasses (Popstar)",
+  "combinationAsset": "StarGlasses_Eye_Popstar_Combination.asset",
+  "combinationGuid": "PGZihr096kC4XZvHfmVMzA",
+  "combinationGuidDashed": "8662663c-3dbd-40ea-b85d-9bc77e654ccc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

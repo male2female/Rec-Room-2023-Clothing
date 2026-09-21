@@ -1,0 +1,11 @@
+{
+  "family": "FannyPack",
+  "slot": "Belt",
+  "variant": "Premium",
+  "displayGuess": "FannyPack (Premium)",
+  "combinationAsset": "FannyPack_Belt_Premium_Combination.asset",
+  "combinationGuid": "ncERd5bELk23jSRxA7NV9g,N-cAmfOgv0eJZMTo18zJHQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

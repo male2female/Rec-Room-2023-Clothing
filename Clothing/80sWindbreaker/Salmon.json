@@ -1,0 +1,11 @@
+{
+  "family": "80sWindbreaker",
+  "slot": "Shirt",
+  "variant": "Salmon",
+  "displayGuess": "80sWindbreaker (Salmon)",
+  "combinationAsset": "80sWindbreaker_Shirt_Salmon_Combination.asset",
+  "combinationGuid": "JS7aa4QSUUOpUYPqRZEb5g,oSaMpc5rTE-U6yhjtPWQgg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

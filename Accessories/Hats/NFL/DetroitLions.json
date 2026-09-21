@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "DetroitLions",
+  "displayGuess": "NFL (DetroitLions)",
+  "combinationAsset": "NFL_Hat_DetroitLions_Combination.asset",
+  "combinationGuid": "5fjPcf4xQkSEYn3T-f8xLw",
+  "combinationGuidDashed": "71cff8e5-31fe-4442-8462-7dd3f9ff312f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

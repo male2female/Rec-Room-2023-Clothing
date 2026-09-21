@@ -1,0 +1,11 @@
+{
+  "family": "HearingAids",
+  "slot": "Ear",
+  "variant": "CochlearImplant_Gray",
+  "displayGuess": "HearingAids (CochlearImplant_Gray)",
+  "combinationAsset": "HearingAids_Ear_CochlearImplant_Gray_Combination.asset",
+  "combinationGuid": "7ZRNVpxhWk-j8R3oj0oVXg",
+  "combinationGuidDashed": "564d94ed-619c-4f5a-a3f1-1de88f4a155e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

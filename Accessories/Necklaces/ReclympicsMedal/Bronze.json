@@ -1,0 +1,11 @@
+{
+  "family": "ReclympicsMedal",
+  "slot": "Neck",
+  "variant": "Bronze",
+  "displayGuess": "ReclympicsMedal (Bronze)",
+  "combinationAsset": "ReclympicsMedal_Neck_Bronze_Combination.asset",
+  "combinationGuid": "zNLzEvpTpkOIi0J3fIvh1A,OqC4ny2rk0yJJOHemspV7A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

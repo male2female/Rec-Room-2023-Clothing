@@ -1,0 +1,11 @@
+{
+  "family": "GrillMaster",
+  "slot": "Shoulder",
+  "variant": "Denim",
+  "displayGuess": "GrillMaster (Denim)",
+  "combinationAsset": "GrillMaster_Shoulder_Denim_Combination.asset",
+  "combinationGuid": "eV3Nv6SWS0yl3f-fgjPb-w,t-ZEWJCgFEyGP2PjNblQMA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "PittsburghSteelers",
+  "displayGuess": "NFL (PittsburghSteelers)",
+  "combinationAsset": "NFL_Hat_PittsburghSteelers_Combination.asset",
+  "combinationGuid": "YePtDvVnOk6cZkDBVIv-PA",
+  "combinationGuidDashed": "0eede361-67f5-4e3a-9c66-40c1548bfe3c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BasicBelt",
+  "slot": "Belt",
+  "variant": "Gold_Green",
+  "displayGuess": "BasicBelt (Gold_Green)",
+  "combinationAsset": "BasicBelt_Belt_Gold_Green_Combination.asset",
+  "combinationGuid": "6fmUy748hU2dgwgaijSkUA,rL9p5JY83Eyxj00Dieg7oA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "YellowPoofyDress",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "YellowPoofyDress (Purple)",
+  "combinationAsset": "YellowPoofyDress_Shirt_Purple_Combination.asset",
+  "combinationGuid": "31ac9d4d-3d6b-48f2-85d5-dc4b8165a17a,d30e3afe-414c-4b60-8be9-6fa4156a4b65,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

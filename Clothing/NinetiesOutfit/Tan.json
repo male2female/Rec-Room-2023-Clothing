@@ -1,0 +1,11 @@
+{
+  "family": "NinetiesOutfit",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "NinetiesOutfit (Tan)",
+  "combinationAsset": "NinetiesOutfit_Shirt_Tan_Combination.asset",
+  "combinationGuid": "6ZtRAbD-xUufWNLCrlrrCg,u9yHtj_tfkuowGp0h_YpFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

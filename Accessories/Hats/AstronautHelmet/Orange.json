@@ -1,0 +1,11 @@
+{
+  "family": "AstronautHelmet",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "AstronautHelmet (Orange)",
+  "combinationAsset": "AstronautHelmet_Hat_Orange_Combination.asset",
+  "combinationGuid": "JFalLDUvm0aMm3wh1UVfVg,iQjkS1xYP0S63ltvKpkz5g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

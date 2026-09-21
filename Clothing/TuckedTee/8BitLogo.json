@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "8BitLogo",
+  "displayGuess": "TuckedTee (8BitLogo)",
+  "combinationAsset": "TuckedTee_Shirt_8BitLogo_Combination.asset",
+  "combinationGuid": "K4_AIRWX-U-f-nXsBOc82g",
+  "combinationGuidDashed": "21c08f2b-9715-4ff9-9ffa-75ec04e73cda",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

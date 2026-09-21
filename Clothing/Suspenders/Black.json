@@ -1,0 +1,11 @@
+{
+  "family": "Suspenders",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "Suspenders (Black)",
+  "combinationAsset": "Suspenders_Shirt_Black_Combination.asset",
+  "combinationGuid": "lq59KZwElEStrviDEQLLcA,olyS074RHU-ojE0GzBBYJw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

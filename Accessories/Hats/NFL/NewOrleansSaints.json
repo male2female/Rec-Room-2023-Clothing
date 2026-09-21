@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "NewOrleansSaints",
+  "displayGuess": "NFL (NewOrleansSaints)",
+  "combinationAsset": "NFL_Hat_NewOrleansSaints_Combination.asset",
+  "combinationGuid": "QgECbFDwyk24sI-e_fXy5w",
+  "combinationGuidDashed": "6c020142-f050-4dca-b8b0-8f9efdf5f2e7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "HoustonTexans",
+  "displayGuess": "NFL (HoustonTexans)",
+  "combinationAsset": "NFL_Shirt_HoustonTexans_Combination.asset",
+  "combinationGuid": "pcEwV_ZPxkSKP39UgPh6fw",
+  "combinationGuidDashed": "5730c1a5-4ff6-44c6-8a3f-7f5480f87a7f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

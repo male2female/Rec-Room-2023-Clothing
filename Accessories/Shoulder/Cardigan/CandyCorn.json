@@ -1,0 +1,11 @@
+{
+  "family": "Cardigan",
+  "slot": "Shoulder",
+  "variant": "CandyCorn",
+  "displayGuess": "Cardigan (CandyCorn)",
+  "combinationAsset": "Cardigan_Shoulder_CandyCorn_Combination.asset",
+  "combinationGuid": "bIQKJloWV0SEnBEtoxP_Wg",
+  "combinationGuidDashed": "260a846c-165a-4457-849c-112da313ff5a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

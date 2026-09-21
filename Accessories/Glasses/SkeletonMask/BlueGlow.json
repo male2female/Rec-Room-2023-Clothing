@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "BlueGlow",
+  "displayGuess": "SkeletonMask (BlueGlow)",
+  "combinationAsset": "SkeletonMask_Eye_BlueGlow_Combination.asset",
+  "combinationGuid": "ZY0rVNemjEuEMGMjuPNZyA,DfyODsHfIESXxVjcfZmBOA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

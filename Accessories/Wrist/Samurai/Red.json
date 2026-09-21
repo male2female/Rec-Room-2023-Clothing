@@ -1,0 +1,11 @@
+{
+  "family": "Samurai",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "Samurai (Red)",
+  "combinationAsset": "Samurai_Wrist_Red_Combination.asset",
+  "combinationGuid": "h-uMOz2Hz06ymEjtz4wuzQ,4Ooi0h3SrkObClvS2cGk9Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

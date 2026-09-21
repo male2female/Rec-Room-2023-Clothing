@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "GreenBayPackers",
+  "displayGuess": "NFL (GreenBayPackers)",
+  "combinationAsset": "NFL_Shirt_GreenBayPackers_Combination.asset",
+  "combinationGuid": "S9YQnGF2WkaFSG07d-5TUw",
+  "combinationGuidDashed": "9c10d64b-7661-465a-8548-6d3b77ee5353",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

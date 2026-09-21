@@ -1,0 +1,11 @@
+{
+  "family": "RoyalCape",
+  "slot": "Shoulder",
+  "variant": "Gold",
+  "displayGuess": "RoyalCape (Gold)",
+  "combinationAsset": "RoyalCape_Shoulder_Gold_Combination.asset",
+  "combinationGuid": "pEiU6yZm2U-X9ip_CM1SAw,PIV6RtD7Pk-UTcUp2wF1ww,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

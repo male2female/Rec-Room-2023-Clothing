@@ -1,0 +1,11 @@
+{
+  "family": "PumpkinEarring",
+  "slot": "Ear",
+  "variant": "JackOLantern",
+  "displayGuess": "PumpkinEarring (JackOLantern)",
+  "combinationAsset": "PumpkinEarring_Ear_JackOLantern_Combination.asset",
+  "combinationGuid": "ciwVtCaRHEO72BFPe4Ujmg",
+  "combinationGuidDashed": "b4152c72-9126-431c-bbd8-114f7b85239a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

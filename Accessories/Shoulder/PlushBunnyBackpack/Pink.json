@@ -1,0 +1,11 @@
+{
+  "family": "PlushBunnyBackpack",
+  "slot": "Shoulder",
+  "variant": "Pink",
+  "displayGuess": "PlushBunnyBackpack (Pink)",
+  "combinationAsset": "PlushBunnyBackpack_Shoulder_Pink_Combination.asset",
+  "combinationGuid": "DNGqrCGe8kKrNmJaGzjjew",
+  "combinationGuidDashed": "acaad10c-9e21-42f2-ab36-625a1b38e37b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

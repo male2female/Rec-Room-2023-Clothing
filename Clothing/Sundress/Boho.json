@@ -1,0 +1,11 @@
+{
+  "family": "Sundress",
+  "slot": "Shirt",
+  "variant": "Boho",
+  "displayGuess": "Sundress (Boho)",
+  "combinationAsset": "Sundress_Shirt_Boho_Combination.asset",
+  "combinationGuid": "rsh2uKli90OoEnJZRFc2Ww",
+  "combinationGuidDashed": "b876c8ae-62a9-43f7-a812-72594457365b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

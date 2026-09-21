@@ -1,0 +1,11 @@
+{
+  "family": "ElvenWarrior_Jade",
+  "slot": "Shoulder",
+  "variant": "Default",
+  "displayGuess": "ElvenWarrior_Jade",
+  "combinationAsset": "ElvenWarrior_Jade_Shoulder_Combination.asset",
+  "combinationGuid": "EmlwkB77pUiiDEmc2pMVaA",
+  "combinationGuidDashed": "90706912-fb1e-48a5-a20c-499cda931568",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

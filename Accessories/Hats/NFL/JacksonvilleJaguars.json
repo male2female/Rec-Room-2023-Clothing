@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "JacksonvilleJaguars",
+  "displayGuess": "NFL (JacksonvilleJaguars)",
+  "combinationAsset": "NFL_Hat_JacksonvilleJaguars_Combination.asset",
+  "combinationGuid": "nIUjGqY8L0u0ZbX45b4PUQ",
+  "combinationGuidDashed": "1a23859c-3ca6-4b2f-b465-b5f8e5be0f51",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

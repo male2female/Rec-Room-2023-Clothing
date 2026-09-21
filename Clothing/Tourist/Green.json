@@ -1,0 +1,11 @@
+{
+  "family": "Tourist",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Tourist (Green)",
+  "combinationAsset": "Tourist_Shirt_Green_Combination.asset",
+  "combinationGuid": "XT_txjZfIUOT400UPHLaRA,M-mi8QUHwEeIewXE8uAlrQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

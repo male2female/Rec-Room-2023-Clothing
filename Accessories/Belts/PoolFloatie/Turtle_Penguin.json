@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "Turtle_Penguin",
+  "displayGuess": "PoolFloatie (Turtle_Penguin)",
+  "combinationAsset": "PoolFloatie_Belt_Turtle_Penguin_Combination.asset",
+  "combinationGuid": "A8ht7G1iqEeLvP0SW6SwyQ,QppxPdf550-jT7dK7XrTzw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

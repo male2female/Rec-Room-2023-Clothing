@@ -1,0 +1,11 @@
+{
+  "family": "RoyalCape",
+  "slot": "Shoulder",
+  "variant": "Purple",
+  "displayGuess": "RoyalCape (Purple)",
+  "combinationAsset": "RoyalCape_Shoulder_Purple_Combination.asset",
+  "combinationGuid": "mqdncbYcuUSGFvFqEU0z4A,HTU3Wp_ri0GNYGFSezFHSg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

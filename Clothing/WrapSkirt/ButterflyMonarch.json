@@ -1,0 +1,11 @@
+{
+  "family": "WrapSkirt",
+  "slot": "Shirt",
+  "variant": "ButterflyMonarch",
+  "displayGuess": "WrapSkirt (ButterflyMonarch)",
+  "combinationAsset": "WrapSkirt_Shirt_ButterflyMonarch_Combination.asset",
+  "combinationGuid": "B5WV1io6fkaAJdm4GbzM_Q",
+  "combinationGuidDashed": "d6959507-3a2a-467e-8025-d9b819bcccfd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

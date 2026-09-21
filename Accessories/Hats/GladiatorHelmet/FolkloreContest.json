@@ -1,0 +1,11 @@
+{
+  "family": "GladiatorHelmet",
+  "slot": "Hat",
+  "variant": "FolkloreContest",
+  "displayGuess": "GladiatorHelmet (FolkloreContest)",
+  "combinationAsset": "GladiatorHelmet_Hat_FolkloreContest_Combination.asset",
+  "combinationGuid": "GL6frGGo2E25VLcw61otXA",
+  "combinationGuidDashed": "ac9fbe18-a861-4dd8-b954-b730eb5a2d5c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

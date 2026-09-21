@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "GamerLime",
+  "displayGuess": "TuckedTee (GamerLime)",
+  "combinationAsset": "TuckedTee_Shirt_GamerLime_Combination.asset",
+  "combinationGuid": "rg6sMjE1XkijY4Pq73pjcg",
+  "combinationGuidDashed": "32ac0eae-3531-485e-a363-83eaef7a6372",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

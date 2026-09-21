@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Celtics",
+  "displayGuess": "WorkoutTee (Celtics)",
+  "combinationAsset": "WorkoutTee_Shirt_Celtics_Combination.asset",
+  "combinationGuid": "dpxEW-2Un0eeVIsg5_o6Xw",
+  "combinationGuidDashed": "5b449c76-94ed-479f-9e54-8b20e7fa3a5f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

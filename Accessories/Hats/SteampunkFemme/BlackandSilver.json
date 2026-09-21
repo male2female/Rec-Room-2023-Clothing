@@ -1,0 +1,11 @@
+{
+  "family": "SteampunkFemme",
+  "slot": "Hat",
+  "variant": "BlackandSilver",
+  "displayGuess": "SteampunkFemme (BlackandSilver)",
+  "combinationAsset": "SteampunkFemme_Hat_BlackandSilver_Combination.asset",
+  "combinationGuid": "ZUMIXcyOpEGiHgslbHQbwA,Uhw5NBQy-EOIiCWiZFiL7g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

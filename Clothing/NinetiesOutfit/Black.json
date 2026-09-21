@@ -1,0 +1,11 @@
+{
+  "family": "NinetiesOutfit",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "NinetiesOutfit (Black)",
+  "combinationAsset": "NinetiesOutfit_Shirt_Black_Combination.asset",
+  "combinationGuid": "ulOBBvFEJ0ioFA1qmL390A,u9yHtj_tfkuowGp0h_YpFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "RoundGlasses",
+  "slot": "Eye",
+  "variant": "Tortoiseshell",
+  "displayGuess": "RoundGlasses (Tortoiseshell)",
+  "combinationAsset": "RoundGlasses_Eye_Tortoiseshell_Combination.asset",
+  "combinationGuid": "t_y2xmFYLU2v6Jb6PX6v_g,4J9GPTKjjUOjyLVPmJyxWg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

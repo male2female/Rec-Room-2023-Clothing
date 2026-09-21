@@ -1,0 +1,11 @@
+{
+  "family": "Boxer",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "Boxer (Red)",
+  "combinationAsset": "Boxer_Wrist_Red_Combination.asset",
+  "combinationGuid": "8c7b09f2-6213-4ef9-87ab-a2df72d07a22,f79f8a46-ef1d-4d8c-a4fc-383e3a9eb10b,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

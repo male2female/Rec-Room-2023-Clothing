@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "TwoOrange",
+  "displayGuess": "Headphones (TwoOrange)",
+  "combinationAsset": "Headphones_Hat_TwoOrange_Combination.asset",
+  "combinationGuid": "nX7krD8e2km_ZlOLWcoxdQ,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

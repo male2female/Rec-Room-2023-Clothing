@@ -1,0 +1,11 @@
+{
+  "family": "BeanieSlouch",
+  "slot": "Hat",
+  "variant": "Pineapple",
+  "displayGuess": "BeanieSlouch (Pineapple)",
+  "combinationAsset": "BeanieSlouch_Hat_Pineapple_Combination.asset",
+  "combinationGuid": "CJKB3OO2CkeEVsAK0jeeDA",
+  "combinationGuidDashed": "dc819208-b6e3-470a-8456-c00ad2379e0c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

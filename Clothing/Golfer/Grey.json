@@ -1,0 +1,11 @@
+{
+  "family": "Golfer",
+  "slot": "Shirt",
+  "variant": "Grey",
+  "displayGuess": "Golfer (Grey)",
+  "combinationAsset": "Golfer_Shirt_Grey_Combination.asset",
+  "combinationGuid": "4c845dbb-26c3-48a1-b562-e28a7416b154,6ce21c65-f4e9-41ac-be94-8eb1a08d5c76,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

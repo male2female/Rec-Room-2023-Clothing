@@ -1,0 +1,11 @@
+{
+  "family": "Soccer",
+  "slot": "Wrist",
+  "variant": "Blue",
+  "displayGuess": "Soccer (Blue)",
+  "combinationAsset": "Soccer_Wrist_Blue_Combination.asset",
+  "combinationGuid": "whEHo6Rhr0CxsDBsBD32WA,av4PwLz6YkmpBRImQZgn4Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

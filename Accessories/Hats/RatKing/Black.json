@@ -1,0 +1,11 @@
+{
+  "family": "RatKing",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "RatKing (Black)",
+  "combinationAsset": "RatKing_Hat_Black_Combination.asset",
+  "combinationGuid": "T5z4W4H8sU-2NxpepVH0Qg",
+  "combinationGuidDashed": "5bf89c4f-fc81-4fb1-b637-1a5ea551f442",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

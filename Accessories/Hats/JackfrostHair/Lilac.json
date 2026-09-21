@@ -1,0 +1,11 @@
+{
+  "family": "JackfrostHair",
+  "slot": "Hat",
+  "variant": "Lilac",
+  "displayGuess": "JackfrostHair (Lilac)",
+  "combinationAsset": "JackfrostHair_Hat_Lilac_Combination.asset",
+  "combinationGuid": "KwhdQ1deNE6Y6jzO9vaAnQ,byvLynH8x06OQ7GNCXOVYA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

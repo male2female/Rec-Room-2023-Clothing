@@ -1,0 +1,11 @@
+{
+  "family": "Barbershop",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Barbershop (Green)",
+  "combinationAsset": "Barbershop_Hat_Green_Combination.asset",
+  "combinationGuid": "7f9cb939-36a4-40da-8337-025e1d7bf8e5,83158223-e268-4036-8a6a-218a8430eb2c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

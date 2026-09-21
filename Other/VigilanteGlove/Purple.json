@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteGlove",
+  "slot": null,
+  "variant": "Purple",
+  "displayGuess": "VigilanteGlove (Purple)",
+  "combinationAsset": "VigilanteGlove_Purple_Combination.asset",
+  "combinationGuid": "agkPLQG_Mkmqf3WkDaFaWA",
+  "combinationGuidDashed": "2d0f096a-bf01-4932-aa7f-75a40da15a58",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

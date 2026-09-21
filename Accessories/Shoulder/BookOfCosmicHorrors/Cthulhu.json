@@ -1,0 +1,11 @@
+{
+  "family": "BookOfCosmicHorrors",
+  "slot": "Shoulder",
+  "variant": "Cthulhu",
+  "displayGuess": "BookOfCosmicHorrors (Cthulhu)",
+  "combinationAsset": "BookOfCosmicHorrors_Shoulder_Cthulhu_Combination.asset",
+  "combinationGuid": "bpzKQ-B4_0KpMPf4ixTumw",
+  "combinationGuidDashed": "43ca9c6e-78e0-42ff-a930-f7f88b14ee9b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

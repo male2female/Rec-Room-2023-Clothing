@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Warriors",
+  "displayGuess": "WorkoutTee (Warriors)",
+  "combinationAsset": "WorkoutTee_Shirt_Warriors_Combination.asset",
+  "combinationGuid": "eCEF5P5N7EC_cEjM9-5iUA",
+  "combinationGuidDashed": "e4052178-4dfe-40ec-bf70-48ccf7ee6250",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

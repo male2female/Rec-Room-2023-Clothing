@@ -1,0 +1,11 @@
+{
+  "family": "IHeartRRShirt",
+  "slot": "Shirt",
+  "variant": "LunarTiger",
+  "displayGuess": "IHeartRRShirt (LunarTiger)",
+  "combinationAsset": "IHeartRRShirt_Shirt_LunarTiger_Combination.asset",
+  "combinationGuid": "lYsxZfxd0EadrnjliEj4Ug,xnZj7ipl60WO8e_BXK-mlw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

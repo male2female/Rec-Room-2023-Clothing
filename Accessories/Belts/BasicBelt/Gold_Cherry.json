@@ -1,0 +1,11 @@
+{
+  "family": "BasicBelt",
+  "slot": "Belt",
+  "variant": "Gold_Cherry",
+  "displayGuess": "BasicBelt (Gold_Cherry)",
+  "combinationAsset": "BasicBelt_Belt_Gold_Cherry_Combination.asset",
+  "combinationGuid": "LIgagNf4gk68EYQdlDruxg,rL9p5JY83Eyxj00Dieg7oA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

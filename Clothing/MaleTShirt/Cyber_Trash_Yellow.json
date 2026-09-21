@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Cyber_Trash_Yellow",
+  "displayGuess": "MaleTShirt (Cyber_Trash_Yellow)",
+  "combinationAsset": "MaleTShirt_Shirt_Cyber_Trash_Yellow_Combination.asset",
+  "combinationGuid": "Ib_iMwvUm0CJ-t_Thwt77Q,0440f08f-ef1d-49d8-942b-523056e8bb45,d42UBeUO4UO3Q2F8IpeRbQ",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "BackSword",
+  "slot": "Shoulder",
+  "variant": "Galaxy",
+  "displayGuess": "BackSword (Galaxy)",
+  "combinationAsset": "BackSword_Shoulder_Galaxy_Combination.asset",
+  "combinationGuid": "zld80uf3y0uu__Yejms-3Q",
+  "combinationGuidDashed": "d27c57ce-f7e7-4bcb-aeff-f61e8e6b3edd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

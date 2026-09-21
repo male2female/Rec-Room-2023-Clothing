@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "NewEnglandPatriots",
+  "displayGuess": "NFL (NewEnglandPatriots)",
+  "combinationAsset": "NFL_Hat_NewEnglandPatriots_Combination.asset",
+  "combinationGuid": "DVnSVZcj8kyLr1DXRu7kzg",
+  "combinationGuidDashed": "55d2590d-2397-4cf2-8baf-50d746eee4ce",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

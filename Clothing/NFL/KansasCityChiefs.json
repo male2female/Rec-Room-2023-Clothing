@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "KansasCityChiefs",
+  "displayGuess": "NFL (KansasCityChiefs)",
+  "combinationAsset": "NFL_Shirt_KansasCityChiefs_Combination.asset",
+  "combinationGuid": "kdExSysXREOAYqobK_Wzpw",
+  "combinationGuidDashed": "4b31d191-172b-4344-8062-aa1b2bf5b3a7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

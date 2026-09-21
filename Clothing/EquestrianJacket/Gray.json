@@ -1,0 +1,11 @@
+{
+  "family": "EquestrianJacket",
+  "slot": "Shirt",
+  "variant": "Gray",
+  "displayGuess": "EquestrianJacket (Gray)",
+  "combinationAsset": "EquestrianJacket_Shirt_Gray_Combination.asset",
+  "combinationGuid": "4828b50c-95b6-466a-bb25-514891d78202,d344b8cc-85a8-4ace-9f92-38c84f396e99,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

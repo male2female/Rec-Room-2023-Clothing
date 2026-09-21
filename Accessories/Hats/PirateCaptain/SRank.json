@@ -1,0 +1,11 @@
+{
+  "family": "PirateCaptain",
+  "slot": "Hat",
+  "variant": "SRank",
+  "displayGuess": "PirateCaptain (SRank)",
+  "combinationAsset": "PirateCaptain_Hat_SRank_Combination.asset",
+  "combinationGuid": "jQwNBXyoU0Gk4FyNw6jFxg,4cc0ea9f-65af-486f-8319-02b85ab5197f,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

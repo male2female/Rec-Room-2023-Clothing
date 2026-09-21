@@ -1,0 +1,11 @@
+{
+  "family": "EquestrianJacket",
+  "slot": "Shirt",
+  "variant": "Maroon",
+  "displayGuess": "EquestrianJacket (Maroon)",
+  "combinationAsset": "EquestrianJacket_Shirt_Maroon_Combination.asset",
+  "combinationGuid": "d6823e01-69f0-4f85-b94a-74894356a2cf,d344b8cc-85a8-4ace-9f92-38c84f396e99,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

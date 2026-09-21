@@ -1,0 +1,11 @@
+{
+  "family": "Sherlock",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "Sherlock (Gray)",
+  "combinationAsset": "Sherlock_Hat_Gray_Combination.asset",
+  "combinationGuid": "MQOxmUk-mUG-Ee9m9nX31Q,axPBGoqorEe77Oqqjfzb5w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

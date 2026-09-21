@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Knicks",
+  "displayGuess": "WorkoutTee (Knicks)",
+  "combinationAsset": "WorkoutTee_Shirt_Knicks_Combination.asset",
+  "combinationGuid": "a4r3MYNjT0Ok0uQX9BYH6w",
+  "combinationGuidDashed": "31f78a6b-6383-434f-a4d2-e417f41607eb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

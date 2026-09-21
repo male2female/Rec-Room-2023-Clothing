@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "Shamrock",
+  "displayGuess": "Blazer (Shamrock)",
+  "combinationAsset": "Blazer_Shirt_Shamrock_Combination.asset",
+  "combinationGuid": "7WrSbK4Ml0K2z-ig5HIUCw,9skD_xxLq0mpfP13f9n8hQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

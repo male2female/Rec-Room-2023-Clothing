@@ -1,0 +1,11 @@
+{
+  "family": "RacingSuit",
+  "slot": "Shirt",
+  "variant": "SpaceJumpsuit",
+  "displayGuess": "RacingSuit (SpaceJumpsuit)",
+  "combinationAsset": "RacingSuit_Shirt_SpaceJumpsuit_Combination.asset",
+  "combinationGuid": "jGNpSO25HkO7KbR3v05nkA",
+  "combinationGuidDashed": "4869638c-b9ed-431e-bb29-b477bf4e6790",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

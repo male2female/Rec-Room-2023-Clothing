@@ -1,0 +1,11 @@
+{
+  "family": "Skater",
+  "slot": "Shirt",
+  "variant": "Burgundy",
+  "displayGuess": "Skater (Burgundy)",
+  "combinationAsset": "Skater_Shirt_Burgundy_Combination.asset",
+  "combinationGuid": "y6NrbfS070WvASkKmPK-9Q",
+  "combinationGuidDashed": "6d6ba3cb-b4f4-45ef-af01-290a98f2bef5",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

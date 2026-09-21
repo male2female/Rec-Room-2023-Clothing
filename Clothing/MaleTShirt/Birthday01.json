@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Birthday01",
+  "displayGuess": "MaleTShirt (Birthday01)",
+  "combinationAsset": "MaleTShirt_Shirt_Birthday01_Combination.asset",
+  "combinationGuid": "922f229c-124f-4f07-b4e3-19138420ca19,2ee3944d-e9fb-4959-973e-570a7fc6cc57,ceb07e4f-50a9-4ed0-b50b-c59d92ba66b5",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

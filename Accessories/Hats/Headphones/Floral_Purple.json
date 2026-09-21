@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "Floral_Purple",
+  "displayGuess": "Headphones (Floral_Purple)",
+  "combinationAsset": "Headphones_Hat_Floral_Purple_Combination.asset",
+  "combinationGuid": "sXF1BZr8X06AYnWUrWxy1Q",
+  "combinationGuidDashed": "057571b1-fc9a-4e5f-8062-7594ad6c72d5",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

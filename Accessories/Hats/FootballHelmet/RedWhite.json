@@ -1,0 +1,11 @@
+{
+  "family": "FootballHelmet",
+  "slot": "Hat",
+  "variant": "RedWhite",
+  "displayGuess": "FootballHelmet (RedWhite)",
+  "combinationAsset": "FootballHelmet_Hat_RedWhite_Combination.asset",
+  "combinationGuid": "X24EvVokeUqyDNdqevV2EA,7660e11a-7ef0-43d3-bc02-76b3a4aab064,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

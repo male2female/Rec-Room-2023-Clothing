@@ -1,0 +1,11 @@
+{
+  "family": "SnowyOwlCape",
+  "slot": null,
+  "variant": "Midsummer",
+  "displayGuess": "SnowyOwlCape (Midsummer)",
+  "combinationAsset": "SnowyOwlCape_Midsummer_Combination.asset",
+  "combinationGuid": "F0o3eeWbCUaUAGRUdI0z7A",
+  "combinationGuidDashed": "79374a17-9be5-4609-9400-6454748d33ec",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

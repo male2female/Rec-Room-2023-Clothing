@@ -1,0 +1,11 @@
+{
+  "family": "WickedSorceressHeadpiece",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "WickedSorceressHeadpiece (Red)",
+  "combinationAsset": "WickedSorceressHeadpiece_Hat_Red_Combination.asset",
+  "combinationGuid": "Vn2gH3yjiE6bwBRgh5ntZQ",
+  "combinationGuidDashed": "1fa07d56-a37c-4e88-9bc0-14608799ed65",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

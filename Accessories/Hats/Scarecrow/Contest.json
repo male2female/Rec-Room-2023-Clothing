@@ -1,0 +1,11 @@
+{
+  "family": "Scarecrow",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "Scarecrow (Contest)",
+  "combinationAsset": "Scarecrow_Hat_Contest_Combination.asset",
+  "combinationGuid": "TZ3oQBp_3kWY4Vzscgv5Wg,xCpdHx1iM06Gg0tYoGv0DA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

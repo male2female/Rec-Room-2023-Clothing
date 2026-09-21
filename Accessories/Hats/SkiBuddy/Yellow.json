@@ -1,0 +1,11 @@
+{
+  "family": "SkiBuddy",
+  "slot": "Hat",
+  "variant": "Yellow",
+  "displayGuess": "SkiBuddy (Yellow)",
+  "combinationAsset": "SkiBuddy_Hat_Yellow_Combination.asset",
+  "combinationGuid": "ojrXnWkUkEOGM3_oT6V29w",
+  "combinationGuidDashed": "9dd73aa2-1469-4390-8633-7fe84fa576f7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

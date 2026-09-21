@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "PittsburghSteelers",
+  "displayGuess": "NFL (PittsburghSteelers)",
+  "combinationAsset": "NFL_Shirt_PittsburghSteelers_Combination.asset",
+  "combinationGuid": "VExSaZXZ9kan-0qjP6YPzQ",
+  "combinationGuidDashed": "69524c54-d995-46f6-a7fb-4aa33fa60fcd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

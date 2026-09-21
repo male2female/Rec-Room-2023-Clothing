@@ -1,0 +1,11 @@
+{
+  "family": "Chef",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "Chef (Red)",
+  "combinationAsset": "Chef_Hat_Red_Combination.asset",
+  "combinationGuid": "PR5dh2jf2kqGLO0lXgA69A,-lYK7LhYyEy6wqL1tIE9cg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

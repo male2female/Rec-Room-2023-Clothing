@@ -1,0 +1,11 @@
+{
+  "family": "Beekeeper",
+  "slot": "Wrist",
+  "variant": "Gold",
+  "displayGuess": "Beekeeper (Gold)",
+  "combinationAsset": "Beekeeper_Wrist_Gold_Combination.asset",
+  "combinationGuid": "1919d319-6cce-4500-8766-15fed6a13fa8,1f18670d-df52-4d2b-8009-a32cf7c67b40,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "BaltimoreRavens",
+  "displayGuess": "NFL (BaltimoreRavens)",
+  "combinationAsset": "NFL_Shirt_BaltimoreRavens_Combination.asset",
+  "combinationGuid": "KcsFLjkhCUmg8HbamtChbg",
+  "combinationGuidDashed": "2e05cb29-2139-4909-a0f0-76da9ad0a16e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "RetroGamer",
+  "slot": "Belt",
+  "variant": "Dark",
+  "displayGuess": "RetroGamer (Dark)",
+  "combinationAsset": "RetroGamer_Belt_Dark_Combination.asset",
+  "combinationGuid": "pue_FwobQEiaVubgc5eMUg",
+  "combinationGuidDashed": "17bfe7a6-1b0a-4840-9a56-e6e073978c52",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

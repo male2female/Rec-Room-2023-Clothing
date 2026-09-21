@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "PolkaDot",
+  "displayGuess": "WristBand (PolkaDot)",
+  "combinationAsset": "WristBand_Wrist_PolkaDot_Combination.asset",
+  "combinationGuid": "JV60jZGerUWuzQ2rRnwquQ,gSb8iLTEZ0mi3g5-jZXifQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

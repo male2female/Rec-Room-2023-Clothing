@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "CincinnatiBengals",
+  "displayGuess": "NFL (CincinnatiBengals)",
+  "combinationAsset": "NFL_Hat_CincinnatiBengals_Combination.asset",
+  "combinationGuid": "XPBWTcpQ9kaS0mabpdvYhw",
+  "combinationGuidDashed": "4d56f05c-50ca-46f6-92d2-669ba5dbd887",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

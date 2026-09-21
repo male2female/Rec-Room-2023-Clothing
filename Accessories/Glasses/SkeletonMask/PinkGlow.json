@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "PinkGlow",
+  "displayGuess": "SkeletonMask (PinkGlow)",
+  "combinationAsset": "SkeletonMask_Eye_PinkGlow_Combination.asset",
+  "combinationGuid": "DJnKyNXtuEW1tbKBFscIng,DfyODsHfIESXxVjcfZmBOA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

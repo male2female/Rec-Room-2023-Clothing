@@ -1,0 +1,11 @@
+{
+  "family": "50sDress",
+  "slot": "Shirt",
+  "variant": "CandyCane",
+  "displayGuess": "50sDress (CandyCane)",
+  "combinationAsset": "50sDress_Shirt_CandyCane_Combination.asset",
+  "combinationGuid": "PEGqjoxP6E2yRx_A-HphrQ,I_OF1c0YWESMwxJr9sXYOA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

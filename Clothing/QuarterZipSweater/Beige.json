@@ -1,0 +1,11 @@
+{
+  "family": "QuarterZipSweater",
+  "slot": "Shirt",
+  "variant": "Beige",
+  "displayGuess": "QuarterZipSweater (Beige)",
+  "combinationAsset": "QuarterZipSweater_Shirt_Beige_Combination.asset",
+  "combinationGuid": "wgIwYsXqiUekieE6pSt1Ng",
+  "combinationGuidDashed": "623002c2-eac5-4789-a489-e13aa52b7536",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

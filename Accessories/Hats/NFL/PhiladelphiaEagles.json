@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "PhiladelphiaEagles",
+  "displayGuess": "NFL (PhiladelphiaEagles)",
+  "combinationAsset": "NFL_Hat_PhiladelphiaEagles_Combination.asset",
+  "combinationGuid": "4viU0bMT1UuasZHD8euFKg",
+  "combinationGuidDashed": "d194f8e2-13b3-4bd5-9ab1-91c3f1eb852a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

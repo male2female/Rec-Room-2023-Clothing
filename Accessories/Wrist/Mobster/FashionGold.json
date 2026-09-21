@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Wrist",
+  "variant": "FashionGold",
+  "displayGuess": "Mobster (FashionGold)",
+  "combinationAsset": "Mobster_Wrist_FashionGold_Combination.asset",
+  "combinationGuid": "46970903-9799-4d25-b90a-7162c1f5dbef,05cff8b8-d437-485a-b4b8-41d35becd022,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

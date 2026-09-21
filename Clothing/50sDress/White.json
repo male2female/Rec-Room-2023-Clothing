@@ -1,0 +1,11 @@
+{
+  "family": "50sDress",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "50sDress (White)",
+  "combinationAsset": "50sDress_Shirt_White_Combination.asset",
+  "combinationGuid": "BLgkgLeS-EyazgPQxGcavg,Rk18_7icF0Srgh7M1_G-hA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

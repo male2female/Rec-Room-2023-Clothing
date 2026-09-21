@@ -1,0 +1,11 @@
+{
+  "family": "ElfShirt",
+  "slot": null,
+  "variant": "Black",
+  "displayGuess": "ElfShirt (Black)",
+  "combinationAsset": "ElfShirt_Black_Combination.asset",
+  "combinationGuid": "8k3q_1d_-kSBzNLCl1HQhw",
+  "combinationGuidDashed": "ffea4df2-7f57-44fa-81cc-d2c29751d087",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

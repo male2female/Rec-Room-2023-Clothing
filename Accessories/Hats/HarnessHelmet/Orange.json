@@ -1,0 +1,11 @@
+{
+  "family": "HarnessHelmet",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "HarnessHelmet (Orange)",
+  "combinationAsset": "HarnessHelmet_Hat_Orange_Combination.asset",
+  "combinationGuid": "Euf1h1qsZ02evDsyoHYbPQ,PZHohDVX0U2frX13N4KYDQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

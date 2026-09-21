@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonFingerlessGlove",
+  "slot": "Wrist",
+  "variant": "BlueGlow",
+  "displayGuess": "SkeletonFingerlessGlove (BlueGlow)",
+  "combinationAsset": "SkeletonFingerlessGlove_Wrist_BlueGlow_Combination.asset",
+  "combinationGuid": "ZY0rVNemjEuEMGMjuPNZyA,GXS9LQgPU0mJIEuXo_Oocw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

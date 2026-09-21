@@ -1,0 +1,11 @@
+{
+  "family": "Beekeeper",
+  "slot": "Hat",
+  "variant": "Gold",
+  "displayGuess": "Beekeeper (Gold)",
+  "combinationAsset": "Beekeeper_Hat_Gold_Combination.asset",
+  "combinationGuid": "1919d319-6cce-4500-8766-15fed6a13fa8,e4b53a9a-ac95-49ae-bf68-615bb23fa075,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

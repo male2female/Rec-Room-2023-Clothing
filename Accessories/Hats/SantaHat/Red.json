@@ -1,0 +1,11 @@
+{
+  "family": "SantaHat",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "SantaHat (Red)",
+  "combinationAsset": "SantaHat_Hat_Red_Combination.asset",
+  "combinationGuid": "veF50UiWeUS8ugHSm6g_3g,7KDavHUPDUKTJI0fFzJHpQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

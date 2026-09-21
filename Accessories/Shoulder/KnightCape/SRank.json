@@ -1,0 +1,11 @@
+{
+  "family": "KnightCape",
+  "slot": "Shoulder",
+  "variant": "SRank",
+  "displayGuess": "KnightCape (SRank)",
+  "combinationAsset": "KnightCape_Shoulder_SRank_Combination.asset",
+  "combinationGuid": "ITH2OpzjP022vZ5JgxV_iQ,15099be7-38b7-4b0b-ac13-1bacedbf5fb2,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

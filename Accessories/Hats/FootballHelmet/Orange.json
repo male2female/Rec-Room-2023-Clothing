@@ -1,0 +1,11 @@
+{
+  "family": "FootballHelmet",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "FootballHelmet (Orange)",
+  "combinationAsset": "FootballHelmet_Hat_Orange_Combination.asset",
+  "combinationGuid": "d8d490aa-7088-4163-9305-1441367f490c,7660e11a-7ef0-43d3-bc02-76b3a4aab064,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

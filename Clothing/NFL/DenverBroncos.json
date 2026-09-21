@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "DenverBroncos",
+  "displayGuess": "NFL (DenverBroncos)",
+  "combinationAsset": "NFL_Shirt_DenverBroncos_Combination.asset",
+  "combinationGuid": "5mFA4uHLmku8oCc1rDJmXw",
+  "combinationGuidDashed": "e24061e6-cbe1-4b9a-bca0-2735ac32665f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

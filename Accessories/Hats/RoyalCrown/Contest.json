@@ -1,0 +1,11 @@
+{
+  "family": "RoyalCrown",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "RoyalCrown (Contest)",
+  "combinationAsset": "RoyalCrown_Hat_Contest_Combination.asset",
+  "combinationGuid": "E1GfXDLUaUKaG9hTLAfFPA,hCeaYHy1TE2s6rTPxAQP9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

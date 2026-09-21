@@ -1,0 +1,11 @@
+{
+  "family": "BunnyEars",
+  "slot": "Hat",
+  "variant": "LunarRabbit",
+  "displayGuess": "BunnyEars (LunarRabbit)",
+  "combinationAsset": "BunnyEars_Hat_LunarRabbit_Combination.asset",
+  "combinationGuid": "NI8a4j9fl0egSrLbrMTn7Q",
+  "combinationGuidDashed": "e21a8f34-5f3f-4797-a04a-b2dbacc4e7ed",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

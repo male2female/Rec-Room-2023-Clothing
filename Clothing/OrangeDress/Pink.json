@@ -1,0 +1,11 @@
+{
+  "family": "OrangeDress",
+  "slot": "Shirt",
+  "variant": "Pink",
+  "displayGuess": "OrangeDress (Pink)",
+  "combinationAsset": "OrangeDress_Shirt_Pink_Combination.asset",
+  "combinationGuid": "6564acf1-4d70-4f92-92ac-08e2b76dbb6b,2c8924aa-68f8-4912-9759-18992f72f08a,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

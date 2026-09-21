@@ -1,0 +1,11 @@
+{
+  "family": "Jazzercise",
+  "slot": "Shirt",
+  "variant": "Ballerina",
+  "displayGuess": "Jazzercise (Ballerina)",
+  "combinationAsset": "Jazzercise_Shirt_Ballerina_Combination.asset",
+  "combinationGuid": "zwKRET9pP0O5uhPU_yHrlg",
+  "combinationGuidDashed": "119102cf-693f-433f-b9ba-13d4ff21eb96",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

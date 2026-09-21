@@ -1,0 +1,11 @@
+{
+  "family": "IHeartRRShirt",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "IHeartRRShirt (Orange)",
+  "combinationAsset": "IHeartRRShirt_Shirt_Orange_Combination.asset",
+  "combinationGuid": "i4Zu9uZuWkWwm8IVGZwkbA,RmjxL1O9bEGOuYxY9kzHEA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

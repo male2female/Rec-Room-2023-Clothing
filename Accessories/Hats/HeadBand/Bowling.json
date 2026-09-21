@@ -1,0 +1,11 @@
+{
+  "family": "HeadBand",
+  "slot": "Hat",
+  "variant": "Bowling",
+  "displayGuess": "HeadBand (Bowling)",
+  "combinationAsset": "HeadBand_Hat_Bowling_Combination.asset",
+  "combinationGuid": "TeSudgm-NEy3DXe3z_VRqg",
+  "combinationGuidDashed": "76aee44d-be09-4c34-b70d-77b7cff551aa",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

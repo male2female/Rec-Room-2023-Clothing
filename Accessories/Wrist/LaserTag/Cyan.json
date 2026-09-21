@@ -1,0 +1,11 @@
+{
+  "family": "LaserTag",
+  "slot": "Wrist",
+  "variant": "Cyan",
+  "displayGuess": "LaserTag (Cyan)",
+  "combinationAsset": "LaserTag_Wrist_Cyan_Combination.asset",
+  "combinationGuid": "426d0592-f8e4-4bc6-9fe1-a62b91fd57d5,3b825377-d2eb-41e4-a736-b107f88f62d6,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

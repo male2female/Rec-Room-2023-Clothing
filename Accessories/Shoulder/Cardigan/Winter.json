@@ -1,0 +1,11 @@
+{
+  "family": "Cardigan",
+  "slot": "Shoulder",
+  "variant": "Winter",
+  "displayGuess": "Cardigan (Winter)",
+  "combinationAsset": "Cardigan_Shoulder_Winter_Combination.asset",
+  "combinationGuid": "W1LdNEXmX0m72Wr7EjJ_gQ",
+  "combinationGuidDashed": "34dd525b-e645-495f-bbd9-6afb12327f81",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

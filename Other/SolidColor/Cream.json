@@ -1,0 +1,11 @@
+{
+  "family": "SolidColor",
+  "slot": null,
+  "variant": "Cream",
+  "displayGuess": "SolidColor (Cream)",
+  "combinationAsset": "SolidColor_Cream_Combination.asset",
+  "combinationGuid": "7d8e55fe-3c34-4b4b-9753-0021f6cc6454,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Thriller",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "Thriller (Blue)",
+  "combinationAsset": "Thriller_Shirt_Blue_Combination.asset",
+  "combinationGuid": "7-lAnMa7M0u0n0nmeIINgw,6GfSjqIb4ECCvIPC8vO8_A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

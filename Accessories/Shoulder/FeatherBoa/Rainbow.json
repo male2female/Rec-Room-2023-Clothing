@@ -1,0 +1,11 @@
+{
+  "family": "FeatherBoa",
+  "slot": "Shoulder",
+  "variant": "Rainbow",
+  "displayGuess": "FeatherBoa (Rainbow)",
+  "combinationAsset": "FeatherBoa_Shoulder_Rainbow_Combination.asset",
+  "combinationGuid": "an_Z5HMFjkaHyHoZZV4AFA",
+  "combinationGuidDashed": "e4d97f6a-0573-468e-87c8-7a19655e0014",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "HeadBackBow",
+  "slot": "Hat",
+  "variant": "Hearts",
+  "displayGuess": "HeadBackBow (Hearts)",
+  "combinationAsset": "HeadBackBow_Hat_Hearts_Combination.asset",
+  "combinationGuid": "D-SngK7hhkOpoZ2aMWv9EA,mkDVc0Mz4kmuLZ7powBHpQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

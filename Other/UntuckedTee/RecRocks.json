@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "RecRocks",
+  "displayGuess": "UntuckedTee (RecRocks)",
+  "combinationAsset": "UntuckedTee_RecRocks_Combination.asset",
+  "combinationGuid": "hZvsroTOnU6ew9HBWaqxHg",
+  "combinationGuidDashed": "aeec9b85-ce84-4e9d-9ec3-d1c159aab11e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

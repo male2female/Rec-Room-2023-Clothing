@@ -1,0 +1,11 @@
+{
+  "family": "RacingGloves",
+  "slot": "Wrist",
+  "variant": "ClassicRed",
+  "displayGuess": "RacingGloves (ClassicRed)",
+  "combinationAsset": "RacingGloves_Wrist_ClassicRed_Combination.asset",
+  "combinationGuid": "oFjt2tSsa0CJ7j0s3P6b4Q,XD9dH8LF_ECmL0TwXJW1zg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Thriller",
+  "slot": "Wrist",
+  "variant": "Orange",
+  "displayGuess": "Thriller (Orange)",
+  "combinationAsset": "Thriller_Wrist_Orange_Combination.asset",
+  "combinationGuid": "B1IotYmwbkiUAfdZiqzq8w",
+  "combinationGuidDashed": "b5285207-b089-486e-9401-f7598aaceaf3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

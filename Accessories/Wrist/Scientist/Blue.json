@@ -1,0 +1,11 @@
+{
+  "family": "Scientist",
+  "slot": "Wrist",
+  "variant": "Blue",
+  "displayGuess": "Scientist (Blue)",
+  "combinationAsset": "Scientist_Wrist_Blue_Combination.asset",
+  "combinationGuid": "KTidYfH0ckWxJGs5qzUBTQ,VSZX99mSt0e7gPRM2_XzMw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

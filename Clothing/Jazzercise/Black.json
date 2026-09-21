@@ -1,0 +1,11 @@
+{
+  "family": "Jazzercise",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "Jazzercise (Black)",
+  "combinationAsset": "Jazzercise_Shirt_Black_Combination.asset",
+  "combinationGuid": "3b2cfc85-4e2a-4e0d-b738-c296ae8692f8,f6f26e2b-657b-454a-8663-55d6b9b6e50c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

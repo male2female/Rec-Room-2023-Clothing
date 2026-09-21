@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Cavaliers",
+  "displayGuess": "WorkoutTee (Cavaliers)",
+  "combinationAsset": "WorkoutTee_Shirt_Cavaliers_Combination.asset",
+  "combinationGuid": "ibmxOUIFs06gOpRYLe58xg",
+  "combinationGuidDashed": "39b1b989-0542-4eb3-a03a-94582dee7cc6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

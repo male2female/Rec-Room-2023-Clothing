@@ -1,0 +1,11 @@
+{
+  "family": "PocketTee",
+  "slot": "Shirt",
+  "variant": "Scrubs_Green",
+  "displayGuess": "PocketTee (Scrubs_Green)",
+  "combinationAsset": "PocketTee_Shirt_Scrubs_Green_Combination.asset",
+  "combinationGuid": "PkMkvHzXek-yKyqJESZ3tw,nbgwLqKBnUyvieWX0i47dg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

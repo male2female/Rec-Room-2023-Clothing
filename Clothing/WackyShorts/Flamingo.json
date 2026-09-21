@@ -1,0 +1,11 @@
+{
+  "family": "WackyShorts",
+  "slot": "Shirt",
+  "variant": "Flamingo",
+  "displayGuess": "WackyShorts (Flamingo)",
+  "combinationAsset": "WackyShorts_Shirt_Flamingo_Combination.asset",
+  "combinationGuid": "9P8ARRUYdk6hCoGMKhix4w,o__JORNtYEiJEyyoBIimPA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "AcousticGuitar",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "AcousticGuitar (Black)",
+  "combinationAsset": "AcousticGuitar_Shoulder_Black_Combination.asset",
+  "combinationGuid": "BPp9SkUpsE2PZlStZrIDIg",
+  "combinationGuidDashed": "4a7dfa04-2945-4db0-8f66-54ad66b20322",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

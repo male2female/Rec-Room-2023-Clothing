@@ -1,0 +1,11 @@
+{
+  "family": "SmallBrim",
+  "slot": "Hat",
+  "variant": "Droid",
+  "displayGuess": "SmallBrim (Droid)",
+  "combinationAsset": "SmallBrim_Hat_Droid_Combination.asset",
+  "combinationGuid": "08r7prRREUi-Hvp1Xze-wQ",
+  "combinationGuidDashed": "a6fbcad3-51b4-4811-be1e-fa755f37bec1",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

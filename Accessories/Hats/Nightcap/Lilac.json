@@ -1,0 +1,11 @@
+{
+  "family": "Nightcap",
+  "slot": "Hat",
+  "variant": "Lilac",
+  "displayGuess": "Nightcap (Lilac)",
+  "combinationAsset": "Nightcap_Hat_Lilac_Combination.asset",
+  "combinationGuid": "kIcd-yEnsEqxoeogquvmRw,RR69IGV4j0Sd2xtmyN5wFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

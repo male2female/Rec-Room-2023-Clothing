@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Clippers",
+  "displayGuess": "WorkoutTee (Clippers)",
+  "combinationAsset": "WorkoutTee_Shirt_Clippers_Combination.asset",
+  "combinationGuid": "2MUexARJAU-Vc-Qebqqepg",
+  "combinationGuidDashed": "c41ec5d8-4904-4f01-9573-e41e6eaa9ea6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Steampunk",
+  "slot": "Hat",
+  "variant": "BlackandSilver",
+  "displayGuess": "Steampunk (BlackandSilver)",
+  "combinationAsset": "Steampunk_Hat_BlackandSilver_Combination.asset",
+  "combinationGuid": "Jy2TN1KBTEeoVehy_x32Ng,fXnd_COSzUeznwe7P4ZYRg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

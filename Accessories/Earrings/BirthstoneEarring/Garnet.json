@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Garnet",
+  "displayGuess": "BirthstoneEarring (Garnet)",
+  "combinationAsset": "BirthstoneEarring_Ear_Garnet_Combination.asset",
+  "combinationGuid": "FgLAEMh1e0GyHO8J8_xj5Q,iM-04HpG6k2N8n-P3XS22w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "AnimalSweater",
+  "slot": "Shirt",
+  "variant": "Penguin",
+  "displayGuess": "AnimalSweater (Penguin)",
+  "combinationAsset": "AnimalSweater_Shirt_Penguin_Combination.asset",
+  "combinationGuid": "6dzz5ZcGtE6bEjQHxWmo0A,2cSC290cPkCOrW5vtlVUxw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

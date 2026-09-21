@@ -1,0 +1,11 @@
+{
+  "family": "ArcherGlove",
+  "slot": "Wrist",
+  "variant": "SRank",
+  "displayGuess": "ArcherGlove (SRank)",
+  "combinationAsset": "ArcherGlove_Wrist_SRank_Combination.asset",
+  "combinationGuid": "1VGZ1QCvcU6rsKVkUDBNjQ,7b187c06-7ba2-4f3c-bca9-fdf98146f385,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

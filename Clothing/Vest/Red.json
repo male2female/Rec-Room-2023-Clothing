@@ -1,0 +1,11 @@
+{
+  "family": "Vest",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "Vest (Red)",
+  "combinationAsset": "Vest_Shirt_Red_Combination.asset",
+  "combinationGuid": "ffHKr5EcIU24PbAtWSnalw,bVrkIyADCUiGNYWdmP_HPw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

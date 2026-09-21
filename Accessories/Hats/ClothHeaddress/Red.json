@@ -1,0 +1,11 @@
+{
+  "family": "ClothHeaddress",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "ClothHeaddress (Red)",
+  "combinationAsset": "ClothHeaddress_Hat_Red_Combination.asset",
+  "combinationGuid": "1WBsT99QM0anps6ZoWE59Q",
+  "combinationGuidDashed": "4f6c60d5-50df-4633-a7a6-ce99a16139f5",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

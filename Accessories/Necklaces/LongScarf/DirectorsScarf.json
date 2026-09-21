@@ -1,0 +1,11 @@
+{
+  "family": "LongScarf",
+  "slot": "Neck",
+  "variant": "DirectorsScarf",
+  "displayGuess": "LongScarf (DirectorsScarf)",
+  "combinationAsset": "LongScarf_Neck_DirectorsScarf_Combination.asset",
+  "combinationGuid": "WWVPdeMMi0S4_Dmn85yEqQ,FRUp0aYZTUmAXsybauOs7g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

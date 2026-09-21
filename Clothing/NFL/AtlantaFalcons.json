@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "AtlantaFalcons",
+  "displayGuess": "NFL (AtlantaFalcons)",
+  "combinationAsset": "NFL_Shirt_AtlantaFalcons_Combination.asset",
+  "combinationGuid": "G9cFrBRvw0S-nDp-Fn494g",
+  "combinationGuidDashed": "ac05d71b-6f14-44c3-be9c-3a7e167e3de2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

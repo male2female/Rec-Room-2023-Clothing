@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "BirdHead_Dino",
+  "displayGuess": "PoolFloatie (BirdHead_Dino)",
+  "combinationAsset": "PoolFloatie_Belt_BirdHead_Dino_Combination.asset",
+  "combinationGuid": "k3dbqP5z30KU37MVPpsEPQ,GtoHkTpyA0iGIHsxphwivg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

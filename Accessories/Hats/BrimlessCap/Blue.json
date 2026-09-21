@@ -1,0 +1,11 @@
+{
+  "family": "BrimlessCap",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "BrimlessCap (Blue)",
+  "combinationAsset": "BrimlessCap_Hat_Blue_Combination.asset",
+  "combinationGuid": "hgLq0WyUAUSl2sboUrpTKQ",
+  "combinationGuidDashed": "d1ea0286-946c-4401-a5da-c6e852ba5329",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

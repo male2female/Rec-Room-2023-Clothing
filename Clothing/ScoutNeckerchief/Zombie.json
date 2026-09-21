@@ -1,0 +1,11 @@
+{
+  "family": "ScoutNeckerchief",
+  "slot": "Shirt",
+  "variant": "Zombie",
+  "displayGuess": "ScoutNeckerchief (Zombie)",
+  "combinationAsset": "ScoutNeckerchief_Shirt_Zombie_Combination.asset",
+  "combinationGuid": "OX1ituawfUqYC-caC1WcCg",
+  "combinationGuidDashed": "b6627d39-b0e6-4a7d-980b-e71a0b559c0a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

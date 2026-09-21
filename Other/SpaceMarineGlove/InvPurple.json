@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineGlove",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "SpaceMarineGlove (InvPurple)",
+  "combinationAsset": "SpaceMarineGlove_InvPurple_Combination.asset",
+  "combinationGuid": "uWe5nxA4qkaicmXm3tMw9g",
+  "combinationGuidDashed": "9fb967b9-3810-46aa-a272-65e6ded330f6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

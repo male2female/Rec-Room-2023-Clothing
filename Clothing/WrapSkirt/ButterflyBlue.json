@@ -1,0 +1,11 @@
+{
+  "family": "WrapSkirt",
+  "slot": "Shirt",
+  "variant": "ButterflyBlue",
+  "displayGuess": "WrapSkirt (ButterflyBlue)",
+  "combinationAsset": "WrapSkirt_Shirt_ButterflyBlue_Combination.asset",
+  "combinationGuid": "q9Nganq9nUaV3zuvx9s3nQ",
+  "combinationGuidDashed": "6a60d3ab-bd7a-469d-95df-3bafc7db379d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

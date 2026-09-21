@@ -1,0 +1,11 @@
+{
+  "family": "ScoutSash",
+  "slot": "Shoulder",
+  "variant": "Blue",
+  "displayGuess": "ScoutSash (Blue)",
+  "combinationAsset": "ScoutSash_Shoulder_Blue_Combination.asset",
+  "combinationGuid": "67490e3b-0f9d-4bf8-84fb-54957b981c8c,66cc536d-8cb5-4262-b7f0-49a33b97ea10,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Ruby",
+  "displayGuess": "VampireHunter (Ruby)",
+  "combinationAsset": "VampireHunter_Neck_Ruby_Combination.asset",
+  "combinationGuid": "0S7Nqm2kv0qMDTh-5Wy0MQ,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

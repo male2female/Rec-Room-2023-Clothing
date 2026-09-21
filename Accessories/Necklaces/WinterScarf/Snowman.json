@@ -1,0 +1,11 @@
+{
+  "family": "WinterScarf",
+  "slot": "Neck",
+  "variant": "Snowman",
+  "displayGuess": "WinterScarf (Snowman)",
+  "combinationAsset": "WinterScarf_Neck_Snowman_Combination.asset",
+  "combinationGuid": "09Cg6dOq2kC2-tI5yyGSYg,eUktNKKK3kqUR8-gA3rNxA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

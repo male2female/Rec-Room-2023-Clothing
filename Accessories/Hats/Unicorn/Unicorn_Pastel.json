@@ -1,0 +1,11 @@
+{
+  "family": "Unicorn",
+  "slot": "Hat",
+  "variant": "Unicorn_Pastel",
+  "displayGuess": "Unicorn (Unicorn_Pastel)",
+  "combinationAsset": "Unicorn_Hat_Unicorn_Pastel_Combination.asset",
+  "combinationGuid": "FNe9LkWJMUeC3frYJMyEaQ,nW_fBsuZA0OfIjTMXm6ZCA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

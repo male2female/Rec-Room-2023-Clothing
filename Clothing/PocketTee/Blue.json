@@ -1,0 +1,11 @@
+{
+  "family": "PocketTee",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "PocketTee (Blue)",
+  "combinationAsset": "PocketTee_Shirt_Blue_Combination.asset",
+  "combinationGuid": "N0fBxjrCekO-HUqmc3MufQ,_o3mI1mjE02vekPVyJg8Aw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

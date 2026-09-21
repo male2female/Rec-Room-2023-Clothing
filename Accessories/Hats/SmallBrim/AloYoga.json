@@ -1,0 +1,11 @@
+{
+  "family": "SmallBrim",
+  "slot": "Hat",
+  "variant": "AloYoga",
+  "displayGuess": "SmallBrim (AloYoga)",
+  "combinationAsset": "SmallBrim_Hat_AloYoga_Combination.asset",
+  "combinationGuid": "7qVilU94X0Kldpvku2mcng",
+  "combinationGuidDashed": "9562a5ee-784f-425f-a576-9be4bb699c9e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

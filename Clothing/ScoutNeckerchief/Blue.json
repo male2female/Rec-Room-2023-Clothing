@@ -1,0 +1,11 @@
+{
+  "family": "ScoutNeckerchief",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "ScoutNeckerchief (Blue)",
+  "combinationAsset": "ScoutNeckerchief_Shirt_Blue_Combination.asset",
+  "combinationGuid": "0d2830e7-8eb0-4fa3-99bc-7c80f01dd991,5814a331-6155-4df4-b921-3ffc6059e44c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

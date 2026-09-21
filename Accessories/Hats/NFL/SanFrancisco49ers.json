@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "SanFrancisco49ers",
+  "displayGuess": "NFL (SanFrancisco49ers)",
+  "combinationAsset": "NFL_Hat_SanFrancisco49ers_Combination.asset",
+  "combinationGuid": "q-Gjg0zzI0mTHxjn8wi5HQ",
+  "combinationGuidDashed": "83a3e1ab-f34c-4923-931f-18e7f308b91d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

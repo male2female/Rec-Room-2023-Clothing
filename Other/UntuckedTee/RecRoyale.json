@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "RecRoyale",
+  "displayGuess": "UntuckedTee (RecRoyale)",
+  "combinationAsset": "UntuckedTee_RecRoyale_Combination.asset",
+  "combinationGuid": "SV2UmeQDjEaMK_A2Q4tt3w",
+  "combinationGuidDashed": "99945d49-03e4-468c-8c2b-f036438b6ddf",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

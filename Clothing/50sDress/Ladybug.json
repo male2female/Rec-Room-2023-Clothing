@@ -1,0 +1,11 @@
+{
+  "family": "50sDress",
+  "slot": "Shirt",
+  "variant": "Ladybug",
+  "displayGuess": "50sDress (Ladybug)",
+  "combinationAsset": "50sDress_Shirt_Ladybug_Combination.asset",
+  "combinationGuid": "NpvUosaJTECohTIAR38egg",
+  "combinationGuidDashed": "a2d49b36-89c6-404c-a885-3200477f1e82",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

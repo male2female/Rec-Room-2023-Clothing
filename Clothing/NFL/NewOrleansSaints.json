@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "NewOrleansSaints",
+  "displayGuess": "NFL (NewOrleansSaints)",
+  "combinationAsset": "NFL_Shirt_NewOrleansSaints_Combination.asset",
+  "combinationGuid": "Fr--3nBIUUuD6EYmj1iklA",
+  "combinationGuidDashed": "debebf16-4870-4b51-83e8-46268f58a494",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

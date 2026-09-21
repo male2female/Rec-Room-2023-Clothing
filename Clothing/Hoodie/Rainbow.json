@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Rainbow",
+  "displayGuess": "Hoodie (Rainbow)",
+  "combinationAsset": "Hoodie_Shirt_Rainbow_Combination.asset",
+  "combinationGuid": "sxUE0iOSZEmezm54T7xI3Q,tlpa7195x0CkmSjpR1RArQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

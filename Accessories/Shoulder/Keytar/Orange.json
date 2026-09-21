@@ -1,0 +1,11 @@
+{
+  "family": "Keytar",
+  "slot": "Shoulder",
+  "variant": "Orange",
+  "displayGuess": "Keytar (Orange)",
+  "combinationAsset": "Keytar_Shoulder_Orange_Combination.asset",
+  "combinationGuid": "njOH4bbntk6THrxbd9TDDA",
+  "combinationGuidDashed": "e187339e-e7b6-4eb6-931e-bc5b77d4c30c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

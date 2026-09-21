@@ -1,0 +1,11 @@
+{
+  "family": "Luchador",
+  "slot": "Shirt",
+  "variant": "Tiger",
+  "displayGuess": "Luchador (Tiger)",
+  "combinationAsset": "Luchador_Shirt_Tiger_Combination.asset",
+  "combinationGuid": "TLrw3oncCE2MeuVifXSWTg,-_ViYCHHRUip7oN_AnH0Og,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

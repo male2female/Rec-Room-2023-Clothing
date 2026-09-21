@@ -1,0 +1,11 @@
+{
+  "family": "HockeyShirt",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "HockeyShirt (Purple)",
+  "combinationAsset": "HockeyShirt_Shirt_Purple_Combination.asset",
+  "combinationGuid": "d5efaf80-7f34-4c9a-bc3a-b80b1ac70ace,e5635772-4e84-4b30-b77f-4a1196cb599b,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

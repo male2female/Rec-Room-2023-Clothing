@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Opal",
+  "displayGuess": "VampireHunter (Opal)",
+  "combinationAsset": "VampireHunter_Neck_Opal_Combination.asset",
+  "combinationGuid": "okpg4ftsak-wc8Zu83uytw,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "PureRed",
+  "displayGuess": "WristBand (PureRed)",
+  "combinationAsset": "WristBand_Wrist_PureRed_Combination.asset",
+  "combinationGuid": "Ai85jH88H06ze74VdWolfw,0b2395e1-ebcc-47e9-aaf1-faf9e9cec4cd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

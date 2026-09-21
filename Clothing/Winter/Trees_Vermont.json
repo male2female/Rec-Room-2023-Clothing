@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Shirt",
+  "variant": "Trees_Vermont",
+  "displayGuess": "Winter (Trees_Vermont)",
+  "combinationAsset": "Winter_Shirt_Trees_Vermont_Combination.asset",
+  "combinationGuid": "fq0xC9BjLECbsQIZfAvK9A,Yn1uv3Y8JE6VSxsf0LOBvw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "WackyShorts",
+  "slot": "Shirt",
+  "variant": "TieDie",
+  "displayGuess": "WackyShorts (TieDie)",
+  "combinationAsset": "WackyShorts_Shirt_TieDie_Combination.asset",
+  "combinationGuid": "Pg2cVQonrkmbXZdsNcn-KA",
+  "combinationGuidDashed": "559c0d3e-270a-49ae-9b5d-976c35c9fe28",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

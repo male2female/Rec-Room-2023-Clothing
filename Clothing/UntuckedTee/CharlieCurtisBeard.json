@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "CharlieCurtisBeard",
+  "displayGuess": "UntuckedTee (CharlieCurtisBeard)",
+  "combinationAsset": "UntuckedTee_Shirt_CharlieCurtisBeard_Combination.asset",
+  "combinationGuid": "fzQzxcpDNEW8Rx122zmjAw",
+  "combinationGuidDashed": "c533347f-43ca-4534-bc47-1d76db39a303",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

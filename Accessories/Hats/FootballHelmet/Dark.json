@@ -1,0 +1,11 @@
+{
+  "family": "FootballHelmet",
+  "slot": "Hat",
+  "variant": "Dark",
+  "displayGuess": "FootballHelmet (Dark)",
+  "combinationAsset": "FootballHelmet_Hat_Dark_Combination.asset",
+  "combinationGuid": "61ff7a02-50ff-49ea-b95e-c31b95a30c8e,7660e11a-7ef0-43d3-bc02-76b3a4aab064,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Gradient_Charcoal",
+  "displayGuess": "Glasses (Gradient_Charcoal)",
+  "combinationAsset": "Glasses_Eye_Gradient_Charcoal_Combination.asset",
+  "combinationGuid": "-OgDdlvL9EyzeiA50YY5kw",
+  "combinationGuidDashed": "7603e8f8-cb5b-4cf4-b37a-2039d1863993",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

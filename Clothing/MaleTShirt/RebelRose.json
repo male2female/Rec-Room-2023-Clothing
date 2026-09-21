@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "RebelRose",
+  "displayGuess": "MaleTShirt (RebelRose)",
+  "combinationAsset": "MaleTShirt_Shirt_RebelRose_Combination.asset",
+  "combinationGuid": "rnM1qDlYBU6_Dl1bjg0J1Q,0440f08f-ef1d-49d8-942b-523056e8bb45,OZb8bb5FNUuFYOkwANvxAA",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

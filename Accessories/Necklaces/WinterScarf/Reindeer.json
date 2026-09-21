@@ -1,0 +1,11 @@
+{
+  "family": "WinterScarf",
+  "slot": "Neck",
+  "variant": "Reindeer",
+  "displayGuess": "WinterScarf (Reindeer)",
+  "combinationAsset": "WinterScarf_Neck_Reindeer_Combination.asset",
+  "combinationGuid": "NJcJw51-xkq0phT-nlJw2A",
+  "combinationGuidDashed": "c3099734-7e9d-4ac6-b4a6-14fe9e5270d8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

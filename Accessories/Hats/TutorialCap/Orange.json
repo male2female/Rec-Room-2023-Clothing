@@ -1,0 +1,11 @@
+{
+  "family": "TutorialCap",
+  "slot": "Hat",
+  "variant": "Orange",
+  "displayGuess": "TutorialCap (Orange)",
+  "combinationAsset": "TutorialCap_Hat_Orange_Combination.asset",
+  "combinationGuid": "L333w3dfIEWDbtt1Yn1gBg,GV8z2dlqGEqIAYaGrF1ZYQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

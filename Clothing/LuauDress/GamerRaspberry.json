@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "GamerRaspberry",
+  "displayGuess": "LuauDress (GamerRaspberry)",
+  "combinationAsset": "LuauDress_Shirt_GamerRaspberry_Combination.asset",
+  "combinationGuid": "wLpOk1g2rUyDeCKb5uOeSg",
+  "combinationGuidDashed": "934ebac0-3658-4cad-8378-229be6e39e4a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

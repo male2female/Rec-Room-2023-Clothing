@@ -1,0 +1,11 @@
+{
+  "family": "FeltedShawl",
+  "slot": "Shoulder",
+  "variant": "Pineapple",
+  "displayGuess": "FeltedShawl (Pineapple)",
+  "combinationAsset": "FeltedShawl_Shoulder_Pineapple_Combination.asset",
+  "combinationGuid": "GCethPzUyUKYxWdfLykbSg",
+  "combinationGuidDashed": "84ad2718-d4fc-42c9-98c5-675f2f291b4a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

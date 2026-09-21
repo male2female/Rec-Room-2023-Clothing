@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "LasVegasRaiders",
+  "displayGuess": "NFL (LasVegasRaiders)",
+  "combinationAsset": "NFL_Hat_LasVegasRaiders_Combination.asset",
+  "combinationGuid": "27Fg--SzD0ertvGEv1Jgsw",
+  "combinationGuidDashed": "fb60b1db-b3e4-470f-abb6-f184bf5260b3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

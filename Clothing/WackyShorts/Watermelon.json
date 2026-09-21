@@ -1,0 +1,11 @@
+{
+  "family": "WackyShorts",
+  "slot": "Shirt",
+  "variant": "Watermelon",
+  "displayGuess": "WackyShorts (Watermelon)",
+  "combinationAsset": "WackyShorts_Shirt_Watermelon_Combination.asset",
+  "combinationGuid": "nu_UGtkJOUK-5MWaW83MUg,pgBFpOtl00K2zsTJcfrefQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

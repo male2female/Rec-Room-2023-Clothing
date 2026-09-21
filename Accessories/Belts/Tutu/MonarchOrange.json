@@ -1,0 +1,11 @@
+{
+  "family": "Tutu",
+  "slot": "Belt",
+  "variant": "MonarchOrange",
+  "displayGuess": "Tutu (MonarchOrange)",
+  "combinationAsset": "Tutu_Belt_MonarchOrange_Combination.asset",
+  "combinationGuid": "UjSxxUK7z0GGdjvI_NsJ3Q",
+  "combinationGuidDashed": "c5b13452-bb42-41cf-8676-3bc8fcdb09dd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

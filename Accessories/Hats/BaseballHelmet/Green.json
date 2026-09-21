@@ -1,0 +1,11 @@
+{
+  "family": "BaseballHelmet",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "BaseballHelmet (Green)",
+  "combinationAsset": "BaseballHelmet_Hat_Green_Combination.asset",
+  "combinationGuid": "9967ce54-c2b7-437a-946e-11f8ee6d6fdd,FVdDQFOMQ06teQm2ANDPng,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

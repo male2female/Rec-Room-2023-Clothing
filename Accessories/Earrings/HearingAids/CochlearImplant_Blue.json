@@ -1,0 +1,11 @@
+{
+  "family": "HearingAids",
+  "slot": "Ear",
+  "variant": "CochlearImplant_Blue",
+  "displayGuess": "HearingAids (CochlearImplant_Blue)",
+  "combinationAsset": "HearingAids_Ear_CochlearImplant_Blue_Combination.asset",
+  "combinationGuid": "8WJI7RAuaEy4KvQiQhoKBw",
+  "combinationGuidDashed": "ed4862f1-2e10-4c68-b82a-f422421a0a07",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

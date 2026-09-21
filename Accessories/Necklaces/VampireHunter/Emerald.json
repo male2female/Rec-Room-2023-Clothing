@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Emerald",
+  "displayGuess": "VampireHunter (Emerald)",
+  "combinationAsset": "VampireHunter_Neck_Emerald_Combination.asset",
+  "combinationGuid": "OfenZaa1-UGdQ8YVOrXjzw,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

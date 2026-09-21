@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarine",
+  "slot": "Shirt",
+  "variant": "Invasion",
+  "displayGuess": "SpaceMarine (Invasion)",
+  "combinationAsset": "SpaceMarine_Shirt_Invasion_Combination.asset",
+  "combinationGuid": "1pJN1AfxgUmUN_bTaH3rng",
+  "combinationGuidDashed": "d44d92d6-f107-4981-9437-f6d3687deb9e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

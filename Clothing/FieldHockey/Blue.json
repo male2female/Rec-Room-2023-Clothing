@@ -1,0 +1,11 @@
+{
+  "family": "FieldHockey",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "FieldHockey (Blue)",
+  "combinationAsset": "FieldHockey_Shirt_Blue_Combination.asset",
+  "combinationGuid": "7b0d6661-e856-4ec1-ab90-d89c28a70826,1fede91a-434e-49a5-882e-e6db107112a8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

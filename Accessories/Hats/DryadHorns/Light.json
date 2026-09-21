@@ -1,0 +1,11 @@
+{
+  "family": "DryadHorns",
+  "slot": "Hat",
+  "variant": "Light",
+  "displayGuess": "DryadHorns (Light)",
+  "combinationAsset": "DryadHorns_Hat_Light_Combination.asset",
+  "combinationGuid": "rXhNZtcZCU21dwEHOCgWOA,tmaPvkx3BUOZ3nsl2E0oRw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

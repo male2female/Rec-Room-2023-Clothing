@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Wrist",
+  "variant": "PinStripePurple",
+  "displayGuess": "Mobster (PinStripePurple)",
+  "combinationAsset": "Mobster_Wrist_PinStripePurple_Combination.asset",
+  "combinationGuid": "newGzX_zA0eGUX3Iayq5Ag,QBzMp7MdAUOLIofvddui1A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Genderfluid",
+  "displayGuess": "Hoodie (Genderfluid)",
+  "combinationAsset": "Hoodie_Shirt_Genderfluid_Combination.asset",
+  "combinationGuid": "Xt3Ndm8mC0qsLClPIbgwUw",
+  "combinationGuidDashed": "76cddd5e-266f-4a0b-ac2c-294f21b83053",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

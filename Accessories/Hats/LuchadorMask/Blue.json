@@ -1,0 +1,11 @@
+{
+  "family": "LuchadorMask",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "LuchadorMask (Blue)",
+  "combinationAsset": "LuchadorMask_Hat_Blue_Combination.asset",
+  "combinationGuid": "0217fd2e-ff9d-49f7-9bc8-8d0d6b8bf250,96b36c98-cba1-4337-91dd-c74c00316f97,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "HeadBand",
+  "slot": "Hat",
+  "variant": "Royal",
+  "displayGuess": "HeadBand (Royal)",
+  "combinationAsset": "HeadBand_Hat_Royal_Combination.asset",
+  "combinationGuid": "6dd95046-acf8-42fe-ab78-80a334096a9d,56a92c8d-af53-413e-929e-4a9a3cfad780,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

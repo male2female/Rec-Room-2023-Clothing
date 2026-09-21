@@ -1,0 +1,11 @@
+{
+  "family": "IHeartRRShirt",
+  "slot": "Shirt",
+  "variant": "EthanBortnick",
+  "displayGuess": "IHeartRRShirt (EthanBortnick)",
+  "combinationAsset": "IHeartRRShirt_Shirt_EthanBortnick_Combination.asset",
+  "combinationGuid": "ymRNNF0h3UOv-yH0ILxhiA",
+  "combinationGuidDashed": "344d64ca-215d-43dd-affb-21f420bc6188",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

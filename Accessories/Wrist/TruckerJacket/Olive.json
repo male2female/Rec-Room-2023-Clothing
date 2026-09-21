@@ -1,0 +1,11 @@
+{
+  "family": "TruckerJacket",
+  "slot": "Wrist",
+  "variant": "Olive",
+  "displayGuess": "TruckerJacket (Olive)",
+  "combinationAsset": "TruckerJacket_Wrist_Olive_Combination.asset",
+  "combinationGuid": "bgRKH1wfqkWVHcuSnFYnlQ,sHyNs-dpc0-_Ah-HJVczcw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

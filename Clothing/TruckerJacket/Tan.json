@@ -1,0 +1,11 @@
+{
+  "family": "TruckerJacket",
+  "slot": "Shirt",
+  "variant": "Tan",
+  "displayGuess": "TruckerJacket (Tan)",
+  "combinationAsset": "TruckerJacket_Shirt_Tan_Combination.asset",
+  "combinationGuid": "o2WfRyjJy0CKoUg8YIxNjQ,sxWOOK1RwUOp5YqZ7a36xg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

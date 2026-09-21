@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "KO_Skull",
+  "displayGuess": "MaleTShirt (KO_Skull)",
+  "combinationAsset": "MaleTShirt_Shirt_KO_Skull_Combination.asset",
+  "combinationGuid": "381a9f13-5b44-48e6-8a49-221422a963f5,0440f08f-ef1d-49d8-942b-523056e8bb45,9e782751-71c6-4208-87da-3a3cffa6a4f0",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "VideoContest_PurpleSilver",
+  "displayGuess": "MaleTShirt (VideoContest_PurpleSilver)",
+  "combinationAsset": "MaleTShirt_Shirt_VideoContest_PurpleSilver_Combination.asset",
+  "combinationGuid": "owoIOIEM70e6WxnYdlKYWQ,0440f08f-ef1d-49d8-942b-523056e8bb45,t2do8WSejE-Y0aiEirKw9g",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

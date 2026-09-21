@@ -1,0 +1,11 @@
+{
+  "family": "FancyCape",
+  "slot": "Shoulder",
+  "variant": "Basketball",
+  "displayGuess": "FancyCape (Basketball)",
+  "combinationAsset": "FancyCape_Shoulder_Basketball_Combination.asset",
+  "combinationGuid": "bTAQ-CkyRUOZoXqXuap2Ig",
+  "combinationGuidDashed": "f810306d-3229-4345-99a1-7a97b9aa7622",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

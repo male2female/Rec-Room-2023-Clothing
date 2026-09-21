@@ -1,0 +1,11 @@
+{
+  "family": "BowlingShirt",
+  "slot": "Shirt",
+  "variant": "CenterStripe_Black",
+  "displayGuess": "BowlingShirt (CenterStripe_Black)",
+  "combinationAsset": "BowlingShirt_Shirt_CenterStripe_Black_Combination.asset",
+  "combinationGuid": "Gtq8yRlt1UeFW8U-sc7FiA,IWg9wuda4kaCilJk8JQpTQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

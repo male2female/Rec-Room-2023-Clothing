@@ -1,0 +1,11 @@
+{
+  "family": "CheerDress",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "CheerDress (Purple)",
+  "combinationAsset": "CheerDress_Shirt_Purple_Combination.asset",
+  "combinationGuid": "6e0f3af8-297f-4ea7-8f9e-4a1bc57d3e35,93987d32-7a6e-45df-af56-76f912969ce7,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

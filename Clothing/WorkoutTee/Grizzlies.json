@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Grizzlies",
+  "displayGuess": "WorkoutTee (Grizzlies)",
+  "combinationAsset": "WorkoutTee_Shirt_Grizzlies_Combination.asset",
+  "combinationGuid": "pvnZdyL9NEaYYX8T12AgVA",
+  "combinationGuidDashed": "77d9f9a6-fd22-4634-9861-7f13d7602054",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "Wooden",
+  "displayGuess": "Headphones (Wooden)",
+  "combinationAsset": "Headphones_Hat_Wooden_Combination.asset",
+  "combinationGuid": "oNtLjorrZ06t4yIdWqKCcQ",
+  "combinationGuidDashed": "8e4bdba0-eb8a-4e67-ade3-221d5aa28271",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

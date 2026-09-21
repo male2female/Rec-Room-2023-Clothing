@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "NewEnglandPatriots",
+  "displayGuess": "NFL (NewEnglandPatriots)",
+  "combinationAsset": "NFL_Shirt_NewEnglandPatriots_Combination.asset",
+  "combinationGuid": "ebjoqQ_pnU2qdFVR1yDIzA",
+  "combinationGuidDashed": "a9e8b879-e90f-4d9d-aa74-5551d720c8cc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

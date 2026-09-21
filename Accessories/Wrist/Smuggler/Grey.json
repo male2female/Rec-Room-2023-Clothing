@@ -1,0 +1,11 @@
+{
+  "family": "Smuggler",
+  "slot": "Wrist",
+  "variant": "Grey",
+  "displayGuess": "Smuggler (Grey)",
+  "combinationAsset": "Smuggler_Wrist_Grey_Combination.asset",
+  "combinationGuid": "90869e86-cbc5-4024-9d08-fcdc41c64eb5,8ffce0d6-d03e-4097-bc46-09b8894bc1d3,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

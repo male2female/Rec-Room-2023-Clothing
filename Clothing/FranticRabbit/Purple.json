@@ -1,0 +1,11 @@
+{
+  "family": "FranticRabbit",
+  "slot": "Shirt",
+  "variant": "Purple",
+  "displayGuess": "FranticRabbit (Purple)",
+  "combinationAsset": "FranticRabbit_Shirt_Purple_Combination.asset",
+  "combinationGuid": "dhJm0moskU6urIwG1TXs_A",
+  "combinationGuidDashed": "d2661276-2c6a-4e91-aeac-8c06d535ecfc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

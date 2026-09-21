@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Hat",
+  "variant": "FashionGold",
+  "displayGuess": "Mobster (FashionGold)",
+  "combinationAsset": "Mobster_Hat_FashionGold_Combination.asset",
+  "combinationGuid": "46970903-9799-4d25-b90a-7162c1f5dbef,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

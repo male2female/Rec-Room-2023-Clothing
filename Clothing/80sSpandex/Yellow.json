@@ -1,0 +1,11 @@
+{
+  "family": "80sSpandex",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "80sSpandex (Yellow)",
+  "combinationAsset": "80sSpandex_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "i1XbjBqTu0CILIuJClWimA,B-sIpWNOfEigMeQF-WVR1g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

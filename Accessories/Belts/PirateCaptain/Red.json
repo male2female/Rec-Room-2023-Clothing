@@ -1,0 +1,11 @@
+{
+  "family": "PirateCaptain",
+  "slot": "Belt",
+  "variant": "Red",
+  "displayGuess": "PirateCaptain (Red)",
+  "combinationAsset": "PirateCaptain_Belt_Red_Combination.asset",
+  "combinationGuid": "0f71b9a2-dd88-435c-a571-4503d12dcf2d,9b2102f0-e16b-464f-9f1c-f068de52bb89,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

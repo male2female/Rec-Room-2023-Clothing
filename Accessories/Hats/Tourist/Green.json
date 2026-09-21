@@ -1,0 +1,11 @@
+{
+  "family": "Tourist",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Tourist (Green)",
+  "combinationAsset": "Tourist_Hat_Green_Combination.asset",
+  "combinationGuid": "Pu_1I6Zq-0G1HBMHa5MrKg,Cjy-bE0PikWLCRrL4U2NGQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

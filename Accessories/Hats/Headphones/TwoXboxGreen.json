@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "TwoXboxGreen",
+  "displayGuess": "Headphones (TwoXboxGreen)",
+  "combinationAsset": "Headphones_Hat_TwoXboxGreen_Combination.asset",
+  "combinationGuid": "k_ZYy0SjtU2TB7IFdq2vDA,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

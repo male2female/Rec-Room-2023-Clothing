@@ -1,0 +1,11 @@
+{
+  "family": "ButtonTop",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "ButtonTop (Yellow)",
+  "combinationAsset": "ButtonTop_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "c5deba2a-6e35-4b13-8e94-8ba5457f39df,dafa658e-753b-46cb-bd85-85c1de5e6ea7,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

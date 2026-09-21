@@ -1,0 +1,11 @@
+{
+  "family": "Aviator",
+  "slot": "Wrist",
+  "variant": "Black",
+  "displayGuess": "Aviator (Black)",
+  "combinationAsset": "Aviator_Wrist_Black_Combination.asset",
+  "combinationGuid": "97bbb384-b37e-4ea1-902c-88fbd6854ab5,5659ce2c-9cb0-49da-8c39-4b7df0f8deec,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

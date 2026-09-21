@@ -1,0 +1,11 @@
+{
+  "family": "WrapSkirt",
+  "slot": "Shirt",
+  "variant": "ButterflyPurple",
+  "displayGuess": "WrapSkirt (ButterflyPurple)",
+  "combinationAsset": "WrapSkirt_Shirt_ButterflyPurple_Combination.asset",
+  "combinationGuid": "bNWm_2_VE0-4fdcF6S0aIA",
+  "combinationGuidDashed": "ffa6d56c-d56f-4f13-b87d-d705e92d1a20",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

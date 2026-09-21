@@ -1,0 +1,11 @@
+{
+  "family": "Boxer",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Boxer (Green)",
+  "combinationAsset": "Boxer_Hat_Green_Combination.asset",
+  "combinationGuid": "rzUd1IMTKUmW0HeMPSIOBQ,92714eac-cc07-4f74-a6f5-cfbbadd07e06,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

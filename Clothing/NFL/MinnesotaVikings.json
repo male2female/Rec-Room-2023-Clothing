@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "MinnesotaVikings",
+  "displayGuess": "NFL (MinnesotaVikings)",
+  "combinationAsset": "NFL_Shirt_MinnesotaVikings_Combination.asset",
+  "combinationGuid": "i1e3GavcdEu7EJFzwpBXvg",
+  "combinationGuidDashed": "19b7578b-dcab-4b74-bb10-9173c29057be",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

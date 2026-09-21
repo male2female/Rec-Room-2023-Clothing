@@ -1,0 +1,11 @@
+{
+  "family": "ButterflyWings",
+  "slot": "Shoulder",
+  "variant": "Midnight",
+  "displayGuess": "ButterflyWings (Midnight)",
+  "combinationAsset": "ButterflyWings_Shoulder_Midnight_Combination.asset",
+  "combinationGuid": "nODTglESMEC9tBY1k-LrsA,Do__oD53x0-dNtVeHsr4yA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

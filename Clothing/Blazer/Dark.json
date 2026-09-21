@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "Dark",
+  "displayGuess": "Blazer (Dark)",
+  "combinationAsset": "Blazer_Shirt_Dark_Combination.asset",
+  "combinationGuid": "05ac07e1-67f0-486c-abf5-a62866475abb,be2b9293-1d3c-4b1c-b4c5-fad3ab16cf54,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

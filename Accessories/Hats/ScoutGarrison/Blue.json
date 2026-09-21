@@ -1,0 +1,11 @@
+{
+  "family": "ScoutGarrison",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "ScoutGarrison (Blue)",
+  "combinationAsset": "ScoutGarrison_Hat_Blue_Combination.asset",
+  "combinationGuid": "0d2830e7-8eb0-4fa3-99bc-7c80f01dd991,464fcf20-361f-4dc9-b074-150c3bc27523,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

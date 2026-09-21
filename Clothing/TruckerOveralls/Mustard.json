@@ -1,0 +1,11 @@
+{
+  "family": "TruckerOveralls",
+  "slot": "Shirt",
+  "variant": "Mustard",
+  "displayGuess": "TruckerOveralls (Mustard)",
+  "combinationAsset": "TruckerOveralls_Shirt_Mustard_Combination.asset",
+  "combinationGuid": "nKauYAyWhkm2AMHFyC-fLg,H3OQDBef1UaacSD52p8Hdw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

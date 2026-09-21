@@ -1,0 +1,11 @@
+{
+  "family": "FormalDress",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "FormalDress (Black)",
+  "combinationAsset": "FormalDress_Shirt_Black_Combination.asset",
+  "combinationGuid": "rcdwgNvO30Cvx2ycE1GfHw,JmFzNL5v_0q1p0bgoOlBpQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

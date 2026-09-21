@@ -1,0 +1,11 @@
+{
+  "family": "BeanieBrim",
+  "slot": "Hat",
+  "variant": "Gray",
+  "displayGuess": "BeanieBrim (Gray)",
+  "combinationAsset": "BeanieBrim_Hat_Gray_Combination.asset",
+  "combinationGuid": "t2bByt5oUEG90PMMePCP6A,7nBHNMZhAE-t9rLCYO_STA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

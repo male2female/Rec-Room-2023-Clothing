@@ -1,0 +1,11 @@
+{
+  "family": "HeadBand",
+  "slot": "Hat",
+  "variant": "Soccer",
+  "displayGuess": "HeadBand (Soccer)",
+  "combinationAsset": "HeadBand_Hat_Soccer_Combination.asset",
+  "combinationGuid": "RnrXuIRvMkeW5w1lcNiuaQ",
+  "combinationGuidDashed": "b8d77a46-6f84-4732-96e7-0d6570d8ae69",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

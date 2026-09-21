@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "DetroitLions",
+  "displayGuess": "NFL (DetroitLions)",
+  "combinationAsset": "NFL_Shirt_DetroitLions_Combination.asset",
+  "combinationGuid": "ry0fWzcysk2fsr-zIvzjUg",
+  "combinationGuidDashed": "5b1f2daf-3237-4db2-9fb2-bfb322fce352",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

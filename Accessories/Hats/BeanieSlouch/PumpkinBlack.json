@@ -1,0 +1,11 @@
+{
+  "family": "BeanieSlouch",
+  "slot": "Hat",
+  "variant": "PumpkinBlack",
+  "displayGuess": "BeanieSlouch (PumpkinBlack)",
+  "combinationAsset": "BeanieSlouch_Hat_PumpkinBlack_Combination.asset",
+  "combinationGuid": "VE_cHMHKBE2Wuugoqj4rZg",
+  "combinationGuidDashed": "1cdc4f54-cac1-4d04-96ba-e828aa3e2b66",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

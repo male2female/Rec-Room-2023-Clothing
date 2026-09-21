@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "SquadGoals",
+  "displayGuess": "MaleTShirt (SquadGoals)",
+  "combinationAsset": "MaleTShirt_Shirt_SquadGoals_Combination.asset",
+  "combinationGuid": "941c046e-4e95-49f8-a7d7-19071fcc3c94,0440f08f-ef1d-49d8-942b-523056e8bb45,6c395d04-2aa6-4a3e-8c2c-695932bc9736",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "TuckedTee",
+  "slot": "Shirt",
+  "variant": "GamerRaspberry",
+  "displayGuess": "TuckedTee (GamerRaspberry)",
+  "combinationAsset": "TuckedTee_Shirt_GamerRaspberry_Combination.asset",
+  "combinationGuid": "t9-7AjmLgEWawcyWCD4xVw",
+  "combinationGuidDashed": "02bbdfb7-8b39-4580-9ac1-cc96083e3157",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

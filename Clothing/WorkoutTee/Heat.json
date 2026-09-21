@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Heat",
+  "displayGuess": "WorkoutTee (Heat)",
+  "combinationAsset": "WorkoutTee_Shirt_Heat_Combination.asset",
+  "combinationGuid": "clStIXndXk2ayewq-1LKng",
+  "combinationGuidDashed": "21ad5472-dd79-4d5e-9ac9-ec2afb52ca9e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

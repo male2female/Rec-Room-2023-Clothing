@@ -1,0 +1,11 @@
+{
+  "family": "SteamPunk",
+  "slot": "Shoulder",
+  "variant": "BlackandSilver",
+  "displayGuess": "SteamPunk (BlackandSilver)",
+  "combinationAsset": "SteamPunk_Shoulder_BlackandSilver_Combination.asset",
+  "combinationGuid": "rSzG7s1ocUmx9_VrJLOcHQ,ISycihytUUyoypVb-kXN_Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

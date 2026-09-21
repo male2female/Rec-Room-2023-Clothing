@@ -1,0 +1,11 @@
+{
+  "family": "Punk",
+  "slot": "Wrist",
+  "variant": "Pink",
+  "displayGuess": "Punk (Pink)",
+  "combinationAsset": "Punk_Wrist_Pink_Combination.asset",
+  "combinationGuid": "f3b2330a-b981-4c7e-902f-1f57382f2388,dd7472ed-bdcb-4811-81ba-5ed682fb7675,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

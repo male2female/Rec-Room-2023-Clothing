@@ -1,0 +1,11 @@
+{
+  "family": "WickedSorceress",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "WickedSorceress (Red)",
+  "combinationAsset": "WickedSorceress_Shirt_Red_Combination.asset",
+  "combinationGuid": "4qSWIO-cy0q5JWHp7tagHA",
+  "combinationGuidDashed": "2096a4e2-9cef-4acb-b925-61e9eed6a01c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

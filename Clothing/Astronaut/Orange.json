@@ -1,0 +1,11 @@
+{
+  "family": "Astronaut",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "Astronaut (Orange)",
+  "combinationAsset": "Astronaut_Shirt_Orange_Combination.asset",
+  "combinationGuid": "9GhnX4Pj4E-wxbPlD8GB-g,YSrGwXybGEqaqHNCS64qOA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

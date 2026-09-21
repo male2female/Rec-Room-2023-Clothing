@@ -1,0 +1,11 @@
+{
+  "family": "IHeartRRShirt",
+  "slot": "Shirt",
+  "variant": "Navy",
+  "displayGuess": "IHeartRRShirt (Navy)",
+  "combinationAsset": "IHeartRRShirt_Shirt_Navy_Combination.asset",
+  "combinationGuid": "HQOKcDCvVUCItkAKo2ygGg,RmjxL1O9bEGOuYxY9kzHEA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

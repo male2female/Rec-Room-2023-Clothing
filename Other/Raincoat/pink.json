@@ -1,0 +1,11 @@
+{
+  "family": "Raincoat",
+  "slot": null,
+  "variant": "pink",
+  "displayGuess": "Raincoat (pink)",
+  "combinationAsset": "Raincoat_pink_Combination.asset",
+  "combinationGuid": "tVbu4hUFHkmEKEz38GG2Nw",
+  "combinationGuidDashed": "e2ee56b5-0515-491e-8428-4cf7f061b637",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

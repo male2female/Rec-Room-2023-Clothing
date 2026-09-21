@@ -1,0 +1,11 @@
+{
+  "family": "Glasses",
+  "slot": "Eye",
+  "variant": "Gradient_Sunrise",
+  "displayGuess": "Glasses (Gradient_Sunrise)",
+  "combinationAsset": "Glasses_Eye_Gradient_Sunrise_Combination.asset",
+  "combinationGuid": "Sad0HQX_Y0eYTx1qqgxKwQ",
+  "combinationGuidDashed": "1d74a749-ff05-4763-984f-1d6aaa0c4ac1",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

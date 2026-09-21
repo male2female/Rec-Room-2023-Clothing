@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "EarlyAccess",
+  "displayGuess": "MaleTShirt (EarlyAccess)",
+  "combinationAsset": "MaleTShirt_Shirt_EarlyAccess_Combination.asset",
+  "combinationGuid": "oMz5rMzCxkiw9690ZkvlGw,gW2zFv0sFEmiodfw8p9P-Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "IndianapolisColts",
+  "displayGuess": "NFL (IndianapolisColts)",
+  "combinationAsset": "NFL_Hat_IndianapolisColts_Combination.asset",
+  "combinationGuid": "cOyJcjGyp0miaMLAOpz0FA",
+  "combinationGuidDashed": "7289ec70-b231-49a7-a268-c2c03a9cf414",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

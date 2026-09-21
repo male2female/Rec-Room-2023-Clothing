@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Pan",
+  "displayGuess": "Hoodie (Pan)",
+  "combinationAsset": "Hoodie_Shirt_Pan_Combination.asset",
+  "combinationGuid": "sf962XJ0tkis0svkMkZCXQ,4bI7QRvdnEansPkwx8Di9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

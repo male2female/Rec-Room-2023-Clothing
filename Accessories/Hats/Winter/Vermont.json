@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Hat",
+  "variant": "Vermont",
+  "displayGuess": "Winter (Vermont)",
+  "combinationAsset": "Winter_Hat_Vermont_Combination.asset",
+  "combinationGuid": "3UxfTkPsEkezOXO__wz_mg,nalaCGqtL0SFA4Itwqmp8g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

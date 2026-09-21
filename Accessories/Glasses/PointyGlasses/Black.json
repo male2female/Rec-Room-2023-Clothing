@@ -1,0 +1,11 @@
+{
+  "family": "PointyGlasses",
+  "slot": "Eye",
+  "variant": "Black",
+  "displayGuess": "PointyGlasses (Black)",
+  "combinationAsset": "PointyGlasses_Eye_Black_Combination.asset",
+  "combinationGuid": "tMsCUhDslkmdNBfogeSz7w,PIjEKhXiCUqtA8FBhLBcmA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

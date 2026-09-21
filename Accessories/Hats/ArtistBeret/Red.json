@@ -1,0 +1,11 @@
+{
+  "family": "ArtistBeret",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "ArtistBeret (Red)",
+  "combinationAsset": "ArtistBeret_Hat_Red_Combination.asset",
+  "combinationGuid": "5c8f36c5-07da-49f4-af02-d23207a43216,3485a30d-27f8-450b-b5aa-1ff3cd227d19,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

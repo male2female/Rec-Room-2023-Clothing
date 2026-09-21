@@ -1,0 +1,11 @@
+{
+  "family": "ScoutSkirt",
+  "slot": "Shirt",
+  "variant": "ZombieGreen",
+  "displayGuess": "ScoutSkirt (ZombieGreen)",
+  "combinationAsset": "ScoutSkirt_Shirt_ZombieGreen_Combination.asset",
+  "combinationGuid": "VL_OnsbYNkGgGAV16x5tQA",
+  "combinationGuidDashed": "9ecebf54-d8c6-4136-a018-0575eb1e6d40",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

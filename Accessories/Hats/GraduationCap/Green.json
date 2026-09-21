@@ -1,0 +1,11 @@
+{
+  "family": "GraduationCap",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "GraduationCap (Green)",
+  "combinationAsset": "GraduationCap_Hat_Green_Combination.asset",
+  "combinationGuid": "FaWMLkJJgEKFIO493fzGxg,yzL0M_N5Q0eAa8IxACHPAQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

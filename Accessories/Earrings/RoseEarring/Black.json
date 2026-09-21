@@ -1,0 +1,11 @@
+{
+  "family": "RoseEarring",
+  "slot": "Ear",
+  "variant": "Black",
+  "displayGuess": "RoseEarring (Black)",
+  "combinationAsset": "RoseEarring_Ear_Black_Combination.asset",
+  "combinationGuid": "4ve7AWD5pkGjvmtC6JRdiw",
+  "combinationGuidDashed": "01bbf7e2-f960-41a6-a3be-6b42e8945d8b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

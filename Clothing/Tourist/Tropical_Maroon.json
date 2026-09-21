@@ -1,0 +1,11 @@
+{
+  "family": "Tourist",
+  "slot": "Shirt",
+  "variant": "Tropical_Maroon",
+  "displayGuess": "Tourist (Tropical_Maroon)",
+  "combinationAsset": "Tourist_Shirt_Tropical_Maroon_Combination.asset",
+  "combinationGuid": "d27e5m1BLUWI42Pxnj6F4A,ytfIq0TiYU6EUdd0ruaGAQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

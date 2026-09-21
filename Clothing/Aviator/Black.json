@@ -1,0 +1,11 @@
+{
+  "family": "Aviator",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "Aviator (Black)",
+  "combinationAsset": "Aviator_Shirt_Black_Combination.asset",
+  "combinationGuid": "da185fbb-ad2b-4f30-87a2-491f24b78ebb,9009bcdf-b6f7-4dae-b2ec-895511d118ff,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

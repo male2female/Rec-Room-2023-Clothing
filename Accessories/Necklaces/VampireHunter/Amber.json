@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Amber",
+  "displayGuess": "VampireHunter (Amber)",
+  "combinationAsset": "VampireHunter_Neck_Amber_Combination.asset",
+  "combinationGuid": "WOxMXWKGrUWhnNInttZ-Zw,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

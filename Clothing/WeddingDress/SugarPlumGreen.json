@@ -1,0 +1,11 @@
+{
+  "family": "WeddingDress",
+  "slot": "Shirt",
+  "variant": "SugarPlumGreen",
+  "displayGuess": "WeddingDress (SugarPlumGreen)",
+  "combinationAsset": "WeddingDress_Shirt_SugarPlumGreen_Combination.asset",
+  "combinationGuid": "SExtD3FBk0GwseMZDdGJlw",
+  "combinationGuidDashed": "0f6d4c48-4171-4193-b0b1-e3190dd18997",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

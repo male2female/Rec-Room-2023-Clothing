@@ -1,0 +1,11 @@
+{
+  "family": "FancyCape",
+  "slot": "Shoulder",
+  "variant": "GoldBlack",
+  "displayGuess": "FancyCape (GoldBlack)",
+  "combinationAsset": "FancyCape_Shoulder_GoldBlack_Combination.asset",
+  "combinationGuid": "crl8VlZ59kGxG01noGEWmA,EckOEU0mJkGIVDvYoKBN9g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

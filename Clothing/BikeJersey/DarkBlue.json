@@ -1,0 +1,11 @@
+{
+  "family": "BikeJersey",
+  "slot": "Shirt",
+  "variant": "DarkBlue",
+  "displayGuess": "BikeJersey (DarkBlue)",
+  "combinationAsset": "BikeJersey_Shirt_DarkBlue_Combination.asset",
+  "combinationGuid": "XNq4Cns4lEGydtktdsXlmQ,1695608b-e9cc-4a03-b56d-0f09d2804379,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

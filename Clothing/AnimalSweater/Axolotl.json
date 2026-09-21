@@ -1,0 +1,11 @@
+{
+  "family": "AnimalSweater",
+  "slot": "Shirt",
+  "variant": "Axolotl",
+  "displayGuess": "AnimalSweater (Axolotl)",
+  "combinationAsset": "AnimalSweater_Shirt_Axolotl_Combination.asset",
+  "combinationGuid": "azbt5pgvrUS4LQwhndFeJg,cHZ4lDnSoUypIXCiRRowzg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

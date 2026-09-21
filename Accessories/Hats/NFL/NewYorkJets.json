@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "NewYorkJets",
+  "displayGuess": "NFL (NewYorkJets)",
+  "combinationAsset": "NFL_Hat_NewYorkJets_Combination.asset",
+  "combinationGuid": "jYJehFukzUCHKzWQAaM3uw",
+  "combinationGuidDashed": "845e828d-a45b-40cd-872b-359001a337bb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

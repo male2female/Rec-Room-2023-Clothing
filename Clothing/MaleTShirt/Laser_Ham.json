@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Laser_Ham",
+  "displayGuess": "MaleTShirt (Laser_Ham)",
+  "combinationAsset": "MaleTShirt_Shirt_Laser_Ham_Combination.asset",
+  "combinationGuid": "dDLQbD9jtkOmw3PR5QJdfg,0440f08f-ef1d-49d8-942b-523056e8bb45,2tFUNn-4kkK6ICo_Zp065g",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

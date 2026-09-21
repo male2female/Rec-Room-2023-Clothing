@@ -1,0 +1,11 @@
+{
+  "family": "HearingAids",
+  "slot": "Ear",
+  "variant": "BTE_Blue",
+  "displayGuess": "HearingAids (BTE_Blue)",
+  "combinationAsset": "HearingAids_Ear_BTE_Blue_Combination.asset",
+  "combinationGuid": "1n-ekJos-EeViiz_zG4jEg",
+  "combinationGuidDashed": "909e7fd6-2c9a-47f8-958a-2cffcc6e2312",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

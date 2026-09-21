@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "LuauDress (Red)",
+  "combinationAsset": "LuauDress_Shirt_Red_Combination.asset",
+  "combinationGuid": "wyKAZSZwT0u9cuSaQ_-IHg,vUgpsaXrO0ak7huhkHqlUA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

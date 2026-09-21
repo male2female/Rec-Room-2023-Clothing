@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Diamond",
+  "displayGuess": "VampireHunter (Diamond)",
+  "combinationAsset": "VampireHunter_Neck_Diamond_Combination.asset",
+  "combinationGuid": "lvDIOeSI10SNxnCO_M_9zA,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

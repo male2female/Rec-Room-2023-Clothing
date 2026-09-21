@@ -1,0 +1,11 @@
+{
+  "family": "MartyRecFly",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "MartyRecFly (Green)",
+  "combinationAsset": "MartyRecFly_Shirt_Green_Combination.asset",
+  "combinationGuid": "x4PPvuhg6USE6GSFgZZnCg,w9qG5gHlAUqh8f9ZgnezsQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Bowtie",
+  "slot": null,
+  "variant": "StPaddy",
+  "displayGuess": "Bowtie (StPaddy)",
+  "combinationAsset": "Bowtie_StPaddy_Combination.asset",
+  "combinationGuid": "wF-WrDaY_kmm1AzA20RsZw",
+  "combinationGuidDashed": "ac965fc0-9836-49fe-a6d4-0cc0db446c67",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

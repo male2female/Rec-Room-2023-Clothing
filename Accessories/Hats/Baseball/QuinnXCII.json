@@ -1,0 +1,11 @@
+{
+  "family": "Baseball",
+  "slot": "Hat",
+  "variant": "QuinnXCII",
+  "displayGuess": "Baseball (QuinnXCII)",
+  "combinationAsset": "Baseball_Hat_QuinnXCII_Combination.asset",
+  "combinationGuid": "cfiCxhJZ20u07X1x93tNZQ",
+  "combinationGuidDashed": "c682f871-5912-4bdb-b4ed-7d71f77b4d65",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

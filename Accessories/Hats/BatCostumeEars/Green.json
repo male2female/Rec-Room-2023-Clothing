@@ -1,0 +1,11 @@
+{
+  "family": "BatCostumeEars",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "BatCostumeEars (Green)",
+  "combinationAsset": "BatCostumeEars_Hat_Green_Combination.asset",
+  "combinationGuid": "85pvpo4QqUSrdsbofGkoWg",
+  "combinationGuidDashed": "a66f9af3-108e-44a9-ab76-c6e87c69285a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

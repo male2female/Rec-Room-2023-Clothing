@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Amethyst",
+  "displayGuess": "BirthstoneEarring (Amethyst)",
+  "combinationAsset": "BirthstoneEarring_Ear_Amethyst_Combination.asset",
+  "combinationGuid": "C9CZUwEZeUiuOue4CK4luA,gUxl7WNXlUqFYHZ9eGq1cg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

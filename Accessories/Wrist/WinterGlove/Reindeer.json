@@ -1,0 +1,11 @@
+{
+  "family": "WinterGlove",
+  "slot": "Wrist",
+  "variant": "Reindeer",
+  "displayGuess": "WinterGlove (Reindeer)",
+  "combinationAsset": "WinterGlove_Wrist_Reindeer_Combination.asset",
+  "combinationGuid": "e6hTzFc-fEiJe0L4jDVxRQ",
+  "combinationGuidDashed": "cc53a87b-3e57-487c-897b-42f88c357145",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

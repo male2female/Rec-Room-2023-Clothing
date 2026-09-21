@@ -1,0 +1,11 @@
+{
+  "family": "WinterGlove",
+  "slot": "Wrist",
+  "variant": "UglySweater",
+  "displayGuess": "WinterGlove (UglySweater)",
+  "combinationAsset": "WinterGlove_Wrist_UglySweater_Combination.asset",
+  "combinationGuid": "MmGNESXgOkiZ0xCG41E9ig,Nc6jwNeK_kyajH5xKzCNVw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

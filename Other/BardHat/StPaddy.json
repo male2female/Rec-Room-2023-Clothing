@@ -1,0 +1,11 @@
+{
+  "family": "BardHat",
+  "slot": null,
+  "variant": "StPaddy",
+  "displayGuess": "BardHat (StPaddy)",
+  "combinationAsset": "BardHat_StPaddy_Combination.asset",
+  "combinationGuid": "l9cF1s3B8EC6BGlQ4Tx1cg",
+  "combinationGuidDashed": "d605d797-c1cd-40f0-ba04-6950e13c7572",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

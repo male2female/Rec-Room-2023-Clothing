@@ -1,0 +1,11 @@
+{
+  "family": "FootballShoulderPads",
+  "slot": "Shirt",
+  "variant": "RedWhite",
+  "displayGuess": "FootballShoulderPads (RedWhite)",
+  "combinationAsset": "FootballShoulderPads_Shirt_RedWhite_Combination.asset",
+  "combinationGuid": "vMqhT19x302aYEo6E9HhOA,e17481fc-b2b6-47a5-91e5-7205f45a3247,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

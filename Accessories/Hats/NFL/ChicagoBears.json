@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "ChicagoBears",
+  "displayGuess": "NFL (ChicagoBears)",
+  "combinationAsset": "NFL_Hat_ChicagoBears_Combination.asset",
+  "combinationGuid": "10nSNj7eRE6XwS9y2OvC2g",
+  "combinationGuidDashed": "36d249d7-de3e-4e44-97c1-2f72d8ebc2da",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

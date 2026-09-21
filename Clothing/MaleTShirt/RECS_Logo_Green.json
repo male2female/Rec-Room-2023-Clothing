@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "RECS_Logo_Green",
+  "displayGuess": "MaleTShirt (RECS_Logo_Green)",
+  "combinationAsset": "MaleTShirt_Shirt_RECS_Logo_Green_Combination.asset",
+  "combinationGuid": "5e7a48ed-8f08-4990-a3ae-05722c9f59a8,0440f08f-ef1d-49d8-942b-523056e8bb45,237e0aa2-5911-4704-8d2a-d446ddd2d842",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

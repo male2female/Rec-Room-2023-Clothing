@@ -1,0 +1,11 @@
+{
+  "family": "Sundress",
+  "slot": "Shirt",
+  "variant": "Ombre_Seafoam",
+  "displayGuess": "Sundress (Ombre_Seafoam)",
+  "combinationAsset": "Sundress_Shirt_Ombre_Seafoam_Combination.asset",
+  "combinationGuid": "wxvSDMommkenIl5hTY2fdQ,thwvF0DFRk-mV99ruqYFoQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "EmissiveBlue",
+  "displayGuess": "Headphones (EmissiveBlue)",
+  "combinationAsset": "Headphones_Hat_EmissiveBlue_Combination.asset",
+  "combinationGuid": "2sf-FU4WckGBDWUkVz4z1g,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

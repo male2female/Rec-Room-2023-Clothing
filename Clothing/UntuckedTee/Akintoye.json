@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": "Shirt",
+  "variant": "Akintoye",
+  "displayGuess": "UntuckedTee (Akintoye)",
+  "combinationAsset": "UntuckedTee_Shirt_Akintoye_Combination.asset",
+  "combinationGuid": "QQVh8FdTakO26iOFdzGoBQ",
+  "combinationGuidDashed": "f0610541-5357-436a-b6ea-23857731a805",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

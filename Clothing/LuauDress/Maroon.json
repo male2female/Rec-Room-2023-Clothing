@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "Maroon",
+  "displayGuess": "LuauDress (Maroon)",
+  "combinationAsset": "LuauDress_Shirt_Maroon_Combination.asset",
+  "combinationGuid": "_OM7UNZENEejgO5h7H1ztg,vUgpsaXrO0ak7huhkHqlUA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Punk",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "Punk (White)",
+  "combinationAsset": "Punk_Shirt_White_Combination.asset",
+  "combinationGuid": "G2ncsS9U8E6fyjvliFqdOw",
+  "combinationGuidDashed": "b1dc691b-542f-4ef0-9fca-3be5885a9d3b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

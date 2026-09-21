@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Mavericks",
+  "displayGuess": "WorkoutTee (Mavericks)",
+  "combinationAsset": "WorkoutTee_Shirt_Mavericks_Combination.asset",
+  "combinationGuid": "LpUOG6fHz0uQPtmOLtUlKw",
+  "combinationGuidDashed": "1b0e952e-c7a7-4bcf-903e-d98e2ed5252b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

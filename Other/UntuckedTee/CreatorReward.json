@@ -1,0 +1,11 @@
+{
+  "family": "UntuckedTee",
+  "slot": null,
+  "variant": "CreatorReward",
+  "displayGuess": "UntuckedTee (CreatorReward)",
+  "combinationAsset": "UntuckedTee_CreatorReward_Combination.asset",
+  "combinationGuid": "y78S5o6VXUGva1Wpd6sp3A",
+  "combinationGuidDashed": "e612bfcb-958e-415d-af6b-55a977ab29dc",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

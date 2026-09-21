@@ -1,0 +1,11 @@
+{
+  "family": "SportsScarf",
+  "slot": "Neck",
+  "variant": "Goblins",
+  "displayGuess": "SportsScarf (Goblins)",
+  "combinationAsset": "SportsScarf_Neck_Goblins_Combination.asset",
+  "combinationGuid": "ggpNxFtZMEaHlvWXsDl9Tw",
+  "combinationGuidDashed": "c44d0a82-595b-4630-8796-f597b0397d4f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

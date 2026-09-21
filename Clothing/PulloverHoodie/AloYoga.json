@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "AloYoga",
+  "displayGuess": "PulloverHoodie (AloYoga)",
+  "combinationAsset": "PulloverHoodie_Shirt_AloYoga_Combination.asset",
+  "combinationGuid": "bS-St6XLHkSwKt41J7BmKw",
+  "combinationGuidDashed": "b7922f6d-cba5-441e-b02a-de3527b0662b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

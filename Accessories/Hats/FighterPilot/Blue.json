@@ -1,0 +1,11 @@
+{
+  "family": "FighterPilot",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "FighterPilot (Blue)",
+  "combinationAsset": "FighterPilot_Hat_Blue_Combination.asset",
+  "combinationGuid": "e37b07d1-6b9d-49b9-94ca-1c728e228cfe,9d6ac0b7-bbef-40bc-9173-effe65d7c0ff,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

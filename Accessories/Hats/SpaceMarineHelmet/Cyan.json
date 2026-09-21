@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineHelmet",
+  "slot": "Hat",
+  "variant": "Cyan",
+  "displayGuess": "SpaceMarineHelmet (Cyan)",
+  "combinationAsset": "SpaceMarineHelmet_Hat_Cyan_Combination.asset",
+  "combinationGuid": "c8cc9589-4831-4e73-a865-ef8c139a2ba7,b94411f6-5b71-48d0-ace1-ac6f63167065,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

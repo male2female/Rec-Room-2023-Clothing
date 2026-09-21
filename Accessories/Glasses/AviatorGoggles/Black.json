@@ -1,0 +1,11 @@
+{
+  "family": "AviatorGoggles",
+  "slot": "Eye",
+  "variant": "Black",
+  "displayGuess": "AviatorGoggles (Black)",
+  "combinationAsset": "AviatorGoggles_Eye_Black_Combination.asset",
+  "combinationGuid": "7b82c3c5-fd1f-45ec-b83f-e32668aa8dce,556f876a-70da-4104-b792-fca8ad67be0c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

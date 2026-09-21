@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "Mobster (Purple)",
+  "combinationAsset": "Mobster_Hat_Purple_Combination.asset",
+  "combinationGuid": "PZx7Iae0pkiDaxT9t3-vgg,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

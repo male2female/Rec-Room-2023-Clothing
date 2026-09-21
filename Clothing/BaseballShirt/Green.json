@@ -1,0 +1,11 @@
+{
+  "family": "BaseballShirt",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "BaseballShirt (Green)",
+  "combinationAsset": "BaseballShirt_Shirt_Green_Combination.asset",
+  "combinationGuid": "e5de2e45-207c-46af-9a5e-eb01a0c621fe,ca37823a-b8f3-4414-b38b-de0dc7fa4295,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

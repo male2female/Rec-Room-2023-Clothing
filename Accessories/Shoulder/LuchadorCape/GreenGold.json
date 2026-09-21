@@ -1,0 +1,11 @@
+{
+  "family": "LuchadorCape",
+  "slot": "Shoulder",
+  "variant": "GreenGold",
+  "displayGuess": "LuchadorCape (GreenGold)",
+  "combinationAsset": "LuchadorCape_Shoulder_GreenGold_Combination.asset",
+  "combinationGuid": "Dtis2HpVzkelZb6M9mW5TQ,iqGv6iRJ-UGbofv8-aHKVA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

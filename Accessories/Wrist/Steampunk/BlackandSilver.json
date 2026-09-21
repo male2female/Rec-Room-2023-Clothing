@@ -1,0 +1,11 @@
+{
+  "family": "Steampunk",
+  "slot": "Wrist",
+  "variant": "BlackandSilver",
+  "displayGuess": "Steampunk (BlackandSilver)",
+  "combinationAsset": "Steampunk_Wrist_BlackandSilver_Combination.asset",
+  "combinationGuid": "64Hvmzrb3Uu9X_dCA3M3Jw,rPpYm5fIzky4vqVB26guAw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

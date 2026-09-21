@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "IndianapolisColts",
+  "displayGuess": "NFL (IndianapolisColts)",
+  "combinationAsset": "NFL_Shirt_IndianapolisColts_Combination.asset",
+  "combinationGuid": "nHa0WjWfl0-g-sknorb10g",
+  "combinationGuidDashed": "5ab4769c-9f35-4f97-a0fa-c927a2b6f5d2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

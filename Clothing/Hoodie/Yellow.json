@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Yellow",
+  "displayGuess": "Hoodie (Yellow)",
+  "combinationAsset": "Hoodie_Shirt_Yellow_Combination.asset",
+  "combinationGuid": "LuYelZY8NkqmOp1pnxPXBg,oHKhT-GTx0iFWrrlz9s6Tw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

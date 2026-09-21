@@ -1,0 +1,11 @@
+{
+  "family": "WristBand",
+  "slot": "Wrist",
+  "variant": "MoonAndStars",
+  "displayGuess": "WristBand (MoonAndStars)",
+  "combinationAsset": "WristBand_Wrist_MoonAndStars_Combination.asset",
+  "combinationGuid": "2qYs9IkE90eppx1DggNlsA,6Y43EyTpiEejGp0ODWTSjA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

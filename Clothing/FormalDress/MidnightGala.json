@@ -1,0 +1,11 @@
+{
+  "family": "FormalDress",
+  "slot": "Shirt",
+  "variant": "MidnightGala",
+  "displayGuess": "FormalDress (MidnightGala)",
+  "combinationAsset": "FormalDress_Shirt_MidnightGala_Combination.asset",
+  "combinationGuid": "oM7qz730lke-off_cQw-cA",
+  "combinationGuidDashed": "cfeacea0-f4bd-4796-bea1-f7ff710c3e70",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

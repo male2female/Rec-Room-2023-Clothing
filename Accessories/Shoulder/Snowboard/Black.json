@@ -1,0 +1,11 @@
+{
+  "family": "Snowboard",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "Snowboard (Black)",
+  "combinationAsset": "Snowboard_Shoulder_Black_Combination.asset",
+  "combinationGuid": "E6md4xTNYkS9geB8zkNRmA",
+  "combinationGuidDashed": "e39da913-cd14-4462-bd81-e07cce435198",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

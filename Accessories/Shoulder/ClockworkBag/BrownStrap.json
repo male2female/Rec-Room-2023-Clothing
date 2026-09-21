@@ -1,0 +1,11 @@
+{
+  "family": "ClockworkBag",
+  "slot": "Shoulder",
+  "variant": "BrownStrap",
+  "displayGuess": "ClockworkBag (BrownStrap)",
+  "combinationAsset": "ClockworkBag_Shoulder_BrownStrap_Combination.asset",
+  "combinationGuid": "GAWBaCDBzUqdyTGA-HPczQ",
+  "combinationGuidDashed": "68810518-c120-4acd-9dc9-3180f873dccd",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

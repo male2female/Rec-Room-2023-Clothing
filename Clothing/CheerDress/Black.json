@@ -1,0 +1,11 @@
+{
+  "family": "CheerDress",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "CheerDress (Black)",
+  "combinationAsset": "CheerDress_Shirt_Black_Combination.asset",
+  "combinationGuid": "qoVZuGa5NkOmyfikHjDhXw,93987d32-7a6e-45df-af56-76f912969ce7,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

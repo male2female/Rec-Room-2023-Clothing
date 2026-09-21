@@ -1,0 +1,11 @@
+{
+  "family": "Skateboard",
+  "slot": "Shoulder",
+  "variant": "Checkerboard",
+  "displayGuess": "Skateboard (Checkerboard)",
+  "combinationAsset": "Skateboard_Shoulder_Checkerboard_Combination.asset",
+  "combinationGuid": "7WzGZTf51EWClLTLNhhGVg",
+  "combinationGuidDashed": "65c66ced-f937-45d4-8294-b4cb36184656",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

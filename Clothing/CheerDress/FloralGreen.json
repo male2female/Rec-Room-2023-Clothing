@@ -1,0 +1,11 @@
+{
+  "family": "CheerDress",
+  "slot": "Shirt",
+  "variant": "FloralGreen",
+  "displayGuess": "CheerDress (FloralGreen)",
+  "combinationAsset": "CheerDress_Shirt_FloralGreen_Combination.asset",
+  "combinationGuid": "yDZFr27Zq0-JH-EsEsxG2g,F9vYkdcuGUOSGEg0wpQt2Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

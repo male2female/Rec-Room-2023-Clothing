@@ -1,0 +1,11 @@
+{
+  "family": "Tourist",
+  "slot": "Hat",
+  "variant": "Tropical_Maroon",
+  "displayGuess": "Tourist (Tropical_Maroon)",
+  "combinationAsset": "Tourist_Hat_Tropical_Maroon_Combination.asset",
+  "combinationGuid": "p3g8YAOhTUKAiE-Wh-X-aA,sIP83lqv3kG31TH5Rw4gqg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

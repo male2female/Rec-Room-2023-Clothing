@@ -1,0 +1,11 @@
+{
+  "family": "ClockworkBag",
+  "slot": "Shoulder",
+  "variant": "Bronze",
+  "displayGuess": "ClockworkBag (Bronze)",
+  "combinationAsset": "ClockworkBag_Shoulder_Bronze_Combination.asset",
+  "combinationGuid": "0EjPIiuYpEGIWup3pKeC8g",
+  "combinationGuidDashed": "22cf48d0-982b-41a4-885a-ea77a4a782f2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

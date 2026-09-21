@@ -1,0 +1,11 @@
+{
+  "family": "EquestrianHelmet",
+  "slot": "Hat",
+  "variant": "Denim",
+  "displayGuess": "EquestrianHelmet (Denim)",
+  "combinationAsset": "EquestrianHelmet_Hat_Denim_Combination.asset",
+  "combinationGuid": "55901f12-d5b5-4fa8-b4c8-e479689ee39d,be6b3fa1-3388-48ac-8957-d7b8c85ff968,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

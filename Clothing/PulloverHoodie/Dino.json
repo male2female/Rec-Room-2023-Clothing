@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "Dino",
+  "displayGuess": "PulloverHoodie (Dino)",
+  "combinationAsset": "PulloverHoodie_Shirt_Dino_Combination.asset",
+  "combinationGuid": "QMScBauef0uOE48-YcDcCg",
+  "combinationGuidDashed": "059cc440-9eab-4b7f-8e13-8f3e61c0dc0a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

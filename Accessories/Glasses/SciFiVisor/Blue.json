@@ -1,0 +1,11 @@
+{
+  "family": "SciFiVisor",
+  "slot": "Eye",
+  "variant": "Blue",
+  "displayGuess": "SciFiVisor (Blue)",
+  "combinationAsset": "SciFiVisor_Eye_Blue_Combination.asset",
+  "combinationGuid": "SXG9rdEkxkOR31Nk0aTOww,uB4gFxfrh0W5OtkmZdFN1Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonHoodie",
+  "slot": "Shirt",
+  "variant": "PinkGlow",
+  "displayGuess": "SkeletonHoodie (PinkGlow)",
+  "combinationAsset": "SkeletonHoodie_Shirt_PinkGlow_Combination.asset",
+  "combinationGuid": "DJnKyNXtuEW1tbKBFscIng,eZGiYEx6sk2PsN39RzQwlQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

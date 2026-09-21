@@ -1,0 +1,11 @@
+{
+  "family": "WaitressApron",
+  "slot": "Belt",
+  "variant": "Mustard",
+  "displayGuess": "WaitressApron (Mustard)",
+  "combinationAsset": "WaitressApron_Belt_Mustard_Combination.asset",
+  "combinationGuid": "b7oobDcDtE-69fhM-5g5AQ,f5z_jhdcqEGjo-1WUmldaw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

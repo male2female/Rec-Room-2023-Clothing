@@ -1,0 +1,11 @@
+{
+  "family": "RecConLanyard",
+  "slot": "Neck",
+  "variant": "VideoPartner",
+  "displayGuess": "RecConLanyard (VideoPartner)",
+  "combinationAsset": "RecConLanyard_Neck_VideoPartner_Combination.asset",
+  "combinationGuid": "cxwdcbGTfUS_LYQoXpcQng",
+  "combinationGuidDashed": "711d1c73-93b1-447d-bf2d-84285e97109e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

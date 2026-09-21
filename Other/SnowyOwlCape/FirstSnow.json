@@ -1,0 +1,11 @@
+{
+  "family": "SnowyOwlCape",
+  "slot": null,
+  "variant": "FirstSnow",
+  "displayGuess": "SnowyOwlCape (FirstSnow)",
+  "combinationAsset": "SnowyOwlCape_FirstSnow_Combination.asset",
+  "combinationGuid": "NnqAnqqLmUypWnNR2s-_sg",
+  "combinationGuidDashed": "9e807a36-8baa-4c99-a95a-7351dacfbfb2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Shirt",
+  "variant": "Pink",
+  "displayGuess": "Cowboy (Pink)",
+  "combinationAsset": "Cowboy_Shirt_Pink_Combination.asset",
+  "combinationGuid": "BW5oLDA36EK9nLzTm7xViQ",
+  "combinationGuidDashed": "2c686e05-3730-42e8-bd9c-bcd39bbc5589",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

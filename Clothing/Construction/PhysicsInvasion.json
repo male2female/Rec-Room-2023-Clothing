@@ -1,0 +1,11 @@
+{
+  "family": "Construction",
+  "slot": "Shirt",
+  "variant": "PhysicsInvasion",
+  "displayGuess": "Construction (PhysicsInvasion)",
+  "combinationAsset": "Construction_Shirt_PhysicsInvasion_Combination.asset",
+  "combinationGuid": "QXtBrjnRckKJGiRtsy4AVQ",
+  "combinationGuidDashed": "ae417b41-d139-4272-891a-246db32e0055",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

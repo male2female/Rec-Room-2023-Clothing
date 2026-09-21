@@ -1,0 +1,11 @@
+{
+  "family": "CowboyGlove",
+  "slot": "Wrist",
+  "variant": "White",
+  "displayGuess": "CowboyGlove (White)",
+  "combinationAsset": "CowboyGlove_Wrist_White_Combination.asset",
+  "combinationGuid": "wat8f6fs80KptZbW39e8tA,8eef8837-9141-4088-835a-b2f47f4126f8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Shirt",
+  "variant": "Leather",
+  "displayGuess": "VampireHunter (Leather)",
+  "combinationAsset": "VampireHunter_Shirt_Leather_Combination.asset",
+  "combinationGuid": "Z8Bfk0MTb0evZehvvgzuBA,x10FeRBsQU2DIIpG8XIlwg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Cloche",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "Cloche (Black)",
+  "combinationAsset": "Cloche_Hat_Black_Combination.asset",
+  "combinationGuid": "w9I-I0GWRE-3RgOUMMlHjg,WWmx0nBo3k2nXUPPRJVJLQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

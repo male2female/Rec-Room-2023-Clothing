@@ -1,0 +1,11 @@
+{
+  "family": "Bow",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Bow (Blue)",
+  "combinationAsset": "Bow_Hat_Blue_Combination.asset",
+  "combinationGuid": "c5884778-a87f-4612-9717-86fbb65d440f,e0186718-4a18-434b-b96e-0c9c912f0d1f,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

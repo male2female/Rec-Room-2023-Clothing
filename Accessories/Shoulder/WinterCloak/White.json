@@ -1,0 +1,11 @@
+{
+  "family": "WinterCloak",
+  "slot": "Shoulder",
+  "variant": "White",
+  "displayGuess": "WinterCloak (White)",
+  "combinationAsset": "WinterCloak_Shoulder_White_Combination.asset",
+  "combinationGuid": "VK4YBLXO10G2_aEl3ZQUGA,Hj8WnsdidE6rJeNyOmWUfg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

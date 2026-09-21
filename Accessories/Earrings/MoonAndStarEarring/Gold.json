@@ -1,0 +1,11 @@
+{
+  "family": "MoonAndStarEarring",
+  "slot": "Ear",
+  "variant": "Gold",
+  "displayGuess": "MoonAndStarEarring (Gold)",
+  "combinationAsset": "MoonAndStarEarring_Ear_Gold_Combination.asset",
+  "combinationGuid": "4lwF00Rvb0Kr3FJz07HlOQ",
+  "combinationGuidDashed": "d3055ce2-6f44-426f-abdc-5273d3b1e539",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

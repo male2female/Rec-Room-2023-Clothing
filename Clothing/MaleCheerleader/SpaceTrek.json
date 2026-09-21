@@ -1,0 +1,11 @@
+{
+  "family": "MaleCheerleader",
+  "slot": "Shirt",
+  "variant": "SpaceTrek",
+  "displayGuess": "MaleCheerleader (SpaceTrek)",
+  "combinationAsset": "MaleCheerleader_Shirt_SpaceTrek_Combination.asset",
+  "combinationGuid": "bc-aVFn__E61pyA4SvUoGA",
+  "combinationGuidDashed": "549acf6d-ff59-4efc-b5a7-20384af52818",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

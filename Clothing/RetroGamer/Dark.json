@@ -1,0 +1,11 @@
+{
+  "family": "RetroGamer",
+  "slot": "Shirt",
+  "variant": "Dark",
+  "displayGuess": "RetroGamer (Dark)",
+  "combinationAsset": "RetroGamer_Shirt_Dark_Combination.asset",
+  "combinationGuid": "PabSuDB_GEejMahhLvLkJg",
+  "combinationGuidDashed": "b8d2a63d-7f30-4718-a331-a8612ef2e426",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Headphones",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "Headphones (Blue)",
+  "combinationAsset": "Headphones_Hat_Blue_Combination.asset",
+  "combinationGuid": "8ANbOhNnO0yLQOCIBsDwfg,_Yq00H-NWUyQNvGxRunHbg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "LuauDress",
+  "slot": "Shirt",
+  "variant": "Cow",
+  "displayGuess": "LuauDress (Cow)",
+  "combinationAsset": "LuauDress_Shirt_Cow_Combination.asset",
+  "combinationGuid": "D9U3j_XgSUesfHtSNoAdLw",
+  "combinationGuidDashed": "8f37d50f-e0f5-4749-ac7c-7b5236801d2f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

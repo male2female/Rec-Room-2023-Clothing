@@ -1,0 +1,11 @@
+{
+  "family": "EquestrianJacket",
+  "slot": "Shirt",
+  "variant": "Denim",
+  "displayGuess": "EquestrianJacket (Denim)",
+  "combinationAsset": "EquestrianJacket_Shirt_Denim_Combination.asset",
+  "combinationGuid": "55901f12-d5b5-4fa8-b4c8-e479689ee39d,d344b8cc-85a8-4ace-9f92-38c84f396e99,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

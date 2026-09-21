@@ -1,0 +1,11 @@
+{
+  "family": "BookOfCosmicHorrors",
+  "slot": "Shoulder",
+  "variant": "OldeTyme",
+  "displayGuess": "BookOfCosmicHorrors (OldeTyme)",
+  "combinationAsset": "BookOfCosmicHorrors_Shoulder_OldeTyme_Combination.asset",
+  "combinationGuid": "7ziZgKKqXkuyo9v77chIlA",
+  "combinationGuidDashed": "809938ef-aaa2-4b5e-b2a3-dbfbedc84894",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

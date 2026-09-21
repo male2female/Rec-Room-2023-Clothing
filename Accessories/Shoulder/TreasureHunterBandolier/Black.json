@@ -1,0 +1,11 @@
+{
+  "family": "TreasureHunterBandolier",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "TreasureHunterBandolier (Black)",
+  "combinationAsset": "TreasureHunterBandolier_Shoulder_Black_Combination.asset",
+  "combinationGuid": "YTlnBuEjhUG1hSfAs8qwuw,IcR9Z_MxKkS9uh4uFYuFzQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

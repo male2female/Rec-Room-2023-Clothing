@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": null,
+  "variant": "Premium",
+  "displayGuess": "PoolFloatie (Premium)",
+  "combinationAsset": "PoolFloatie_Premium_Combination.asset",
+  "combinationGuid": "1Z24Obg1MEm6dC_blOy4IA",
+  "combinationGuidDashed": "39b89dd5-35b8-4930-ba74-2fdb94ecb820",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

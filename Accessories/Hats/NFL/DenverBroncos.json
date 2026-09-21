@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "DenverBroncos",
+  "displayGuess": "NFL (DenverBroncos)",
+  "combinationAsset": "NFL_Hat_DenverBroncos_Combination.asset",
+  "combinationGuid": "TtthSwdIq0CuSNOKDLsldg",
+  "combinationGuidDashed": "4b61db4e-4807-40ab-ae48-d38a0cbb2576",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

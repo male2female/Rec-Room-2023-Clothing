@@ -1,0 +1,11 @@
+{
+  "family": "HarnessHelmet",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "HarnessHelmet (White)",
+  "combinationAsset": "HarnessHelmet_Hat_White_Combination.asset",
+  "combinationGuid": "zlqLrGEa8E2WW9ey_szREA,PZHohDVX0U2frX13N4KYDQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

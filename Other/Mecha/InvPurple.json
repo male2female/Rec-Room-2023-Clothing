@@ -1,0 +1,11 @@
+{
+  "family": "Mecha",
+  "slot": null,
+  "variant": "InvPurple",
+  "displayGuess": "Mecha (InvPurple)",
+  "combinationAsset": "Mecha_InvPurple_Combination.asset",
+  "combinationGuid": "GhulL0k9q0euEooMTUKTHQ",
+  "combinationGuidDashed": "2fa51b1a-3d49-47ab-ae12-8a0c4d42931d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Samurai",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "Samurai (Red)",
+  "combinationAsset": "Samurai_Shirt_Red_Combination.asset",
+  "combinationGuid": "c7wiHNZ-X0KazEW4cY9PeA,5fVeR6S6R0yo_NcT-TB1lQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

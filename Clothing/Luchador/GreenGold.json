@@ -1,0 +1,11 @@
+{
+  "family": "Luchador",
+  "slot": "Shirt",
+  "variant": "GreenGold",
+  "displayGuess": "Luchador (GreenGold)",
+  "combinationAsset": "Luchador_Shirt_GreenGold_Combination.asset",
+  "combinationGuid": "7Jx8mrxoi0aQtZEb03CdRA,-IgxYllxkEyr7V1gosWXUA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

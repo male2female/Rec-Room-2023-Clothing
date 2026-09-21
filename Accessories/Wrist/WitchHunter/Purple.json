@@ -1,0 +1,11 @@
+{
+  "family": "WitchHunter",
+  "slot": "Wrist",
+  "variant": "Purple",
+  "displayGuess": "WitchHunter (Purple)",
+  "combinationAsset": "WitchHunter_Wrist_Purple_Combination.asset",
+  "combinationGuid": "71e5a0fe-fc8d-420b-af3b-e74160e0d1f3,5b8d9490-e5bc-480e-91bc-65d1797b52ad,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Grillmaster",
+  "slot": "Wrist",
+  "variant": "White",
+  "displayGuess": "Grillmaster (White)",
+  "combinationAsset": "Grillmaster_Wrist_White_Combination.asset",
+  "combinationGuid": "x3Q0vVeG_E6juqGM1o0SOQ,ojCeJ1VwtUelyVqFnUwK5A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

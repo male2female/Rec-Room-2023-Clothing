@@ -1,0 +1,11 @@
+{
+  "family": "HockeySet",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "HockeySet (White)",
+  "combinationAsset": "HockeySet_Hat_White_Combination.asset",
+  "combinationGuid": "Z6o5ySTsmkmwAGslDH7k4w",
+  "combinationGuidDashed": "c939aa67-ec24-499a-b000-6b250c7ee4e3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

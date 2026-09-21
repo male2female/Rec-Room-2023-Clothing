@@ -1,0 +1,11 @@
+{
+  "family": "QueenCrown",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "QueenCrown (Black)",
+  "combinationAsset": "QueenCrown_Hat_Black_Combination.asset",
+  "combinationGuid": "rmq1AOQvtUGOHvbPUximwg,XFuSiGupZ02Fut1Dxum_Iw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

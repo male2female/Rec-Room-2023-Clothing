@@ -1,0 +1,11 @@
+{
+  "family": "QueenCrown",
+  "slot": "Hat",
+  "variant": "GlitchedDiamond",
+  "displayGuess": "QueenCrown (GlitchedDiamond)",
+  "combinationAsset": "QueenCrown_Hat_GlitchedDiamond_Combination.asset",
+  "combinationGuid": "Zu3hTm6JyEa0sE72KtVGXg",
+  "combinationGuidDashed": "4ee1ed66-896e-46c8-b4b0-4ef62ad5465e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

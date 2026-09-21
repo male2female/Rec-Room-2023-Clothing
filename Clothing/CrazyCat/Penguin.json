@@ -1,0 +1,11 @@
+{
+  "family": "CrazyCat",
+  "slot": "Shirt",
+  "variant": "Penguin",
+  "displayGuess": "CrazyCat (Penguin)",
+  "combinationAsset": "CrazyCat_Shirt_Penguin_Combination.asset",
+  "combinationGuid": "4YH_0kN1ZUSVEQmCBiTt7Q",
+  "combinationGuidDashed": "d2ff81e1-7543-4465-9511-09820624eded",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

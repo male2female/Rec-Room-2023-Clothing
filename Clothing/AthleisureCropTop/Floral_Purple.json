@@ -1,0 +1,11 @@
+{
+  "family": "AthleisureCropTop",
+  "slot": "Shirt",
+  "variant": "Floral_Purple",
+  "displayGuess": "AthleisureCropTop (Floral_Purple)",
+  "combinationAsset": "AthleisureCropTop_Shirt_Floral_Purple_Combination.asset",
+  "combinationGuid": "SoQerU2dOUu9BdRBAsEllA",
+  "combinationGuidDashed": "ad1e844a-9d4d-4b39-bd05-d44102c12594",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

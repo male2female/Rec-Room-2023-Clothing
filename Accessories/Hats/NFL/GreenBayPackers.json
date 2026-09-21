@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Hat",
+  "variant": "GreenBayPackers",
+  "displayGuess": "NFL (GreenBayPackers)",
+  "combinationAsset": "NFL_Hat_GreenBayPackers_Combination.asset",
+  "combinationGuid": "sjY_XUbXAk6h2TGnjBGDeQ",
+  "combinationGuidDashed": "5d3f36b2-d746-4e02-a1d9-31a78c118379",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

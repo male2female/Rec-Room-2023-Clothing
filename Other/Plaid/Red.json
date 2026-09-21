@@ -1,0 +1,11 @@
+{
+  "family": "Plaid",
+  "slot": null,
+  "variant": "Red",
+  "displayGuess": "Plaid (Red)",
+  "combinationAsset": "Plaid_Red_Combination.asset",
+  "combinationGuid": "827a1538-51bb-4fef-99c1-7f1bebd9866c,cf119781-5bd9-4b85-9a0b-12e82e988c23,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

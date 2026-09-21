@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Citrine",
+  "displayGuess": "BirthstoneEarring (Citrine)",
+  "combinationAsset": "BirthstoneEarring_Ear_Citrine_Combination.asset",
+  "combinationGuid": "-YsxhNXLAk2qbeXMqwAqng,aNOhXS4nuUeqs0CVw6K7Hg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

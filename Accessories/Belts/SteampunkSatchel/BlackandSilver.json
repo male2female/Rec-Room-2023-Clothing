@@ -1,0 +1,11 @@
+{
+  "family": "SteampunkSatchel",
+  "slot": "Belt",
+  "variant": "BlackandSilver",
+  "displayGuess": "SteampunkSatchel (BlackandSilver)",
+  "combinationAsset": "SteampunkSatchel_Belt_BlackandSilver_Combination.asset",
+  "combinationGuid": "bH3dgwnwt0KEw8oCDVIcEQ,erPtGSgq_kmqfeSlZWw4VA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

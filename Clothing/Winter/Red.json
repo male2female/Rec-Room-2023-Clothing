@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "Winter (Red)",
+  "combinationAsset": "Winter_Shirt_Red_Combination.asset",
+  "combinationGuid": "LDqcPkvNXE2gFXxbpNkfhA,Too5jpb1w0iQenkjRRS-QA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

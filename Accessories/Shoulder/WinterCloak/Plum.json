@@ -1,0 +1,11 @@
+{
+  "family": "WinterCloak",
+  "slot": "Shoulder",
+  "variant": "Plum",
+  "displayGuess": "WinterCloak (Plum)",
+  "combinationAsset": "WinterCloak_Shoulder_Plum_Combination.asset",
+  "combinationGuid": "A7l6Q2clsk2XyKf62D3dHA,Hj8WnsdidE6rJeNyOmWUfg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

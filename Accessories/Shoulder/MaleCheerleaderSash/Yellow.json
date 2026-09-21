@@ -1,0 +1,11 @@
+{
+  "family": "MaleCheerleaderSash",
+  "slot": "Shoulder",
+  "variant": "Yellow",
+  "displayGuess": "MaleCheerleaderSash (Yellow)",
+  "combinationAsset": "MaleCheerleaderSash_Shoulder_Yellow_Combination.asset",
+  "combinationGuid": "EaJMu_M0OUyUZ_3x-X-d7Q,OFIqUvE4r0yMLHSMnlWMhw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "DrumMajor",
+  "slot": "Wrist",
+  "variant": "Purple",
+  "displayGuess": "DrumMajor (Purple)",
+  "combinationAsset": "DrumMajor_Wrist_Purple_Combination.asset",
+  "combinationGuid": "8053b5e5-0f67-4329-a45d-1ee9fc830820,6b38ab79-142b-446e-978c-ad829ade8823,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

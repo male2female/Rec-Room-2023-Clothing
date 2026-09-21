@@ -1,0 +1,11 @@
+{
+  "family": "PoolFloatie",
+  "slot": "Belt",
+  "variant": "BirdHead_RubberDucky",
+  "displayGuess": "PoolFloatie (BirdHead_RubberDucky)",
+  "combinationAsset": "PoolFloatie_Belt_BirdHead_RubberDucky_Combination.asset",
+  "combinationGuid": "9WpjdWJbhkCoEgDljqZkdw,Uyn3QOl1zkGR2_OUOhNWjQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

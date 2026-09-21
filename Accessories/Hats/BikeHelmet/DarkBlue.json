@@ -1,0 +1,11 @@
+{
+  "family": "BikeHelmet",
+  "slot": "Hat",
+  "variant": "DarkBlue",
+  "displayGuess": "BikeHelmet (DarkBlue)",
+  "combinationAsset": "BikeHelmet_Hat_DarkBlue_Combination.asset",
+  "combinationGuid": "XNq4Cns4lEGydtktdsXlmQ,5fd9e83a-cfaf-4c98-bd31-91a7484c26dd,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

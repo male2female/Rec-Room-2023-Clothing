@@ -1,0 +1,11 @@
+{
+  "family": "Flapper",
+  "slot": "Shirt",
+  "variant": "Gold",
+  "displayGuess": "Flapper (Gold)",
+  "combinationAsset": "Flapper_Shirt_Gold_Combination.asset",
+  "combinationGuid": "b6c25a3b-125b-4aab-bed0-e6e5ced2c21c,a240d44f-963d-4d35-b22f-980938c7788d,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

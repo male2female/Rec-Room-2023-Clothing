@@ -1,0 +1,11 @@
+{
+  "family": "FlapperGlove",
+  "slot": "Wrist",
+  "variant": "Black",
+  "displayGuess": "FlapperGlove (Black)",
+  "combinationAsset": "FlapperGlove_Wrist_Black_Combination.asset",
+  "combinationGuid": "30c61e63-5e09-4a6f-8915-1e1fe4d55cf0,0e42108e-3b08-49b4-86c0-7984719e8380,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "HangInThere",
+  "displayGuess": "MaleTShirt (HangInThere)",
+  "combinationAsset": "MaleTShirt_Shirt_HangInThere_Combination.asset",
+  "combinationGuid": "815138e6-b0dc-459c-9538-20f5bbd37d6b,0440f08f-ef1d-49d8-942b-523056e8bb45,8f19d7f9-4f28-48ab-a1c5-d8f4f788514c",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

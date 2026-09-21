@@ -1,0 +1,11 @@
+{
+  "family": "BikeJersey",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "BikeJersey (Blue)",
+  "combinationAsset": "BikeJersey_Shirt_Blue_Combination.asset",
+  "combinationGuid": "c5884778-a87f-4612-9717-86fbb65d440f,1695608b-e9cc-4a03-b56d-0f09d2804379,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

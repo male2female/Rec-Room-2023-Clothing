@@ -1,0 +1,11 @@
+{
+  "family": "ChunkyScarf",
+  "slot": "Neck",
+  "variant": "Purple",
+  "displayGuess": "ChunkyScarf (Purple)",
+  "combinationAsset": "ChunkyScarf_Neck_Purple_Combination.asset",
+  "combinationGuid": "RvVVu7gWUEmofuJiZqevlg,i0itjI0qz0Cdn-es5NBScw,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

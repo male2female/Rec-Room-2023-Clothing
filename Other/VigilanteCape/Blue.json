@@ -1,0 +1,11 @@
+{
+  "family": "VigilanteCape",
+  "slot": null,
+  "variant": "Blue",
+  "displayGuess": "VigilanteCape (Blue)",
+  "combinationAsset": "VigilanteCape_Blue_Combination.asset",
+  "combinationGuid": "EjNmQJBRnUet_ovEQ3HnDA",
+  "combinationGuidDashed": "40663312-5190-479d-adfe-8bc44371e70c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

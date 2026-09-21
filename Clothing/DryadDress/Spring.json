@@ -1,0 +1,11 @@
+{
+  "family": "DryadDress",
+  "slot": "Shirt",
+  "variant": "Spring",
+  "displayGuess": "DryadDress (Spring)",
+  "combinationAsset": "DryadDress_Shirt_Spring_Combination.asset",
+  "combinationGuid": "n2pZHS8A3kSgyFUCI_-8TA,w-vooMawWU6_4spdgBYufA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

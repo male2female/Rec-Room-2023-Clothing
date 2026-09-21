@@ -1,0 +1,11 @@
+{
+  "family": "RecTrooper",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "RecTrooper (Black)",
+  "combinationAsset": "RecTrooper_Hat_Black_Combination.asset",
+  "combinationGuid": "SMeMLRUF-UWrOcXYJzgScw,m-fk_L_e4EiOMUZ_UUjMjg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

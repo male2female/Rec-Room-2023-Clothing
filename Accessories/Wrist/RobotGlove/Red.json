@@ -1,0 +1,11 @@
+{
+  "family": "RobotGlove",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "RobotGlove (Red)",
+  "combinationAsset": "RobotGlove_Wrist_Red_Combination.asset",
+  "combinationGuid": "gIDTSqjSvECgxxd4YtOZIA",
+  "combinationGuidDashed": "4ad38080-d2a8-40bc-a0c7-177862d39920",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

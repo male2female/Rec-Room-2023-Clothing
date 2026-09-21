@@ -1,0 +1,11 @@
+{
+  "family": "Beret",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "Beret (White)",
+  "combinationAsset": "Beret_Hat_White_Combination.asset",
+  "combinationGuid": "_psc7WCgOk2JzRQwuFAqNw,FWL8ZeMe9EerdB0_Fya3AA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

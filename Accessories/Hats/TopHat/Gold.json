@@ -1,0 +1,11 @@
+{
+  "family": "TopHat",
+  "slot": "Hat",
+  "variant": "Gold",
+  "displayGuess": "TopHat (Gold)",
+  "combinationAsset": "TopHat_Hat_Gold_Combination.asset",
+  "combinationGuid": "Em__GeYWaU2pAEqWYCBKpA,DG83ruIdI0Wu-GSRg4icYQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

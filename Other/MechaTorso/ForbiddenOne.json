@@ -1,0 +1,11 @@
+{
+  "family": "MechaTorso",
+  "slot": null,
+  "variant": "ForbiddenOne",
+  "displayGuess": "MechaTorso (ForbiddenOne)",
+  "combinationAsset": "MechaTorso_ForbiddenOne_Combination.asset",
+  "combinationGuid": "eG1Lf1vG60qNQiCBRsAhqA",
+  "combinationGuidDashed": "7f4b6d78-c65b-4aeb-8d42-208146c021a8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

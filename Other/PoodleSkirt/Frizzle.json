@@ -1,0 +1,11 @@
+{
+  "family": "PoodleSkirt",
+  "slot": null,
+  "variant": "Frizzle",
+  "displayGuess": "PoodleSkirt (Frizzle)",
+  "combinationAsset": "PoodleSkirt_Frizzle_Combination.asset",
+  "combinationGuid": "tPAJqFHiX0yUQpDOE0MJ6A",
+  "combinationGuidDashed": "a809f0b4-e251-4c5f-9442-90ce134309e8",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

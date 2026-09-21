@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Hat",
+  "variant": "Pink",
+  "displayGuess": "Cowboy (Pink)",
+  "combinationAsset": "Cowboy_Hat_Pink_Combination.asset",
+  "combinationGuid": "cNarx7yecE2gk-7mYaoHwA",
+  "combinationGuidDashed": "c7abd670-9ebc-4d70-a093-eee661aa07c0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

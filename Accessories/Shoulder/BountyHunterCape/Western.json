@@ -1,0 +1,11 @@
+{
+  "family": "BountyHunterCape",
+  "slot": "Shoulder",
+  "variant": "Western",
+  "displayGuess": "BountyHunterCape (Western)",
+  "combinationAsset": "BountyHunterCape_Shoulder_Western_Combination.asset",
+  "combinationGuid": "2N0meQR4GEGu9Yy61C0Lwg",
+  "combinationGuidDashed": "7926ddd8-7804-4118-aef5-8cbad42d0bc2",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

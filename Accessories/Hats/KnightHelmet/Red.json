@@ -1,0 +1,11 @@
+{
+  "family": "KnightHelmet",
+  "slot": "Hat",
+  "variant": "Red",
+  "displayGuess": "KnightHelmet (Red)",
+  "combinationAsset": "KnightHelmet_Hat_Red_Combination.asset",
+  "combinationGuid": "59866578-d4e0-417b-9483-233ab108b1ac,0dd6596c-b4ea-4d55-a219-e1f44e4a376d,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

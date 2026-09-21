@@ -1,0 +1,11 @@
+{
+  "family": "Pumpkin",
+  "slot": "Wrist",
+  "variant": "JackOLantern_White",
+  "displayGuess": "Pumpkin (JackOLantern_White)",
+  "combinationAsset": "Pumpkin_Wrist_JackOLantern_White_Combination.asset",
+  "combinationGuid": "Mnpd7r3eu0CNmZYSPTMASg",
+  "combinationGuidDashed": "ee5d7a32-debd-40bb-8d99-96123d33004a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Wizard",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "Wizard (Black)",
+  "combinationAsset": "Wizard_Hat_Black_Combination.asset",
+  "combinationGuid": "7afe1bb0-5ca9-4263-8f85-49d3a18353c7,abdf525b-b871-41be-a1c8-810f49740ad4,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

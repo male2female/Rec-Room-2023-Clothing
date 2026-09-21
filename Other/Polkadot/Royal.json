@@ -1,0 +1,11 @@
+{
+  "family": "Polkadot",
+  "slot": null,
+  "variant": "Royal",
+  "displayGuess": "Polkadot (Royal)",
+  "combinationAsset": "Polkadot_Royal_Combination.asset",
+  "combinationGuid": "6dd95046-acf8-42fe-ab78-80a334096a9d,b292eb4b-07e3-4a48-99b5-3c6587a1e02e,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Skater",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Skater (Green)",
+  "combinationAsset": "Skater_Shirt_Green_Combination.asset",
+  "combinationGuid": "qwQ8OV3E60WG_VEl9ECHoA",
+  "combinationGuidDashed": "393c04ab-c45d-45eb-86fd-5125f44087a0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

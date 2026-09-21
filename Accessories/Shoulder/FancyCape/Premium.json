@@ -1,0 +1,11 @@
+{
+  "family": "FancyCape",
+  "slot": "Shoulder",
+  "variant": "Premium",
+  "displayGuess": "FancyCape (Premium)",
+  "combinationAsset": "FancyCape_Shoulder_Premium_Combination.asset",
+  "combinationGuid": "l2BbgbHCe0S_SDUbfmpSeQ,XHJ0lW4zYkGcL5UyI1HfEg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

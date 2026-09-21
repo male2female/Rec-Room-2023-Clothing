@@ -1,0 +1,11 @@
+{
+  "family": "Cowboy",
+  "slot": "Hat",
+  "variant": "Cherry",
+  "displayGuess": "Cowboy (Cherry)",
+  "combinationAsset": "Cowboy_Hat_Cherry_Combination.asset",
+  "combinationGuid": "624c85e5-095a-48b6-85fb-c9bbade19a8d,54778d93-2cff-48db-b25b-65c08b0e5be8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

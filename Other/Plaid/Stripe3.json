@@ -1,0 +1,11 @@
+{
+  "family": "Plaid",
+  "slot": null,
+  "variant": "Stripe3",
+  "displayGuess": "Plaid (Stripe3)",
+  "combinationAsset": "Plaid_Stripe3_Combination.asset",
+  "combinationGuid": "5c4a2b35-0e1c-44de-8c3a-96d4a6458b1b,cf119781-5bd9-4b85-9a0b-12e82e988c23,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

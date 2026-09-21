@@ -1,0 +1,11 @@
+{
+  "family": "Skater",
+  "slot": "Shirt",
+  "variant": "White",
+  "displayGuess": "Skater (White)",
+  "combinationAsset": "Skater_Shirt_White_Combination.asset",
+  "combinationGuid": "7IYi1twr6kO3xJiQo5CB4w",
+  "combinationGuidDashed": "d62286ec-2bdc-43ea-b7c4-9890a39081e3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

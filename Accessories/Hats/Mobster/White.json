@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "Mobster (White)",
+  "combinationAsset": "Mobster_Hat_White_Combination.asset",
+  "combinationGuid": "40283127-2ffc-4989-82f6-29c3381bf9e2,d759c88d-a159-4c26-86dd-b054bb05b3ed,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

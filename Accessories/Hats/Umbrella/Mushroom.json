@@ -1,0 +1,11 @@
+{
+  "family": "Umbrella",
+  "slot": "Hat",
+  "variant": "Mushroom",
+  "displayGuess": "Umbrella (Mushroom)",
+  "combinationAsset": "Umbrella_Hat_Mushroom_Combination.asset",
+  "combinationGuid": "U-KT3nJlW0-JT8GSQuQXhg",
+  "combinationGuidDashed": "de93e253-6572-4f5b-894f-c19242e41786",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

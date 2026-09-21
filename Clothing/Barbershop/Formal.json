@@ -1,0 +1,11 @@
+{
+  "family": "Barbershop",
+  "slot": "Shirt",
+  "variant": "Formal",
+  "displayGuess": "Barbershop (Formal)",
+  "combinationAsset": "Barbershop_Shirt_Formal_Combination.asset",
+  "combinationGuid": "a5925738-a451-4f25-b622-ccbfa12bd88c,15edb8d7-2ff6-4170-a7e6-acd9e965cab5,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

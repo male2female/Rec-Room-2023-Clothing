@@ -1,0 +1,11 @@
+{
+  "family": "Safari",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "Safari (Green)",
+  "combinationAsset": "Safari_Hat_Green_Combination.asset",
+  "combinationGuid": "49bbd11a-e5c9-47ff-b04d-72eb321e8a57,0dabda0d-842c-4d39-a6b9-a8ca3ec20825,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Wrist",
+  "variant": "Premium",
+  "displayGuess": "Mobster (Premium)",
+  "combinationAsset": "Mobster_Wrist_Premium_Combination.asset",
+  "combinationGuid": "6ItbfT4igECHl2eLuhGLIA",
+  "combinationGuidDashed": "7d5b8be8-223e-4080-8797-678bba118b20",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineHelmet",
+  "slot": "Hat",
+  "variant": "Light",
+  "displayGuess": "SpaceMarineHelmet (Light)",
+  "combinationAsset": "SpaceMarineHelmet_Hat_Light_Combination.asset",
+  "combinationGuid": "68273c9e-96d6-4ddb-aaab-d99229e864d5,b94411f6-5b71-48d0-ace1-ac6f63167065,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

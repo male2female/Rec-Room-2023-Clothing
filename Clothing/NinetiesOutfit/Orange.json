@@ -1,0 +1,11 @@
+{
+  "family": "NinetiesOutfit",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "NinetiesOutfit (Orange)",
+  "combinationAsset": "NinetiesOutfit_Shirt_Orange_Combination.asset",
+  "combinationGuid": "V4CVhCB8eU-nrfYgticVOA,u9yHtj_tfkuowGp0h_YpFg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

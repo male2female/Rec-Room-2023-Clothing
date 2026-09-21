@@ -1,0 +1,11 @@
+{
+  "family": "Jester",
+  "slot": null,
+  "variant": "Glove_TwoToned",
+  "displayGuess": "Jester (Glove_TwoToned)",
+  "combinationAsset": "Jester_Glove_TwoToned_Combination.asset",
+  "combinationGuid": "YzJL2s9S0Umv5XH_g5PG_g",
+  "combinationGuidDashed": "da4b3263-52cf-49d1-afe5-71ff8393c6fe",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

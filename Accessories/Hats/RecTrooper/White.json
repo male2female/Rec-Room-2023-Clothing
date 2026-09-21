@@ -1,0 +1,11 @@
+{
+  "family": "RecTrooper",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "RecTrooper (White)",
+  "combinationAsset": "RecTrooper_Hat_White_Combination.asset",
+  "combinationGuid": "GSO7t0cNs0SIbU-jQjnX5g",
+  "combinationGuidDashed": "b7bb2319-0d47-44b3-886d-4fa34239d7e6",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

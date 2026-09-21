@@ -1,0 +1,11 @@
+{
+  "family": "Safari",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Safari (Green)",
+  "combinationAsset": "Safari_Shirt_Green_Combination.asset",
+  "combinationGuid": "49bbd11a-e5c9-47ff-b04d-72eb321e8a57,84c016ad-133f-45e3-a412-cac35612540b,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

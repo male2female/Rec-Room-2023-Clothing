@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "Laser_Unicorn_Purple",
+  "displayGuess": "MaleTShirt (Laser_Unicorn_Purple)",
+  "combinationAsset": "MaleTShirt_Shirt_Laser_Unicorn_Purple_Combination.asset",
+  "combinationGuid": "befa2f11-b9fd-457c-b1d5-9d82e90b70ce,0440f08f-ef1d-49d8-942b-523056e8bb45,770e7674-6f9b-41f8-b023-ae79738db0d3",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

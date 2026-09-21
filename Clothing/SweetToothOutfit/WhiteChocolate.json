@@ -1,0 +1,11 @@
+{
+  "family": "SweetToothOutfit",
+  "slot": "Shirt",
+  "variant": "WhiteChocolate",
+  "displayGuess": "SweetToothOutfit (WhiteChocolate)",
+  "combinationAsset": "SweetToothOutfit_Shirt_WhiteChocolate_Combination.asset",
+  "combinationGuid": "qVeFYveZQEmobBTEMg1RTw",
+  "combinationGuidDashed": "628557a9-99f7-4940-a86c-14c4320d514f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

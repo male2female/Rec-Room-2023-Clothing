@@ -1,0 +1,11 @@
+{
+  "family": "SkeletonMask",
+  "slot": "Eye",
+  "variant": "Cyborg_Pink",
+  "displayGuess": "SkeletonMask (Cyborg_Pink)",
+  "combinationAsset": "SkeletonMask_Eye_Cyborg_Pink_Combination.asset",
+  "combinationGuid": "FO32QjZ17E66PiSEDyf0xA",
+  "combinationGuidDashed": "42f6ed14-7536-4eec-ba3e-24840f27f4c4",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

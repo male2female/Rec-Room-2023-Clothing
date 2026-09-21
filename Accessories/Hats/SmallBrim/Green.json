@@ -1,0 +1,11 @@
+{
+  "family": "SmallBrim",
+  "slot": "Hat",
+  "variant": "Green",
+  "displayGuess": "SmallBrim (Green)",
+  "combinationAsset": "SmallBrim_Hat_Green_Combination.asset",
+  "combinationGuid": "67fc9269-8dd8-4d6f-b594-c77e716f2482,65ed43ff-dfc4-4cab-b0b9-77dc94165e24,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

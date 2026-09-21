@@ -1,0 +1,11 @@
+{
+  "family": "Headphones_Mic",
+  "slot": "Hat",
+  "variant": "Invasion",
+  "displayGuess": "Headphones_Mic (Invasion)",
+  "combinationAsset": "Headphones_Mic_Hat_Invasion_Combination.asset",
+  "combinationGuid": "u2nh8EAZT02TxPTWVl59UA",
+  "combinationGuidDashed": "f0e169bb-1940-4d4f-93c4-f4d6565e7d50",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

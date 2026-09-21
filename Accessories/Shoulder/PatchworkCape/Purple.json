@@ -1,0 +1,11 @@
+{
+  "family": "PatchworkCape",
+  "slot": "Shoulder",
+  "variant": "Purple",
+  "displayGuess": "PatchworkCape (Purple)",
+  "combinationAsset": "PatchworkCape_Shoulder_Purple_Combination.asset",
+  "combinationGuid": "gYXppJSpDUG9MB0xej4-kQ",
+  "combinationGuidDashed": "a4e98581-a994-410d-bd30-1d317a3e3e91",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

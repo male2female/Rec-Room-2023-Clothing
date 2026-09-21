@@ -1,0 +1,11 @@
+{
+  "family": "BusinessTie",
+  "slot": "Neck",
+  "variant": "Valentine",
+  "displayGuess": "BusinessTie (Valentine)",
+  "combinationAsset": "BusinessTie_Neck_Valentine_Combination.asset",
+  "combinationGuid": "31jelNWFyk6FlWt4HyPAlw,9zGwmle_yk25V-KnC_PJEg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

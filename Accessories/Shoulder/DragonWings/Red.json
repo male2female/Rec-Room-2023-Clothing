@@ -1,0 +1,11 @@
+{
+  "family": "DragonWings",
+  "slot": "Shoulder",
+  "variant": "Red",
+  "displayGuess": "DragonWings (Red)",
+  "combinationAsset": "DragonWings_Shoulder_Red_Combination.asset",
+  "combinationGuid": "cbk6h_-1Y0exRpGyrQMDMA",
+  "combinationGuidDashed": "873ab971-b5ff-4763-b146-91b2ad030330",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

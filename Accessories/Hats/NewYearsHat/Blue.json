@@ -1,0 +1,11 @@
+{
+  "family": "NewYearsHat",
+  "slot": "Hat",
+  "variant": "Blue",
+  "displayGuess": "NewYearsHat (Blue)",
+  "combinationAsset": "NewYearsHat_Hat_Blue_Combination.asset",
+  "combinationGuid": "69vv21jfTUu1E_LjK5bytg,MrrsmY0J0EKduH-f5wUj6g,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

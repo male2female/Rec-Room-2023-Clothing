@@ -1,0 +1,11 @@
+{
+  "family": "PurpleJacket",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "PurpleJacket (Black)",
+  "combinationAsset": "PurpleJacket_Shirt_Black_Combination.asset",
+  "combinationGuid": "8cab8cc6-9a2d-434c-8b72-e66edbdd223c,3ba69a39-a4e7-4505-bae7-8db31360ec1c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

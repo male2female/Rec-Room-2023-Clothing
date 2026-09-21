@@ -1,0 +1,11 @@
+{
+  "family": "Mobster",
+  "slot": "Wrist",
+  "variant": "HerringBoneTan",
+  "displayGuess": "Mobster (HerringBoneTan)",
+  "combinationAsset": "Mobster_Wrist_HerringBoneTan_Combination.asset",
+  "combinationGuid": "531b4297-b38b-4362-9854-4f2139ea43be,c2a9c007-2748-4fa2-ab9b-0081eef792f1,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

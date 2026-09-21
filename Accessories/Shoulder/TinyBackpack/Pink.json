@@ -1,0 +1,11 @@
+{
+  "family": "TinyBackpack",
+  "slot": "Shoulder",
+  "variant": "Pink",
+  "displayGuess": "TinyBackpack (Pink)",
+  "combinationAsset": "TinyBackpack_Shoulder_Pink_Combination.asset",
+  "combinationGuid": "T9XdU5xAFEqX3QV__SjXYA",
+  "combinationGuidDashed": "53ddd54f-409c-4a14-97dd-057ffd28d760",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

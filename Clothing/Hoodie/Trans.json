@@ -1,0 +1,11 @@
+{
+  "family": "Hoodie",
+  "slot": "Shirt",
+  "variant": "Trans",
+  "displayGuess": "Hoodie (Trans)",
+  "combinationAsset": "Hoodie_Shirt_Trans_Combination.asset",
+  "combinationGuid": "D_Xmo0rOzkS-kgq1CYXt3g,tnCJp2eDI0SwjVfJMhk3LQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

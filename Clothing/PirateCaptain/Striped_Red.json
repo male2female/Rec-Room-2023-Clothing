@@ -1,0 +1,11 @@
+{
+  "family": "PirateCaptain",
+  "slot": "Shirt",
+  "variant": "Striped_Red",
+  "displayGuess": "PirateCaptain (Striped_Red)",
+  "combinationAsset": "PirateCaptain_Shirt_Striped_Red_Combination.asset",
+  "combinationGuid": "556141f7-6fbc-4065-9faa-8d8240a93d7f,00ac4e37-6eac-4ed5-b46c-2c075038bc3f,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

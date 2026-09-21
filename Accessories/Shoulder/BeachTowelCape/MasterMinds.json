@@ -1,0 +1,11 @@
+{
+  "family": "BeachTowelCape",
+  "slot": "Shoulder",
+  "variant": "MasterMinds",
+  "displayGuess": "BeachTowelCape (MasterMinds)",
+  "combinationAsset": "BeachTowelCape_Shoulder_MasterMinds_Combination.asset",
+  "combinationGuid": "pEWioft3gkOMWS4tZFping,gOw6NOX-QUegt4mxjtfpfA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

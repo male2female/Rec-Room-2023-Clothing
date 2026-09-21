@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Amethyst",
+  "displayGuess": "VampireHunter (Amethyst)",
+  "combinationAsset": "VampireHunter_Neck_Amethyst_Combination.asset",
+  "combinationGuid": "poqpmOloPUKotHH9p0YAyw,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

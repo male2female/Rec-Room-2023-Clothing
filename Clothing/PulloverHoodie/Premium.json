@@ -1,0 +1,11 @@
+{
+  "family": "PulloverHoodie",
+  "slot": "Shirt",
+  "variant": "Premium",
+  "displayGuess": "PulloverHoodie (Premium)",
+  "combinationAsset": "PulloverHoodie_Shirt_Premium_Combination.asset",
+  "combinationGuid": "jir883uk5k-cEgyAPDtQww",
+  "combinationGuidDashed": "f3fc2a8e-a47b-4fe6-9c12-0c803c3b50c3",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

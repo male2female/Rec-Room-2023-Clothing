@@ -1,0 +1,11 @@
+{
+  "family": "OverallsSkirt",
+  "slot": "Shirt",
+  "variant": "Red",
+  "displayGuess": "OverallsSkirt (Red)",
+  "combinationAsset": "OverallsSkirt_Shirt_Red_Combination.asset",
+  "combinationGuid": "sCj73U9p5E6DQreOsbutqw",
+  "combinationGuidDashed": "ddfb28b0-694f-4ee4-8342-b78eb1bbadab",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

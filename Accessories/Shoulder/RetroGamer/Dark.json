@@ -1,0 +1,11 @@
+{
+  "family": "RetroGamer",
+  "slot": "Shoulder",
+  "variant": "Dark",
+  "displayGuess": "RetroGamer (Dark)",
+  "combinationAsset": "RetroGamer_Shoulder_Dark_Combination.asset",
+  "combinationGuid": "EM1x0p66L0Gf6BNBP8-1kA",
+  "combinationGuidDashed": "d271cd10-ba9e-412f-9fe8-13413fcfb590",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

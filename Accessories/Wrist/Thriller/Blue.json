@@ -1,0 +1,11 @@
+{
+  "family": "Thriller",
+  "slot": "Wrist",
+  "variant": "Blue",
+  "displayGuess": "Thriller (Blue)",
+  "combinationAsset": "Thriller_Wrist_Blue_Combination.asset",
+  "combinationGuid": "Q1knTl-n-EeAUwotFspNew,FHB5XHwNWka7aUt5km3LNg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "MagicalGirl",
+  "slot": "Neck",
+  "variant": "Blue",
+  "displayGuess": "MagicalGirl (Blue)",
+  "combinationAsset": "MagicalGirl_Neck_Blue_Combination.asset",
+  "combinationGuid": "Ot9EG-FfKEauT0u6pSZuWg,M5z2wk-GDkOAjvZzqsfcNQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

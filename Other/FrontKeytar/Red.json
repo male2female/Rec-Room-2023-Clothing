@@ -1,0 +1,11 @@
+{
+  "family": "FrontKeytar",
+  "slot": null,
+  "variant": "Red",
+  "displayGuess": "FrontKeytar (Red)",
+  "combinationAsset": "FrontKeytar_Red_Combination.asset",
+  "combinationGuid": "GCwZMIr720iH3TszOb6SQA",
+  "combinationGuidDashed": "30192c18-fb8a-48db-87dd-3b3339be9240",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

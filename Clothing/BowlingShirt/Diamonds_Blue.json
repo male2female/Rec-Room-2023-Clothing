@@ -1,0 +1,11 @@
+{
+  "family": "BowlingShirt",
+  "slot": "Shirt",
+  "variant": "Diamonds_Blue",
+  "displayGuess": "BowlingShirt (Diamonds_Blue)",
+  "combinationAsset": "BowlingShirt_Shirt_Diamonds_Blue_Combination.asset",
+  "combinationGuid": "KqjQ1xRpokGLKp9GVN1EFA,VO_3cgqQqUOTz30TVUxrFA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

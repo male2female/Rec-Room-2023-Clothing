@@ -1,0 +1,11 @@
+{
+  "family": "FemaleTShirt",
+  "slot": "Shirt",
+  "variant": "Orange",
+  "displayGuess": "FemaleTShirt (Orange)",
+  "combinationAsset": "FemaleTShirt_Shirt_Orange_Combination.asset",
+  "combinationGuid": "95e4cc30-cb68-473d-a395-feadf5b51512,05f0ee6e-c824-470e-9178-5ed576c6fe0c,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

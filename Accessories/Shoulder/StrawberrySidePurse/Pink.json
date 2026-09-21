@@ -1,0 +1,11 @@
+{
+  "family": "StrawberrySidePurse",
+  "slot": "Shoulder",
+  "variant": "Pink",
+  "displayGuess": "StrawberrySidePurse (Pink)",
+  "combinationAsset": "StrawberrySidePurse_Shoulder_Pink_Combination.asset",
+  "combinationGuid": "jzGTu3tSB0WM430AiMGAAw",
+  "combinationGuidDashed": "bb93318f-527b-4507-8ce3-7d0088c18003",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

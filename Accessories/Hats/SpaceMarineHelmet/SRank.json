@@ -1,0 +1,11 @@
+{
+  "family": "SpaceMarineHelmet",
+  "slot": "Hat",
+  "variant": "SRank",
+  "displayGuess": "SpaceMarineHelmet (SRank)",
+  "combinationAsset": "SpaceMarineHelmet_Hat_SRank_Combination.asset",
+  "combinationGuid": "4ElTihrMA0ipcgeb9UG01Q,b94411f6-5b71-48d0-ace1-ac6f63167065,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

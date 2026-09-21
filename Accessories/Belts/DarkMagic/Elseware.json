@@ -1,0 +1,11 @@
+{
+  "family": "DarkMagic",
+  "slot": "Belt",
+  "variant": "Elseware",
+  "displayGuess": "DarkMagic (Elseware)",
+  "combinationAsset": "DarkMagic_Belt_Elseware_Combination.asset",
+  "combinationGuid": "zQgy7h3CO0a02zJfhA9wXA",
+  "combinationGuidDashed": "ee3208cd-c21d-463b-b4db-325f840f705c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

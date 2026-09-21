@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Peridot",
+  "displayGuess": "BirthstoneEarring (Peridot)",
+  "combinationAsset": "BirthstoneEarring_Ear_Peridot_Combination.asset",
+  "combinationGuid": "ZsWc8wRafEGl3B7cr6UkzA,ByIfwCtDwU-p9rEfqpjfGg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

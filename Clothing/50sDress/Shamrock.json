@@ -1,0 +1,11 @@
+{
+  "family": "50sDress",
+  "slot": "Shirt",
+  "variant": "Shamrock",
+  "displayGuess": "50sDress (Shamrock)",
+  "combinationAsset": "50sDress_Shirt_Shamrock_Combination.asset",
+  "combinationGuid": "K17dIz_TRUq5D50NBfLjyw,3drRcfyKkku0qGwCy16m9Q,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

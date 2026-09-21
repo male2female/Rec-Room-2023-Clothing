@@ -1,0 +1,11 @@
+{
+  "family": "MaleTShirt",
+  "slot": "Shirt",
+  "variant": "HappyTree_Purple",
+  "displayGuess": "MaleTShirt (HappyTree_Purple)",
+  "combinationAsset": "MaleTShirt_Shirt_HappyTree_Purple_Combination.asset",
+  "combinationGuid": "TtncjvYcK0qHqWN-IMMoqg,0440f08f-ef1d-49d8-942b-523056e8bb45,hHhjZeLcaUGN1OyFoYHznw",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

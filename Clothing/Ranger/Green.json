@@ -1,0 +1,11 @@
+{
+  "family": "Ranger",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Ranger (Green)",
+  "combinationAsset": "Ranger_Shirt_Green_Combination.asset",
+  "combinationGuid": "b415fe60-3e9d-4f4d-a53a-ca15eac6af7d,d21e1b6f-9c9e-42b4-bad5-201ec43161e9,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

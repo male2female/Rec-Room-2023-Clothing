@@ -1,0 +1,11 @@
+{
+  "family": "BirthstoneEarring",
+  "slot": "Ear",
+  "variant": "Ruby",
+  "displayGuess": "BirthstoneEarring (Ruby)",
+  "combinationAsset": "BirthstoneEarring_Ear_Ruby_Combination.asset",
+  "combinationGuid": "adwzLAQEykK8D5hZGQ6yiA,0Nca5nBUpUquFhExd5dxcQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

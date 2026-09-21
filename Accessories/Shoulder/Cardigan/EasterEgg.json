@@ -1,0 +1,11 @@
+{
+  "family": "Cardigan",
+  "slot": "Shoulder",
+  "variant": "EasterEgg",
+  "displayGuess": "Cardigan (EasterEgg)",
+  "combinationAsset": "Cardigan_Shoulder_EasterEgg_Combination.asset",
+  "combinationGuid": "oQspLDUDxEaiudqzXY7gbg",
+  "combinationGuidDashed": "2c290ba1-0335-46c4-a2b9-dab35d8ee06e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

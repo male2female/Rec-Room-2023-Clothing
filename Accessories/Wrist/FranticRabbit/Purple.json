@@ -1,0 +1,11 @@
+{
+  "family": "FranticRabbit",
+  "slot": "Wrist",
+  "variant": "Purple",
+  "displayGuess": "FranticRabbit (Purple)",
+  "combinationAsset": "FranticRabbit_Wrist_Purple_Combination.asset",
+  "combinationGuid": "aO5Q4BPpuU-bsNavGii40A",
+  "combinationGuidDashed": "e050ee68-e913-4fb9-9bb0-d6af1a28b8d0",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

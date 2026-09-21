@@ -1,0 +1,11 @@
+{
+  "family": "Witch",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Witch (Green)",
+  "combinationAsset": "Witch_Shirt_Green_Combination.asset",
+  "combinationGuid": "rZ45-lecBESqHaLX0c7NAw,iDxHI0T4Gkifs3_GY5gdjQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "CatHat",
+  "slot": "Hat",
+  "variant": "CrazyCatMagenta",
+  "displayGuess": "CatHat (CrazyCatMagenta)",
+  "combinationAsset": "CatHat_Hat_CrazyCatMagenta_Combination.asset",
+  "combinationGuid": "VeZQlPI72E6e57IQqAOq6w",
+  "combinationGuidDashed": "9450e655-3bf2-4ed8-9ee7-b210a803aaeb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

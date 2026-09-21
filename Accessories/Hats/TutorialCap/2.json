@@ -1,0 +1,11 @@
+{
+  "family": "TutorialCap",
+  "slot": "Hat",
+  "variant": "2",
+  "displayGuess": "TutorialCap (2)",
+  "combinationAsset": "TutorialCap_Hat_2_Combination.asset",
+  "combinationGuid": "gDH1WmW5rk2RdY4wJYYZow,GV8z2dlqGEqIAYaGrF1ZYQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "TutorialCap",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "TutorialCap (Purple)",
+  "combinationAsset": "TutorialCap_Hat_Purple_Combination.asset",
+  "combinationGuid": "U2ZbHn8WJEySUXVpzAY6ig,GV8z2dlqGEqIAYaGrF1ZYQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

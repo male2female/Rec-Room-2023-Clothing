@@ -1,0 +1,11 @@
+{
+  "family": "Umbrella",
+  "slot": "Hat",
+  "variant": "AntiqueMachine",
+  "displayGuess": "Umbrella (AntiqueMachine)",
+  "combinationAsset": "Umbrella_Hat_AntiqueMachine_Combination.asset",
+  "combinationGuid": "Ii2WNQxqtUeoIfGItUkVbQ",
+  "combinationGuidDashed": "35962d22-6a0c-47b5-a821-f188b549156d",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

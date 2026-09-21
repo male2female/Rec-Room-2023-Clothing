@@ -1,0 +1,11 @@
+{
+  "family": "AstronautGlove",
+  "slot": "Wrist",
+  "variant": "Orange",
+  "displayGuess": "AstronautGlove (Orange)",
+  "combinationAsset": "AstronautGlove_Wrist_Orange_Combination.asset",
+  "combinationGuid": "y_gTbnuYS0GKJmnCs2retw,hjk9OO8CW0KNGR7A6_p84A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

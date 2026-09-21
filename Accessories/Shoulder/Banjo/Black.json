@@ -1,0 +1,11 @@
+{
+  "family": "Banjo",
+  "slot": "Shoulder",
+  "variant": "Black",
+  "displayGuess": "Banjo (Black)",
+  "combinationAsset": "Banjo_Shoulder_Black_Combination.asset",
+  "combinationGuid": "7ykIpgU8Tkmmq_zzpjTVrg",
+  "combinationGuidDashed": "a60829ef-3c05-494e-a6ab-fcf3a634d5ae",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "FirefighterHelmet",
+  "slot": "Hat",
+  "variant": "Black",
+  "displayGuess": "FirefighterHelmet (Black)",
+  "combinationAsset": "FirefighterHelmet_Hat_Black_Combination.asset",
+  "combinationGuid": "uahcQNh3IEiooPFq-SQi5w,c8ccb85e-52cd-4b3b-aadf-289819067125,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

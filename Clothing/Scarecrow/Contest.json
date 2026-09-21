@@ -1,0 +1,11 @@
+{
+  "family": "Scarecrow",
+  "slot": "Shirt",
+  "variant": "Contest",
+  "displayGuess": "Scarecrow (Contest)",
+  "combinationAsset": "Scarecrow_Shirt_Contest_Combination.asset",
+  "combinationGuid": "S0AKRB_m2k-I7snHnUigtw,uTkbswCedUGyuZcaX0W6Ww,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

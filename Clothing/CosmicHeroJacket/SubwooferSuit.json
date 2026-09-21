@@ -1,0 +1,11 @@
+{
+  "family": "CosmicHeroJacket",
+  "slot": "Shirt",
+  "variant": "SubwooferSuit",
+  "displayGuess": "CosmicHeroJacket (SubwooferSuit)",
+  "combinationAsset": "CosmicHeroJacket_Shirt_SubwooferSuit_Combination.asset",
+  "combinationGuid": "GpYghupLTUK9cuiL-0uHYg",
+  "combinationGuidDashed": "8620961a-4bea-424d-bd72-e88bfb4b8762",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

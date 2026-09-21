@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroWrist",
+  "slot": "Wrist",
+  "variant": "Pink",
+  "displayGuess": "SuperheroWrist (Pink)",
+  "combinationAsset": "SuperheroWrist_Wrist_Pink_Combination.asset",
+  "combinationGuid": "VmHQJIt7HkO4INJEXCBbNA",
+  "combinationGuidDashed": "24d06156-7b8b-431e-b820-d2445c205b34",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

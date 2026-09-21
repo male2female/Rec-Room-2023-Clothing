@@ -1,0 +1,11 @@
+{
+  "family": "Winter",
+  "slot": "Hat",
+  "variant": "Reindeer",
+  "displayGuess": "Winter (Reindeer)",
+  "combinationAsset": "Winter_Hat_Reindeer_Combination.asset",
+  "combinationGuid": "w7ybaJQVo0WCZFDPCJAtWw",
+  "combinationGuidDashed": "689bbcc3-1594-45a3-8264-50cf08902d5b",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

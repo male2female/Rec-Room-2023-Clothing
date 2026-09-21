@@ -1,0 +1,11 @@
+{
+  "family": "HockeySet",
+  "slot": "Shirt",
+  "variant": "Goblin",
+  "displayGuess": "HockeySet (Goblin)",
+  "combinationAsset": "HockeySet_Shirt_Goblin_Combination.asset",
+  "combinationGuid": "c3Su0qnh-UK-ymcGaUy4Uw",
+  "combinationGuidDashed": "d2ae7473-e1a9-42f9-beca-6706694cb853",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

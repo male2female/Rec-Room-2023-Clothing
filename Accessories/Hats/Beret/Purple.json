@@ -1,0 +1,11 @@
+{
+  "family": "Beret",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "Beret (Purple)",
+  "combinationAsset": "Beret_Hat_Purple_Combination.asset",
+  "combinationGuid": "WeP_tPjUNUuGojXrVBOAIA,FWL8ZeMe9EerdB0_Fya3AA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

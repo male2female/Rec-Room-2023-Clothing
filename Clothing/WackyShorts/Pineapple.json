@@ -1,0 +1,11 @@
+{
+  "family": "WackyShorts",
+  "slot": "Shirt",
+  "variant": "Pineapple",
+  "displayGuess": "WackyShorts (Pineapple)",
+  "combinationAsset": "WackyShorts_Shirt_Pineapple_Combination.asset",
+  "combinationGuid": "sJioq5ARDUyMHFji_6OxFw,bjXO36Nu6EWD2dU1UC4Uwg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

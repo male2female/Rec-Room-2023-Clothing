@@ -1,0 +1,11 @@
+{
+  "family": "Hibiscus",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "Hibiscus (White)",
+  "combinationAsset": "Hibiscus_Hat_White_Combination.asset",
+  "combinationGuid": "ce465d53-3807-423f-baa0-bdba2a75ceb3,65b89eae-347e-4eff-9ff3-7f25cace0125,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

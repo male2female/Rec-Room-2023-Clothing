@@ -1,0 +1,11 @@
+{
+  "family": "DrumMajor",
+  "slot": "Wrist",
+  "variant": "Orange",
+  "displayGuess": "DrumMajor (Orange)",
+  "combinationAsset": "DrumMajor_Wrist_Orange_Combination.asset",
+  "combinationGuid": "b444ed0a-eab5-4bd6-af34-d080de74a149,6b38ab79-142b-446e-978c-ad829ade8823,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

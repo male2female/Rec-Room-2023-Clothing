@@ -1,0 +1,11 @@
+{
+  "family": "ThunderGuyGlove",
+  "slot": "Wrist",
+  "variant": "Red",
+  "displayGuess": "ThunderGuyGlove (Red)",
+  "combinationAsset": "ThunderGuyGlove_Wrist_Red_Combination.asset",
+  "combinationGuid": "8NY4MevLp0C2lP178fIZ9w",
+  "combinationGuidDashed": "3138d6f0-cbeb-40a7-b694-fd7bf1f219f7",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

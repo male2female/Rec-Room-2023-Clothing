@@ -1,0 +1,11 @@
+{
+  "family": "Prankster",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "Prankster (Green)",
+  "combinationAsset": "Prankster_Shirt_Green_Combination.asset",
+  "combinationGuid": "ZM6W70pGt0aAPLYf4DykeA,icHpJch4uUeGdhoLkawyyg,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

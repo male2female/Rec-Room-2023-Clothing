@@ -1,0 +1,11 @@
+{
+  "family": "WorkoutTee",
+  "slot": "Shirt",
+  "variant": "Jazz",
+  "displayGuess": "WorkoutTee (Jazz)",
+  "combinationAsset": "WorkoutTee_Shirt_Jazz_Combination.asset",
+  "combinationGuid": "tkHJl8TQHEiSeD-seDV4jg",
+  "combinationGuidDashed": "97c941b6-d0c4-481c-9278-3fac7835788e",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

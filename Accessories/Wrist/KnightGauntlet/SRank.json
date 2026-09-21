@@ -1,0 +1,11 @@
+{
+  "family": "KnightGauntlet",
+  "slot": "Wrist",
+  "variant": "SRank",
+  "displayGuess": "KnightGauntlet (SRank)",
+  "combinationAsset": "KnightGauntlet_Wrist_SRank_Combination.asset",
+  "combinationGuid": "ITH2OpzjP022vZ5JgxV_iQ,fd67ec40-f898-4df6-b846-8bf350f362b8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

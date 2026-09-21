@@ -1,0 +1,11 @@
+{
+  "family": "QuiltedCoat",
+  "slot": "Shirt",
+  "variant": "Plum",
+  "displayGuess": "QuiltedCoat (Plum)",
+  "combinationAsset": "QuiltedCoat_Shirt_Plum_Combination.asset",
+  "combinationGuid": "IjRMopsYlUqSE6327I9TIQ,ACrBLiAIgEur9V6l_B0CvA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

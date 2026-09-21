@@ -1,0 +1,11 @@
+{
+  "family": "JacketDress",
+  "slot": "Shirt",
+  "variant": "Blue",
+  "displayGuess": "JacketDress (Blue)",
+  "combinationAsset": "JacketDress_Shirt_Blue_Combination.asset",
+  "combinationGuid": "y5O8zRJy4kuhnXzATSWKew,X0_GvGrZGkSP9Ub81CHgqQ,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

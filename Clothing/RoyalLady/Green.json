@@ -1,0 +1,11 @@
+{
+  "family": "RoyalLady",
+  "slot": "Shirt",
+  "variant": "Green",
+  "displayGuess": "RoyalLady (Green)",
+  "combinationAsset": "RoyalLady_Shirt_Green_Combination.asset",
+  "combinationGuid": "t1MeoroFOUioYmPfT9mCeA,PoMG28QAskagun1LSd4C_A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

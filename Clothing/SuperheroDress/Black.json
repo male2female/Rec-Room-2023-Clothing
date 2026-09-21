@@ -1,0 +1,11 @@
+{
+  "family": "SuperheroDress",
+  "slot": "Shirt",
+  "variant": "Black",
+  "displayGuess": "SuperheroDress (Black)",
+  "combinationAsset": "SuperheroDress_Shirt_Black_Combination.asset",
+  "combinationGuid": "bhYZTPD1nEaEercLIZRucw",
+  "combinationGuidDashed": "4c19166e-f5f0-469c-847a-b70b21946e73",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

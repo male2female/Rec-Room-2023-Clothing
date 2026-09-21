@@ -1,0 +1,11 @@
+{
+  "family": "Blazer",
+  "slot": "Shirt",
+  "variant": "CandyCane",
+  "displayGuess": "Blazer (CandyCane)",
+  "combinationAsset": "Blazer_Shirt_CandyCane_Combination.asset",
+  "combinationGuid": "_ycDQ6RcyEGAntVlSDpPeA,6UBZuZQBG0eZtNmty2IGdA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

@@ -1,0 +1,11 @@
+{
+  "family": "NFL",
+  "slot": "Shirt",
+  "variant": "MiamiDolphins",
+  "displayGuess": "NFL (MiamiDolphins)",
+  "combinationAsset": "NFL_Shirt_MiamiDolphins_Combination.asset",
+  "combinationGuid": "g6PcjAOH0UinJtrGmxVuyw",
+  "combinationGuidDashed": "8cdca383-8703-48d1-a726-dac69b156ecb",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

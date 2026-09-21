@@ -1,0 +1,11 @@
+{
+  "family": "FranticRabbit",
+  "slot": "Wrist",
+  "variant": "Yellow",
+  "displayGuess": "FranticRabbit (Yellow)",
+  "combinationAsset": "FranticRabbit_Wrist_Yellow_Combination.asset",
+  "combinationGuid": "Adiw7dQqyk6pS0q3T0lcSg",
+  "combinationGuidDashed": "edb0d801-2ad4-4eca-a94b-4ab74f495c4a",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

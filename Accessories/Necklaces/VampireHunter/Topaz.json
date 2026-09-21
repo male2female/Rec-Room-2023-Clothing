@@ -1,0 +1,11 @@
+{
+  "family": "VampireHunter",
+  "slot": "Neck",
+  "variant": "Topaz",
+  "displayGuess": "VampireHunter (Topaz)",
+  "combinationAsset": "VampireHunter_Neck_Topaz_Combination.asset",
+  "combinationGuid": "F7luQ18ZXEaITFiCqqwkpg,StxMBEprVkqMa_IoDG-Q9A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

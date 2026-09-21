@@ -1,0 +1,11 @@
+{
+  "family": "PirateCaptain",
+  "slot": "Belt",
+  "variant": "Black",
+  "displayGuess": "PirateCaptain (Black)",
+  "combinationAsset": "PirateCaptain_Belt_Black_Combination.asset",
+  "combinationGuid": "f4ad4b9e-dd42-4711-9437-5beae51966f6,9b2102f0-e16b-464f-9f1c-f068de52bb89,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

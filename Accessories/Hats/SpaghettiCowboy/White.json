@@ -1,0 +1,11 @@
+{
+  "family": "SpaghettiCowboy",
+  "slot": "Hat",
+  "variant": "White",
+  "displayGuess": "SpaghettiCowboy (White)",
+  "combinationAsset": "SpaghettiCowboy_Hat_White_Combination.asset",
+  "combinationGuid": "jXRXO3CVE0-H_iaxbMhFhA,VZyHWGKNJEGSxDT2GO3ebA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

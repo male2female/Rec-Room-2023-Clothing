@@ -1,0 +1,11 @@
+{
+  "family": "ClothHeaddress",
+  "slot": null,
+  "variant": "Black",
+  "displayGuess": "ClothHeaddress (Black)",
+  "combinationAsset": "ClothHeaddress_Black_Combination.asset",
+  "combinationGuid": "gLCis5TFxEyRvvZ0PZq_Jw",
+  "combinationGuidDashed": "b3a2b080-c594-4cc4-91be-f6743d9abf27",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

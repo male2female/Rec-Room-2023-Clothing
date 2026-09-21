@@ -1,0 +1,11 @@
+{
+  "family": "CollarShirt",
+  "slot": "Shirt",
+  "variant": "PlaidRed",
+  "displayGuess": "CollarShirt (PlaidRed)",
+  "combinationAsset": "CollarShirt_Shirt_PlaidRed_Combination.asset",
+  "combinationGuid": "ojvIFCTpJkeegestF065wA,10fYSIBytk-yUjveDa407w,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

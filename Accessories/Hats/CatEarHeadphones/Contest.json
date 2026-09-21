@@ -1,0 +1,11 @@
+{
+  "family": "CatEarHeadphones",
+  "slot": "Hat",
+  "variant": "Contest",
+  "displayGuess": "CatEarHeadphones (Contest)",
+  "combinationAsset": "CatEarHeadphones_Hat_Contest_Combination.asset",
+  "combinationGuid": "8br3f77_CEiE2Oetiof1Pw",
+  "combinationGuidDashed": "7ff7baf1-ffbe-4808-84d8-e7ad8a87f53f",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

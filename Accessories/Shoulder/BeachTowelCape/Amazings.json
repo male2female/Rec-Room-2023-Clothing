@@ -1,0 +1,11 @@
+{
+  "family": "BeachTowelCape",
+  "slot": "Shoulder",
+  "variant": "Amazings",
+  "displayGuess": "BeachTowelCape (Amazings)",
+  "combinationAsset": "BeachTowelCape_Shoulder_Amazings_Combination.asset",
+  "combinationGuid": "Hae8Pfe8mEWeF8mL9hC9dw,Vat8nL4ZBEK9mLABJiXS6A,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

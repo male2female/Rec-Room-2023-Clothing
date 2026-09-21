@@ -1,0 +1,11 @@
+{
+  "family": "LacrosseHelmet",
+  "slot": "Hat",
+  "variant": "Purple",
+  "displayGuess": "LacrosseHelmet (Purple)",
+  "combinationAsset": "LacrosseHelmet_Hat_Purple_Combination.asset",
+  "combinationGuid": "e3454bc7-c88d-4958-8b81-db3fe5472a1e,7e688b30-ed13-4790-9ad8-c49885d1b7e8,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

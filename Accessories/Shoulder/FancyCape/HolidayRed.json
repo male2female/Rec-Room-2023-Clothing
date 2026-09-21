@@ -1,0 +1,11 @@
+{
+  "family": "FancyCape",
+  "slot": "Shoulder",
+  "variant": "HolidayRed",
+  "displayGuess": "FancyCape (HolidayRed)",
+  "combinationAsset": "FancyCape_Shoulder_HolidayRed_Combination.asset",
+  "combinationGuid": "WqX8pAB7LkyPKEzIUCtnNg,8Y2F-cVStkSn9YB47VCoKA,",
+  "combinationGuidDashed": null,
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}

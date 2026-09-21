@@ -1,0 +1,11 @@
+{
+  "family": "LaurelCrown",
+  "slot": null,
+  "variant": "MidnightGala",
+  "displayGuess": "LaurelCrown (MidnightGala)",
+  "combinationAsset": "LaurelCrown_MidnightGala_Combination.asset",
+  "combinationGuid": "p5TStfnDXk-EY7k6UdHxnA",
+  "combinationGuidDashed": "b5d294a7-c3f9-4f5e-8463-b93a51d1f19c",
+  "avatarItemDesc": null,
+  "_note": "combination GUID extracted from 2023 build bundle"
+}
